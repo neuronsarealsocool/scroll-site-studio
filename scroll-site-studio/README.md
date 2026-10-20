@@ -1,0 +1,84 @@
+# Scroll Site Studio 0.1.0
+
+A portable skill and template library for Codex or Claude Code. Built from the
+Alder & Form workflow, with complete Scroll World, Scroll Craft and Replicate Media
+instruction sets bundled locally. The original site's photos, paid footage, source,
+hosting identity, database, enquiries and credentials are not included.
+
+## Install
+
+Extract the archive and open a terminal in this folder, using Python 3.10+:
+
+```text
+python scripts/install.py --agent codex
+python scripts/install.py --agent claude
+```
+
+Choose your agent; both are not required. The installer copies this whole folder to
+`~/.codex/skills/scroll-site-studio` (respects CODEX_HOME) or
+`~/.claude/skills/scroll-site-studio`. Add `--project /path/to/project` to target
+project-local `.agents/skills` or `.claude/skills`. Existing installs are never
+overwritten; explicitly move an old copy to a backup before updating. Manual copying
+also works.
+
+Codex: use `$scroll-site-studio` on the next turn. Claude Code: invoke
+`/scroll-site-studio` or ask it to read this folder's SKILL.md. Plain Claude chat
+without file/terminal/browser access cannot execute the workflow by itself.
+
+## Dependencies
+
+```text
+python scripts/doctor.py
+python scripts/setup.py --plan
+python scripts/setup.py --install ffmpeg
+```
+
+FFmpeg and ffprobe are installed as a pair through WinGet, Homebrew, apt, dnf or
+pacman when available. The package includes setup helpers, not OS-specific binaries.
+Windows Gyan builds are GPLv3; copying their executables into a public release also
+requires satisfying corresponding distribution/source obligations. This package
+leaves that distribution with the package-manager provider. See THIRD_PARTY.md.
+Python/Node runtimes are not embedded. Setup prints commands when a manager is
+missing; it does not execute downloaded shell scripts or accept license prompts.
+
+The vanilla starters need no Node packages. Scroll Craft needs Node 18+; its optional
+browser harness additionally needs Chrome and playwright-core in the **build project**.
+The agent's supported browser tools can instead perform acceptance checks. No paid
+generation runs during installation or testing. Accounts/keys are needed only when
+generating or publishing through the chosen service.
+
+## Start
+
+```text
+python scripts/catalog.py list
+python scripts/catalog.py init bounded-walkthrough --dest ../my-scroll-site
+python scripts/serve.py --root ../my-scroll-site --port 4500
+```
+
+Open http://127.0.0.1:4500. The starter is a local static layout with an original
+SVG placeholder and motion disabled until clips are supplied. To qualify mechanics
+without spending credits, generate an offline technical demo:
+
+```text
+python scripts/media.py demo ../my-scroll-site
+```
+
+It creates synthetic moving test patterns, matched posters, native landscape/portrait
+files and enables the film. These are not architectural renders. It refuses existing
+film assets and requires the bundled starter. It never calls a generation provider.
+
+## Maintain and share
+
+catalog.json indexes two starters and source references. See references/maintaining.md
+for adding entries. The validator checks manifests, relative references, licensing,
+hashes and accidental private state. release.py creates a ZIP plus SHA-256 after
+validation and never uploads. Keep runtime files in site projects, not this skill.
+
+Example prompt:
+
+> Use Scroll Site Studio to build a studio website. Keep a walkthrough in the hero,
+> use separate portrait footage, propose the camera route first, and let me approve
+> videos before publication. My media budget is US$10.
+
+Templates are starting points. They do not make every backend or business workflow
+production-ready. Publishing uses the recipient's own chosen host and credentials.

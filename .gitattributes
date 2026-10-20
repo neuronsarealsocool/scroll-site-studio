@@ -1,0 +1,2 @@
+# Preserve exact vendored bytes and release integrity hashes across platforms.
+* -text

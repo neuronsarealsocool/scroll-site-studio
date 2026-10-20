@@ -1,0 +1,4 @@
+interface:
+  display_name: "Replicate Images & Videos"
+  short_description: "Create images and videos using Replicate models"
+  default_prompt: "Use $replicate-media to create media on Replicate from my brief, choose a suitable model, and save the result."

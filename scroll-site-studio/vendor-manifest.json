@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "packaged_date": "2026-10-20",
+  "components": [
+    {
+      "id": "scroll-world",
+      "path": "vendor/scroll-world",
+      "upstream": "https://github.com/oso95/scroll-world",
+      "upstream_commit": "71cc36d3bb150248ae36a2c552f9cbf88802a79c",
+      "snapshot_note": "Locally installed snapshot; content hashes pin files. Personal example paths normalized in scroll-world pipeline.md. No claim of a recorded upstream commit for scroll-craft.",
+      "license": "MIT",
+      "files": {
+        "LICENSE": "c4b96a7a050b85026eb68ac5b5fee2778384b14371aaeac50891dbadd848d309",
+        "references/hero-integration.md": "8648b88f22da6705c5f185c74d86927255cfd42efefa354245fcbb4633fb909c",
+        "references/index-template.html": "b59814abbe21bff1f39321eb53f9c9cd8ddf9d6a16fc861558647bf30213e3c0",
+        "references/knockout.py": "c06bfc916592ba4f3dfd3e37070b20529298707ca3f94c9dcc51d508222e7792",
+        "references/pipeline.md": "db9f63edacaaa34ab3f02a15098d19bd6f7ffa5245cfad36632bdf5e752ee975",
+        "references/prompts.md": "91b2ef391bf0e4125a77596cb78f5d8c694112ba3a1ae84fb55c5a39eaaef2c7",
+        "references/scrub-engine.js": "630bb1ab6101e5ed54eb1a24ab0be3f29e3744a95e156835b89541ea7c04752b",
+        "scripts/replicate_preflight.py": "d2f5631fc63481e7bb646f8337ed988e24f19feb8fce886c3e9a6fe1e18e64fd",
+        "SKILL.md": "62f61ffc866695d00f3ada99c4cdc2784396a2e4f07114c5075830dedc48cd30"
+      }
+    },
+    {
+      "id": "scroll-craft",
+      "path": "vendor/scroll-craft",
+      "upstream": "https://github.com/nateherkai/scroll-craft",
+      "upstream_commit": null,
+      "snapshot_note": "Locally installed snapshot; content hashes pin files. Personal example paths normalized in scroll-world pipeline.md. No claim of a recorded upstream commit for scroll-craft.",
+      "license": "MIT",
+      "files": {
+        "CHANGELOG.md": "1be4ff92fc5076895b071f39c067cafe1c5063c40d6890cfd3d20b23b64fc68b",
+        "engine/scrollcraft.css": "e19eb3aa73b0944626ca56e6e427c76f44753481e04d60f4bac20e8cf1d7758a",
+        "engine/scrollcraft.js": "4a419b3ede51f64790af7b56c0195ea01c98a84df8e0e768ebf343956b922f39",
+        "LICENSE": "dd471a27eca72488a53e6ea6fbe9392d81aa3f01e950e63fe328affb2ddfa6e3",
+        "references/approved-collection.md": "8a963a46af4c6ed40656fb5b21589629ee3ce30aa06a8b31c10bc132b74f2780",
+        "references/assets.md": "0cc3871ad903ccaf3bf769cf3a05a54a9326ed558ac3e45e57f19043ce70efa6",
+        "references/device-diag.html": "8ec61db711e3f74ec38a81f418a051a88d9574240f5bbde4716ed9f053775e59",
+        "references/devices.md": "e5ae5a4f2924fc1b13177bf0b0ac10f04e686edd916dc33755ed1420a6a478f5",
+        "references/feel.md": "3951f1f0331f329dab14e8766edeecb6ce8e05437ea8986c48a074726bef41a0",
+        "references/hero-depth.md": "2426fb9703d4398b1e3b666b2db7f4b68e7cd41112da77700a7d63f2965dd726",
+        "references/taste.md": "f33c581024f466ab98612ae291aa46ccbc326875f8fa0918a3f45455a2c60e80",
+        "references/template.html": "4be3e8d772cf063ea5d1e695d6c39443920b2ff0e8491656013bebb87d098096",
+        "references/uniqueness.md": "0fd65a43624da868ca2027946bd4ce152605d6ea856eeae93b35721714c8b20e",
+        "references/verify.md": "de645d648f738f3e19452083eadcc649cb8477058b6ad79ab4fa29198406150a",
+        "references/worldflight.md": "451fead8f90604423b113cd0b0d3bfb6be1f7ca7a7b5ab9e2688ea3da762af4c",
+        "references/worlds.md": "dea3e4cc20c7245f87638a6d88eb2e3fc22a69dabc9f75f001dd97a3121077bd",
+        "scripts/doctor.mjs": "92aade1921c12cce3ebc27e3c0f727d1bfaf1e0678deb7bd930a93248dbb37d9",
+        "scripts/encode.sh": "01eedead388130fdce1052f4ed2e99a7420d4fffcde8621587c840b40a325d79",
+        "scripts/kie.mjs": "6d4a1d4cfb3ed6400cd9a453064b2949d72581f03ba56abe2038be4c78ebc136",
+        "scripts/serve.mjs": "3dff774c47f1ebecb22f6bb2618d1ec13c99f21a92ce53e984ed0ae525c3327e",
+        "scripts/shoot.mjs": "963b1f2f0425783979b41ce0fcd2c668d47376735612816a83ca8142bb225be0",
+        "scripts/workspace.mjs": "98896557c62c12452d2258c26e7984b0f0d69d87938650fa20705ba1b0ba193b",
+        "scripts/worldflight-assert.mjs": "6932652d313a5e72d9d023f74eaa4dd893752ad7db33d010d586a56f929c8449",
+        "SKILL.md": "6e798bb51c3dcbe4f35f098dcdd3cdd20d08e538a33993bcae909c9fd0a500a1",
+        "templates/FINGERPRINTS.md": "8c1597e6b068bfa77086f847cf90b9e2ebeba3ec42f1e6cc522e222e2700da16"
+      }
+    },
+    {
+      "id": "replicate-media",
+      "path": "vendor/replicate-media",
+      "upstream": "local-authored-workflow",
+      "upstream_commit": null,
+      "snapshot_note": "Locally installed snapshot; content hashes pin files. Personal example paths normalized in scroll-world pipeline.md. No claim of a recorded upstream commit for scroll-craft.",
+      "license": "MIT",
+      "files": {
+        "agents/openai.yaml": "cd27eb18643128d4b28d97dd5b1fc196c1776afc006599e8a6eb5f2e99af98ce",
+        "LICENSE": "6122027fedfbdde9f47a50b0e57a25fc24aea8b398e9b1014ea187f227a9ba41",
+        "SKILL.md": "6eb5a76bb1e26ca42aeccdc6ffd9415fe2e7a3b4b5d0a60555de497492caf22c"
+      }
+    }
+  ]
+}

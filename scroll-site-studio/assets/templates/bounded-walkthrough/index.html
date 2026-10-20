@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="A cinematic studio website starter. Replace sample identity, copy and media before publishing.">
+  <title>Field Studio — A scroll website starter</title>
+  <link rel="stylesheet" href="assets/site.css">
+</head>
+<body>
+  <a class="skip" href="#introduction">Skip the film</a>
+  <header class="header"><a class="brand" href="#top">Field Studio<span>Architecture & place</span></a><nav aria-label="Main navigation"><a href="#work">Work</a><a href="#approach">Approach</a><a href="#contact">Contact</a></nav></header>
+  <main id="top">
+    <section class="home-hero" data-template="bounded-walkthrough" data-media-ready="false" aria-label="Studio introduction">
+      <div class="hero-stage">
+        <img class="hero-photo" src="assets/placeholder.svg" alt="Original schematic illustration of a low pavilion in a landscape">
+        <div class="flight-media" aria-hidden="true">
+          <div class="flight-scene"><picture><source media="(orientation: portrait)" data-srcset="assets/film/mobile-arrival-first.jpg"><img data-src="assets/film/arrival-first.jpg" alt=""></picture><video muted playsinline preload="none" data-flight-src="assets/film/arrival.mp4" data-flight-mobile-src="assets/film/mobile-arrival.mp4"></video></div>
+          <div class="flight-scene"><picture><source media="(orientation: portrait)" data-srcset="assets/film/mobile-threshold-first.jpg"><img data-src="assets/film/threshold-first.jpg" alt=""></picture><video muted playsinline preload="none" data-flight-src="assets/film/threshold.mp4" data-flight-mobile-src="assets/film/mobile-threshold.mp4"></video></div>
+          <picture class="flight-tail"><source media="(orientation: portrait)" data-srcset="assets/film/mobile-threshold-last.jpg"><img data-src="assets/film/threshold-last.jpg" alt=""></picture>
+        </div>
+        <div class="hero-shade"></div>
+        <div class="hero-content"><p class="eyebrow">Architecture, considered</p><h1>Room for<br><em>everyday life.</em></h1><div class="hero-bottom"><p>A place to arrive.<br>A different way to live.</p><a href="#work">Discover our work ↗</a></div></div>
+        <a class="hero-scroll" href="#introduction">Discover the studio ↓</a><p class="hero-reference">Static starter · Add your footage</p>
+      </div>
+    </section>
+    <section class="intro section" id="introduction"><p class="eyebrow">A considered way of living</p><div><h2>Begin with the place.<br>Make room for people.</h2><p>We work from the qualities of a place: its light, landscape and daily rhythms. This is sample studio copy for a reusable layout. Replace it with a real story and the services you provide.</p></div></section>
+    <section class="section work" id="work"><div class="section-title"><p class="eyebrow">Selected studies</p><h2>A quieter point of view.</h2></div><div class="project-grid"><article><div class="study-image landscape" aria-label="Illustrative landscape placeholder"><span>01 / Landscape study</span></div><h3>A sheltered threshold</h3><p>Replace with a real project and licensed imagery.</p></article><article><div class="study-image material" aria-label="Illustrative material placeholder"><span>02 / Material study</span></div><h3>Warmth in the details</h3><p>Make the work specific to the people behind it.</p></article></div></section>
+    <section class="section approach" id="approach"><p class="eyebrow">From the first idea</p><h2>A clear process.<br>A shared journey.</h2><div class="process"><article><h3>Listen closely.</h3><p>Begin with a conversation about place, people and priorities.</p></article><article><h3>Test the idea.</h3><p>Explore spatial possibilities before committing to detail.</p></article><article><h3>Make it useful.</h3><p>Build something that works for the life it needs to support.</p></article></div></section>
+    <section class="section contact" id="contact"><p class="eyebrow">A place to begin</p><h2>What are you<br><em>imagining?</em></h2><p>Starter template: add your real enquiry link or connected form here.</p><a href="#top">Return to the beginning ↑</a></section>
+  </main>
+  <footer><p class="brand">Field Studio</p><p>Reusable concept template. Sample identity and copy.</p><a href="#top">Back to top ↑</a></footer>
+  <script type="module">import { mountHeroFlight } from './assets/flight.js'; const root=document.querySelector('.home-hero'); if(root.dataset.mediaReady==='true') mountHeroFlight(root);</script>
+</body>
+</html>

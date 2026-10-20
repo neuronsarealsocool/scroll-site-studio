@@ -1,0 +1,4 @@
+interface:
+  display_name: "Scroll Site Studio"
+  short_description: "Build cinematic scroll websites with reusable templates"
+  default_prompt: "Use $scroll-site-studio to build a responsive scroll-driven website with an agreed media budget."

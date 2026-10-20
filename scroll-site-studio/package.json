@@ -1,0 +1,7 @@
+{
+  "name": "scroll-site-studio",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Portable Codex and Claude scroll website skill and template library",
+  "license": "MIT"
+}

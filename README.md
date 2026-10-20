@@ -1,3 +1,9 @@
+---
+updated_at: 2026-10-20T20:19:58.285+11:00
+edited_seconds: 30
+created: 2026-10-20T17:48
+updated: 2026-10-20T20:19
+---
 # Scroll Site Studio
 
 A reusable skill for building cinematic, scroll-driven websites with **Codex or
@@ -70,9 +76,11 @@ explains updates, checksums and releases.
 
 Example request:
 
-> Use Scroll Site Studio to build my studio website. Propose the camera route first,
-> use separate portrait footage, and let me approve videos before publication. My
-> generation budget is US$10.
+```
+Use Scroll Site Studio to build my studio website. Propose the camera route first,
+use separate portrait footage, and let me approve videos before publication. My
+generation budget is US$10.
+```
 
 ## Validation and limits
 

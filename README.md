@@ -2,7 +2,7 @@
 updated_at: 2026-10-20T20:19:58.285+11:00
 edited_seconds: 30
 created: 2026-10-20T17:48
-updated: 2026-10-21T16:09
+updated: 2026-10-21T16:26
 ---
 # Scroll Site Studio
 
@@ -11,7 +11,7 @@ Claude Code**, and growing a library of templates and design references over tim
 
 ## Install
 
-Download and extract the [v0.2.1 release](https://github.com/neuronsarealsocool/scroll-site-studio/releases/tag/v0.2.1),
+Download and extract the [v0.2.2 release](https://github.com/neuronsarealsocool/scroll-site-studio/releases/tag/v0.2.2),
 then open a terminal inside the extracted `scroll-site-studio` folder. With Python 3.10+:
 
 ```text
@@ -109,3 +109,7 @@ independent of OpenAI, Anthropic, Replicate and the upstream skill authors.
 ## Reference packs
 
 Not every contribution needs to be a coded template. Detailed prompt documents, videos, images and example themes can be registered as linked source packs. [Frostwood](scroll-site-studio/references/packs/frostwood.md) is the first example; originals remain in their source Drive folder.
+
+## Source resilience
+
+The workflow now defaults to independent online backups for source-pack files rather than depending on original Drive links. Use an authorized private destination, preserve versions and verify restored checksums. The Frostwood pack has an owner-private GitHub snapshot; it is accessible only to authorized users and is separate from approval to publish media.

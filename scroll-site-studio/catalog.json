@@ -67,7 +67,14 @@
           "type": "assets-and-theme",
           "url": "https://drive.google.com/drive/folders/1mBrFljSMJCJvlsvYYhPqVB9xCA61chSt"
         }
-      ]
+      ],
+      "backup": {
+        "url": "https://github.com/neuronsarealsocool/scroll-site-studio-source-backups/tree/main/frostwood/2026-10-21",
+        "visibility": "private",
+        "snapshot_date": "2026-10-21",
+        "verification": "Downloaded from GitHub and verified all three file sizes and SHA-256 hashes",
+        "access_note": "Requires private repository authorization; other recipients need their own authorized copy."
+      }
     }
   ]
 }

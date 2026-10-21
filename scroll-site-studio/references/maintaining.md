@@ -10,12 +10,18 @@ Keep the entrypoint short. Guidance belongs in references, runnable starters in
 assets/templates, and discoverable entries in catalog.json. Add a template for a
 different structure/interaction, not every palette change.
 
+Default to independent online backups for source documents and assets, not reliance
+on the original Drive links. Follow source-backups.md for authorized private storage,
+immutable snapshots, manifests and restore verification. Keep backup access separate
+from permission to publish media. Record verified backup details in the pack catalog.
+
 A source pack need not be runnable code. A video, long prompt document, reference
 screenshots, original images and optional finished theme are enough. Register it in
 catalog.json reference_packs with a unique id, description, local index path and HTTPS
 source links. Put the short index under references/packs; preserve original prompt
 documents and assets outside the public repository when redistribution terms are
-unclear. The Frostwood entry demonstrates this structure. Do not force a WordPress
+unclear, using a separate private online backup as well as local files. The Frostwood
+entry demonstrates this structure. Do not force a WordPress
 theme through the HTML-only add-template importer.
 
 ```text

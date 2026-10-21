@@ -4,7 +4,8 @@ Choose the requested host. Preserve an existing project's identity and audience.
 Honour local-only/save-only work and the mandatory in-chat media approval gate.
 Before publishing any site, preview, media CDN, public source repository or release,
 check the approval record for every new media asset. Keep pending versions local
-and use placeholders while review is pending. Do not host review media to satisfy
+or in an authorized private backup, and use placeholders while review is pending.
+Private backup authorization does not approve public display. Do not host review media to satisfy
 a delivery/link helper. Previously approved unchanged live assets retain approval.
 Skill installation does not
 authorize publication. Use the host's current supported workflow and credentials.

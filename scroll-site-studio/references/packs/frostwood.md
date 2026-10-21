@@ -25,7 +25,14 @@ Inspect actual files first: the supplied image ZIP uses
 directory. Resolve that mapping explicitly instead of inventing paths. Screenshots
 guide composition; production imagery fills the actual site.
 
-Keep original downloads/local working copies outside public repositories. The theme
+Keep original downloads/local working copies outside public repositories. An
+[independent private backup](https://github.com/neuronsarealsocool/scroll-site-studio-source-backups/tree/main/frostwood/2026-10-21)
+contains the three source files with a size/SHA-256 manifest; a fresh GitHub restore
+was verified on 21 October 2026. Access requires authorization to that private repo;
+it is not a public fallback for every skill recipient. Use your own authorized
+backup when installing the skill elsewhere. Original Drive links remain recorded.
+
+The theme
 declares GPLv2-or-later; no separate media redistribution license was found in the
 image ZIP. This pack therefore links to originals. Obtain in-chat approval before
 newly selected media appears on any hosted site, preview or public repository.

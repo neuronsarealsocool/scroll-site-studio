@@ -1,4 +1,4 @@
-# Scroll Site Studio 0.2.1
+# Scroll Site Studio 0.2.2
 
 A portable high-end website skill and template library for Codex or Claude Code. Scroll effects are optional. Built from the
 Alder & Form workflow, with complete Scroll World, Scroll Craft and Replicate Media
@@ -97,3 +97,7 @@ production-ready. Publishing uses the recipient's own chosen host and credential
 ## Source packs
 
 The Frostwood pack links its video, detailed prompt document and original image/theme archives. It can guide close reproduction or a different design brief. Originals stay in their existing Drive location; the library provides an index and usage notes rather than republishing the source media. See references/packs/frostwood.md.
+
+## Independent backups
+
+Default to a verified independent online copy of source documents and assets, in a designated private repository/folder when public use is not approved. Preserve dated versions and checksum manifests, and verify by downloading the copies. Private backup does not approve public website use. See references/source-backups.md.

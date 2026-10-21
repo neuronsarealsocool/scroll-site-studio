@@ -1,5 +1,11 @@
 # Changes
 
+## 0.2.2 — 21 October 2026
+
+- Independent, verified online copies are now the default for source pack files.
+- Private backup is separate from public media approval and public skill releases.
+- Frostwood has a dated private GitHub backup with restore-verified checksums.
+
 ## 0.2.1 — 21 October 2026
 
 - Added the Frostwood prompt/document/asset sources as a linked reference pack.

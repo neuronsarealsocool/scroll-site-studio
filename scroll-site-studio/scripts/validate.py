@@ -30,6 +30,12 @@ def validate(check_hashes=True):
             if ref['id'] in seen: errors.append('Duplicate catalog id '+ref['id'])
             seen.add(ref['id'])
             if not ref['url'].startswith('https://'): errors.append('Reference must be HTTPS: '+ref['id'])
+        for pack in catalog.get('reference_packs',[]):
+            identifier(pack['id'])
+            if pack['id'] in seen: errors.append('Duplicate catalog id '+pack['id'])
+            seen.add(pack['id'])
+            if not inside(ROOT,pack['index']).is_file(): errors.append('Missing source pack index: '+pack['id'])
+            if not pack['sources'] or any(not source['url'].startswith('https://') for source in pack['sources']): errors.append('Invalid source pack links: '+pack['id'])
         for vendor in read_json(ROOT/'vendor-manifest.json')['components']:
             path=inside(ROOT,vendor['path'])
             if not (path/'SKILL.md').is_file() or not (path/'LICENSE').is_file(): errors.append('Incomplete vendor '+vendor['id'])

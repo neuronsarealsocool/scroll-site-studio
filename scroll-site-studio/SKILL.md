@@ -2,7 +2,7 @@
 name: scroll-site-studio
 description: Create or refine high-end responsive websites in Codex or Claude using supplied templates, prompts, assets and design references. Supports static, editorial, interactive and scroll-driven sites, exact reuse or adaptation, Replicate media generation, in-chat media approval and a growing template library.
 metadata:
-  version: 0.2.0
+  version: 0.2.1
 ---
 
 # Scroll Site Studio
@@ -73,6 +73,9 @@ publication. Read `references/media.md` for the review workflow.
    run only within an authorized setup task. No binaries, accounts or keys are hidden
    in this package. Node is needed for Scroll Craft, not the vanilla starter.
 3. Read `catalog.json`. Select a template by fit, not by whichever was last used.
+   `reference_packs` can instead supply a source document, example code and assets
+   hosted elsewhere. Read the pack's local index and original sources; a pack need
+   not be a ready-made HTML template. Keep originals local until approved for web use.
    `python scripts/catalog.py init <id> --dest <new-directory>` copies a complete
    standalone starter. It refuses an existing destination.
 4. For a live-site edit, open its source using the actual hosting workflow before

@@ -1,12 +1,73 @@
 {
   "schema_version": 1,
   "templates": [
-    {"id":"bounded-walkthrough","title":"Bounded camera walkthrough","description":"A scroll-scrubbed hero that releases into a studio homepage; paired portrait sources.","path":"assets/templates/bounded-walkthrough","license":"MIT; Scroll World runtime attribution included","status":"starter; static placeholder or offline technical demo"},
-    {"id":"editorial-layers","title":"Layered editorial","description":"A lightweight layered hero and alternating editorial sections, with no video or generation dependency.","path":"assets/templates/editorial-layers","license":"MIT","status":"starter; no connected backend"}
+    {
+      "id": "bounded-walkthrough",
+      "title": "Bounded camera walkthrough",
+      "description": "A scroll-scrubbed hero that releases into a studio homepage; paired portrait sources.",
+      "path": "assets/templates/bounded-walkthrough",
+      "license": "MIT; Scroll World runtime attribution included",
+      "status": "starter; static placeholder or offline technical demo"
+    },
+    {
+      "id": "editorial-layers",
+      "title": "Layered editorial",
+      "description": "A lightweight layered hero and alternating editorial sections, with no video or generation dependency.",
+      "path": "assets/templates/editorial-layers",
+      "license": "MIT",
+      "status": "starter; no connected backend"
+    }
   ],
   "references": [
-    {"id":"scroll-world-upstream","title":"Scroll World source","url":"https://github.com/oso95/scroll-world","notes":"Continuous camera flights, endpoint chaining and portable engine provenance.","redistribution":"link-only"},
-    {"id":"scroll-craft-upstream","title":"Scroll Craft source","url":"https://github.com/nateherkai/scroll-craft","notes":"Varied page structures, dimensional hero composition and verification workflow.","redistribution":"link-only"},
-    {"id":"alder-workflow","title":"Five-leg architectural workflow case study","url":"https://alder-and-form.neuronsarealsocool.chatgpt.site/","notes":"A live example, not bundled assets. Arrival, lounge, dining, kitchen, study; separate portrait chain. Concept imagery with detail differences between formats.","redistribution":"link-only"}
+    {
+      "id": "scroll-world-upstream",
+      "title": "Scroll World source",
+      "url": "https://github.com/oso95/scroll-world",
+      "notes": "Continuous camera flights, endpoint chaining and portable engine provenance.",
+      "redistribution": "link-only"
+    },
+    {
+      "id": "scroll-craft-upstream",
+      "title": "Scroll Craft source",
+      "url": "https://github.com/nateherkai/scroll-craft",
+      "notes": "Varied page structures, dimensional hero composition and verification workflow.",
+      "redistribution": "link-only"
+    },
+    {
+      "id": "alder-workflow",
+      "title": "Five-leg architectural workflow case study",
+      "url": "https://alder-and-form.neuronsarealsocool.chatgpt.site/",
+      "notes": "A live example, not bundled assets. Arrival, lounge, dining, kitchen, study; separate portrait chain. Concept imagery with detail differences between formats.",
+      "redistribution": "link-only"
+    }
+  ],
+  "reference_packs": [
+    {
+      "id": "frostwood",
+      "title": "Frostwood design and prompt pack",
+      "description": "Detailed prompts, visual references, production assets and a WordPress block-theme example.",
+      "index": "references/packs/frostwood.md",
+      "use_modes": [
+        "verbatim",
+        "adapted",
+        "hybrid"
+      ],
+      "distribution": "source-links-only",
+      "media_publication_approval": "required in chat for each new/selected asset",
+      "sources": [
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=EVd577396Es"
+        },
+        {
+          "type": "prompt-document",
+          "url": "https://docs.google.com/document/d/1O4uzOHqg5GcAvWlNR9Nz0pnvqK3jCOvU/edit"
+        },
+        {
+          "type": "assets-and-theme",
+          "url": "https://drive.google.com/drive/folders/1mBrFljSMJCJvlsvYYhPqVB9xCA61chSt"
+        }
+      ]
+    }
   ]
 }

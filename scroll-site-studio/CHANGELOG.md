@@ -1,5 +1,11 @@
 # Changes
 
+## 0.2.1 — 21 October 2026
+
+- Added the Frostwood prompt/document/asset sources as a linked reference pack.
+- Catalog distinguishes source packs from runnable HTML starter templates.
+- Originals remain externally hosted; no source media or full prompt document republished.
+
 ## 0.2.0 — 21 October 2026
 
 - Broadened to high-end websites; scroll effects and video are optional.

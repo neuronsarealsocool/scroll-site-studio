@@ -17,6 +17,7 @@ def main():
     a=p.parse_args(); data=read_json(ROOT/'catalog.json')
     if a.command=='list':
         for item in data['templates']: print(item['id']+' — '+item['description'])
+        for item in data.get('reference_packs',[]): print(item['id']+' [source pack] — '+item['description'])
         print('Design/source references:',len(data['references'])); return 0
     if a.command=='init':
         match=next((t for t in data['templates'] if t['id']==a.id),None)
@@ -27,7 +28,7 @@ def main():
         shutil.copytree(inside(ROOT,match['path']),dest)
         print('Created:',dest); return 0
     identifier(a.id)
-    if any(x['id']==a.id for x in data['templates']+data['references']): p.error('Catalog id already exists.')
+    if any(x['id']==a.id for x in data['templates']+data['references']+data.get('reference_packs',[])): p.error('Catalog id already exists.')
     if a.command=='add-reference':
         parsed=urlparse(a.url)
         if parsed.scheme!='https' or not parsed.hostname or parsed.username or parsed.password or parsed.query: p.error('Use a public HTTPS reference without credentials, tokens or query parameters.')

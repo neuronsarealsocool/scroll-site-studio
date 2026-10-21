@@ -1,0 +1,31 @@
+# Frostwood source pack
+
+An externally hosted example of detailed website direction. Read the source prompt
+document when using this pack verbatim; this short index does not replace its prompts.
+
+## Sources
+
+- [Video](https://www.youtube.com/watch?v=EVd577396Es)
+- [Prompt document](https://docs.google.com/document/d/1O4uzOHqg5GcAvWlNR9Nz0pnvqK3jCOvU/edit)
+- [Assets and theme](https://drive.google.com/drive/folders/1mBrFljSMJCJvlsvYYhPqVB9xCA61chSt)
+
+The document includes an initial standalone build prompt and a detailed redesign/
+WordPress delivery prompt. The ZIPs provide reference/production images and a
+finished WordPress block theme. Source themes/assets are not bundled here.
+
+## Use
+
+For close reproduction, preserve the selected original prompt and assets. For other
+brands, adapt its design-direction method: visual world, typography, whitespace,
+hero composition and colour roles. Do not impose winter imagery or WordPress on
+unrelated briefs. Select the platform and scope the user actually wants.
+
+Inspect actual files first: the supplied image ZIP uses
+`assets/reference/full reference.png`, while prompt text names a different reference
+directory. Resolve that mapping explicitly instead of inventing paths. Screenshots
+guide composition; production imagery fills the actual site.
+
+Keep original downloads/local working copies outside public repositories. The theme
+declares GPLv2-or-later; no separate media redistribution license was found in the
+image ZIP. This pack therefore links to originals. Obtain in-chat approval before
+newly selected media appears on any hosted site, preview or public repository.

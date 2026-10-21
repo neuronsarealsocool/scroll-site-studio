@@ -10,6 +10,14 @@ Keep the entrypoint short. Guidance belongs in references, runnable starters in
 assets/templates, and discoverable entries in catalog.json. Add a template for a
 different structure/interaction, not every palette change.
 
+A source pack need not be runnable code. A video, long prompt document, reference
+screenshots, original images and optional finished theme are enough. Register it in
+catalog.json reference_packs with a unique id, description, local index path and HTTPS
+source links. Put the short index under references/packs; preserve original prompt
+documents and assets outside the public repository when redistribution terms are
+unclear. The Frostwood entry demonstrates this structure. Do not force a WordPress
+theme through the HTML-only add-template importer.
+
 ```text
 python scripts/catalog.py add-template --id my-template --source /path/to/sanitized-site --title "My template" --description "When it fits" --license MIT
 python scripts/catalog.py add-reference --id useful-reference --url https://example.com --title "Useful reference" --notes "What to learn, not copy"

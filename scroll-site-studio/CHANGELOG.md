@@ -1,5 +1,14 @@
 # Changes
 
+## 0.2.0 — 21 October 2026
+
+- Broadened to high-end websites; scroll effects and video are optional.
+- Replicate is the default media provider with no automatic provider substitution.
+- All new/selected media requires explicit chat approval before any web publication.
+- Prompts, templates and assets support verbatim, adapted and hybrid reuse.
+- Static-site dependency checks no longer require FFmpeg/ffprobe or Node.
+- Compatibility skill name retained. Existing templates and paid media unchanged.
+
 ## 0.1.0 — 20 October 2026
 
 - Portable Codex/Claude entrypoint with supporting skill snapshots.

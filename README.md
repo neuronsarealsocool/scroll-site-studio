@@ -2,16 +2,16 @@
 updated_at: 2026-10-20T20:19:58.285+11:00
 edited_seconds: 30
 created: 2026-10-20T17:48
-updated: 2026-10-20T20:19
+updated: 2026-10-21T14:23
 ---
 # Scroll Site Studio
 
-A reusable skill for building cinematic, scroll-driven websites with **Codex or
-Claude Code**, and growing a library of templates and design references over time.
+A reusable skill for building high-end responsive websites with **Codex or
+Claude Code**, and growing a library of templates and design references over time. Scroll effects and video are optional.
 
 ## Install
 
-Download and extract the [v0.1.0 release](https://github.com/neuronsarealsocool/scroll-site-studio/releases/tag/v0.1.0),
+Download and extract the [v0.2.0 release](https://github.com/neuronsarealsocool/scroll-site-studio/releases/tag/v0.2.0),
 then open a terminal inside the extracted `scroll-site-studio` folder. With Python 3.10+:
 
 ```text
@@ -37,6 +37,16 @@ overwritten. Add `--project /path/to/project` for a project-local installation.
 Codex: invoke `$scroll-site-studio` on the next turn. Claude Code: invoke
 `/scroll-site-studio` or ask it to read the installed `SKILL.md`.
 
+## Design and media defaults
+
+- Build high-end websites with the interaction that suits the brief; scroll is optional.
+- Default to Replicate for generated media. Switch providers only when explicitly chosen.
+- Show new/selected media here in chat and get approval before putting it anywhere on
+  the web, including staging, CDNs and public repositories. Use local/chat previews
+  while approval is pending. Existing approved unchanged media retains approval.
+- Use prompts, templates and assets verbatim, as guidelines, or in a hybrid. Respect
+  the user's other ideas/references and record what must stay exact.
+
 ## What's included
 
 - A main workflow combining camera walkthroughs and varied editorial scroll design.
@@ -44,7 +54,7 @@ Codex: invoke `$scroll-site-studio` on the next turn. Claude Code: invoke
 - Two framework-free starters: a bounded walkthrough and a layered editorial page.
 - FFmpeg/ffprobe dependency checks, encoding helpers and an offline synthetic demo.
 - A template/reference catalog with import, validation and release tools.
-- Media budget, review-before-publication and mobile verification guidance.
+- Media budget, mandatory in-chat media approval and mobile verification guidance.
 
 FFmpeg executables, Python/Node runtimes, paid media, API keys and publishing accounts
 are not embedded. Setup helpers use the recipient's OS package manager. Sites is an
@@ -84,7 +94,7 @@ generation budget is US$10.
 
 ## Validation and limits
 
-Version 0.1.0 was tested on Windows for template creation, local media preparation,
+The original 0.1.0 starters were tested on Windows for template creation, local media preparation,
 installer targets, archive integrity and desktop/portrait browser behaviour. macOS,
 Linux, real-phone decoders and an end-to-end Claude Code run remain unverified.
 See [the validation record](scroll-site-studio/TESTED.md). Starter layouts do not

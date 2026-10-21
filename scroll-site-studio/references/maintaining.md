@@ -1,5 +1,11 @@
 # Grow the library
 
+This library covers high-end websites broadly; a template does not need scroll effects.
+Prompts, templates and assets support verbatim reuse, guided adaptation and hybrid use.
+Read creative-direction.md when recording locked/flexible elements and source versions.
+Keep new media local until explicitly approved in chat for publication; adding a source
+to a private working library is different from publishing it in a repository/release.
+
 Keep the entrypoint short. Guidance belongs in references, runnable starters in
 assets/templates, and discoverable entries in catalog.json. Add a template for a
 different structure/interaction, not every palette change.

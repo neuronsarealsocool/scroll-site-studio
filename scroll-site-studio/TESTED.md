@@ -1,4 +1,15 @@
-# Validation of 0.1.0
+# Validation record
+
+## 0.2.0 — 21 October 2026
+
+Updated workflow scope, default provider, mandatory chat media approval and exact/
+adapted/hybrid reuse. Static-site doctor mode makes video/Node dependencies optional;
+video and Scroll Craft modes retain the requirements relevant to them. Skill/package
+validation and offline integration checks cover the packaged changes. No new media
+was generated or published. These are agent instructions, not a technical lock on
+all possible publishing tools. Existing template browser checks below are from 0.1.0.
+
+## 0.1.0
 
 20 October 2026. Windows, Python 3.14.3, Node 24.14.1, FFmpeg/ffprobe 9.0.2.
 

@@ -1,5 +1,11 @@
 # Verification
 
+For every site inspect composition, typography, spacing, text contrast, responsive
+layout, keyboard access, navigation, useful controls and connected business outcomes.
+Check that exact/adapted reuse matches the brief and all new published media has
+explicit in-chat approval. Apply the video/scroll matrix below only when those
+features are present; do not add motion merely to satisfy these checks.
+
 Use an active tab; hidden previews can throttle animation frames. Inspect actual
 pixels as well as currentTime, dimensions, readyState and seeking. A seek event
 alone does not establish that a real video frame painted.

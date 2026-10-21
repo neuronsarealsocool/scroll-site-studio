@@ -9,9 +9,16 @@ import shutil
 import subprocess
 import tempfile
 import zipfile
+from unittest.mock import patch
 from common import ROOT, digest
 
 def main():
+    from doctor import report
+    with patch('doctor.binary',return_value=''), patch('doctor.shutil.which',return_value=None):
+        site=report('site'); video=report('video'); craft=report('scroll-craft')
+        assert all(row['ok'] for row in site['checks'] if row['required']), 'Static site must not require video/Node dependencies.'
+        assert not all(row['ok'] for row in video['checks'] if row['required']), 'Video mode must detect missing FFmpeg/ffprobe.'
+        assert any(row['required'] and not row['ok'] for row in craft['checks'] if 'node' in row['name']), 'Scroll Craft must detect missing Node.'
     env={**os.environ,'PYTHONDONTWRITEBYTECODE':'1'}
     with tempfile.TemporaryDirectory(prefix='scrollsite-test-') as tmp:
         temp=Path(tmp); skill=temp/'skill'

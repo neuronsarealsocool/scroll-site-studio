@@ -1,4 +1,4 @@
 interface:
   display_name: "Scroll Site Studio"
-  short_description: "Build cinematic scroll websites with reusable templates"
-  default_prompt: "Use $scroll-site-studio to build a responsive scroll-driven website with an agreed media budget."
+  short_description: "Build high-end websites from templates and references"
+  default_prompt: "Use $scroll-site-studio to build a high-end responsive website, default to Replicate for media, and get my media approval in chat before web publication."

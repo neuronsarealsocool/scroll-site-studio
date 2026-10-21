@@ -1,6 +1,6 @@
-# Scroll Site Studio 0.1.0
+# Scroll Site Studio 0.2.0
 
-A portable skill and template library for Codex or Claude Code. Built from the
+A portable high-end website skill and template library for Codex or Claude Code. Scroll effects are optional. Built from the
 Alder & Form workflow, with complete Scroll World, Scroll Craft and Replicate Media
 instruction sets bundled locally. The original site's photos, paid footage, source,
 hosting identity, database, enquiries and credentials are not included.
@@ -46,6 +46,17 @@ browser harness additionally needs Chrome and playwright-core in the **build pro
 The agent's supported browser tools can instead perform acceptance checks. No paid
 generation runs during installation or testing. Accounts/keys are needed only when
 generating or publishing through the chosen service.
+
+## Creative direction and media approval
+
+Use supplied prompts, templates and assets verbatim, as adaptable guidelines, or
+in a hybrid with named locked elements. Follow other user ideas and references;
+do not force scroll effects, uniqueness rules or a single style on every site.
+Replicate is always the default for media generation. A different provider needs
+an explicit user choice. Show actual new/selected media in this chat and obtain
+approval before uploading it to websites, previews, CDNs or public repositories.
+Use local/native chat previews while approval is pending. See references/media.md
+and references/creative-direction.md. Existing approved unchanged media stays approved.
 
 ## Start
 

@@ -1,9 +1,36 @@
 # Media and providers
 
 Read the selected vendor workflow and current official provider docs/schema/pricing.
-This package contains no accounts, API keys or credits. Replicate uses an existing
-REPLICATE_API_TOKEN or connected tool. KIE helpers are an optional vendor alternative,
-not a second required account. Honour the chosen model and budget.
+This package contains no accounts, API keys or credits. **Default to Replicate for
+every new media-generation task**, using an existing REPLICATE_API_TOKEN or connected
+tool. Use another provider only when the user explicitly chooses it. Bundled KIE
+helpers are not an automatic fallback. If Replicate is unavailable, prepare prompts
+and local placeholders and report the missing access; do not switch providers.
+Honour the chosen model, prompt reuse/adaptation mode and budget. A verbatim prompt
+must remain unchanged except for a required, disclosed input-format adaptation.
+
+## Mandatory chat review before web publication
+
+1. Generate or select media locally within the authorized scope. Save originals and
+   distinct versions. Provider reference uploads necessary for an authorized generation
+   are allowed as part of that operation; do not confuse them with site publication.
+2. Show the actual images/videos here in chat using native media previews or local
+   file previews. If direct playback is unavailable, provide a usable local review
+   page/file and explain that limit. A prompt, contact sheet, plan or thumbnail does
+   not replace approval of the actual final video when it can differ materially.
+3. Ask for explicit approval of the identified assets/versions for the website, then
+   wait. Continue layout/code work using placeholders without uploading pending media.
+4. Record the user's approval with filenames/versions and approved use. Only those
+   approved assets may enter public/staging hosting, CDNs, public repositories or
+   deployment artifacts. Do not upload pending media merely to produce a review link.
+5. Keep approval for unchanged media. Re-review meaningful visual changes, replacement
+   generations, crops or reframing. Nonvisual encoding with the same composition
+   does not by itself invalidate approval; still verify the delivered result.
+
+This applies to supplied/newly selected assets as well as generated images, videos
+and other media. An upload for reference or an approved generation budget does not
+by itself authorize publishing that asset. Never infer approval from silence or elapsed
+time. Existing approved live assets may remain unchanged without another gate.
 
 Metadata GET does not prove a balance. Before POST record an approved count, estimate
 and retry allowance. Save prediction IDs immediately; an uncertain timeout is not

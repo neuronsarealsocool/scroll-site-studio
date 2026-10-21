@@ -1,29 +1,38 @@
 ---
 name: scroll-site-studio
-description: Build or extend responsive scroll-driven websites, cinematic video walkthroughs, and layered editorial landing pages. Includes reusable templates, media preparation, provider workflows, and desktop/mobile verification for Codex or Claude. Use for a scroll website or a maintained library of scroll templates; ordinary static pages do not require this skill.
+description: Create or refine high-end responsive websites in Codex or Claude using supplied templates, prompts, assets and design references. Supports static, editorial, interactive and scroll-driven sites, exact reuse or adaptation, Replicate media generation, in-chat media approval and a growing template library.
 metadata:
-  version: 0.1.0
+  version: 0.2.0
 ---
 
 # Scroll Site Studio
 
-Build a working website from the user's brief, existing assets and chosen platform.
+Build a high-end website from the user's brief, existing assets and chosen platform.
+The skill name is retained for compatibility; scroll effects are optional. Choose
+motion only when it helps the design and visitor's task. A static site can be the
+right finished result. Do not add video, pinning or a cinematic journey by default.
 Use this folder as the skill root, regardless of which agent loaded it. Instructions
 and assets are portable; host-specific tools and paid accounts are not bundled.
 
 ## Choose the work, then the references
 
+- **Every website:** read `references/creative-direction.md`. Establish whether the
+  user wants exact reuse, adaptation or a mix. Use their supplied templates, prompts,
+  assets and references, including uploads added later. Do not force originality
+  rules or a fixed aesthetic over a request to reproduce a template faithfully.
 - **Continuous camera journey:** read `references/walkthrough.md`, then the bundled
   `vendor/scroll-world/SKILL.md` and relevant prompt/pipeline references.
 - **Varied editorial or layered website:** read `vendor/scroll-craft/SKILL.md` and
   its relevant design references. Its complete engine and tools are included.
-  Treat its stylistic rules as a starting point; the user's branding and scope win.
+  Its stylistic bans and uniqueness/fingerprint rules apply only when they serve
+  the chosen brief. Exact reuse and the user's branding/scope take precedence.
 - **Existing hero only:** use `references/integration.md`; retain the existing page,
   navigation, text and backend. Do not replace a whole website to add a film.
 - **New generated media:** read `vendor/replicate-media/SKILL.md` and
   `references/media.md`. Use the user's provider/model. Replicate is the default
-  here; the upstream Scroll Craft KIE helper is an alternative only when chosen.
-  Do not require both accounts.
+  for all new media. Another provider requires the user's explicit choice; do not
+  fall back to KIE or another service when Replicate is unavailable. Prepare local
+  prompts/placeholders and explain the missing access instead. Do not require both accounts.
 - **Publishing:** read `references/publishing.md`. Sites is optional, never assumed
   available in Claude or a plain Codex installation.
 - **Extending this library:** read `references/maintaining.md`.
@@ -33,21 +42,32 @@ integration choices across the bundled skills. Preserve upstream licenses.
 
 ## Establish only the missing decisions
 
-Reuse answers already provided. Establish purpose, brand, assets, visitor's next
-action, continuous versus chaptered motion, mobile treatment and publication target.
+Reuse answers already provided. Establish purpose, brand, supplied design direction,
+assets, visitor's next action, exact versus adapted reuse, mobile treatment and
+publication target. Discuss continuous/chaptered motion only if motion fits the brief.
 For an architectural journey agree a proposed route/floorplan before inventing
 connected rooms; reference photos do not establish unseen geometry.
 
 Choose ordinary implementation details autonomously. Installing a skill, preparing
 a template or inspecting a model does not authorize paid generation. Before spending,
 record model, verified schema, count, duration, resolution, stills, current price
-estimate and total/retry allowance. Honour any review-before-publication gate.
-Plan approval is not approval of unseen footage.
+estimate and total/retry allowance. **Always show new or newly selected media here
+in chat and obtain explicit asset/version approval before putting it on the web.**
+This includes images, videos and other media, public previews/CDNs, staging sites,
+public repository assets and deployment archives. Use native chat previews, local
+file previews or localhost for review; do not host unapproved media to get a review
+link. Generation/model approval and plan approval are not media publication approval.
+Record approvals and reuse them for unchanged assets; preserve existing approved live
+media without asking again. Material visual changes need renewed approval.
+Authorized provider input uploads for generation are part of generation, not site
+publication. Read `references/media.md` for the review workflow.
 
 ## Prepare
 
 1. Run `python scripts/doctor.py` from this skill directory. It is local and read-only.
    Python 3.10+ is the bootstrap requirement; `python3` may be the command name.
+   Use `--mode video` for media encoding or `--mode scroll-craft` for that toolkit.
+   FFmpeg/ffprobe and Node are optional for a plain static/CSS site.
 2. Run `python scripts/setup.py --plan` for missing dependency installation commands.
    `--install ffmpeg` installs FFmpeg and ffprobe through the host's package manager;
    run only within an authorized setup task. No binaries, accounts or keys are hidden
@@ -84,13 +104,15 @@ adapt the checks instead of running an independent automation harness. Where all
 Scroll Craft's supplied harness adds frame/contrast checks. Read
 `references/verification.md` for the acceptance matrix and limits.
 
-Verify forward/reverse seeks at every boundary, loading posters, text contrast,
-mobile selection, tail hold, release, footer and keyboard access. Test reduced
-motion and failure when supported. A desktop viewport is not a real-phone test.
+For every site check composition, typography, contrast, responsive layouts, useful
+navigation/controls, keyboard access, performance and business-flow outcomes.
+For a video/scroll site also verify forward/reverse seeks at every boundary, posters,
+mobile selection, tail hold and release. Test reduced motion and failure where relevant.
+A desktop viewport is not a real-phone test.
 State checks actually run. Build/typecheck the chosen framework; a static starter
 needs no framework installation.
 
-Respect publication scope and review gates. Reuse an existing site and audience;
+Respect publication scope and the mandatory in-chat media approval gate. Reuse an existing site and audience;
 do not create duplicates or broaden access implicitly. Return a verified deployed
 URL or local files and an honest verification summary. Do not claim production
 completeness for unconnected forms, placeholders or unverified device behaviour.

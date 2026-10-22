@@ -75,6 +75,40 @@
         "verification": "Downloaded from GitHub and verified all three file sizes and SHA-256 hashes",
         "access_note": "Requires private repository authorization; other recipients need their own authorized copy."
       }
+    },
+    {
+      "id": "layer",
+      "title": "Layer coffee product showcase",
+      "description": "Detailed hero, matched product/ingredient prompts, asset-alignment QA, and a WordPress/WooCommerce theme example.",
+      "index": "references/packs/layer.md",
+      "use_modes": [
+        "verbatim",
+        "adapted",
+        "hybrid"
+      ],
+      "distribution": "source-links-only",
+      "media_publication_approval": "required in chat for each new/selected asset",
+      "sources": [
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=lKQIOiDN2ME"
+        },
+        {
+          "type": "prompt-document",
+          "url": "https://docs.google.com/document/d/1h_Bx6WuQOpAi2iuUp0jNxMY7LYsQroNUPqGZ6zjvI7o/edit"
+        },
+        {
+          "type": "assets-reference-and-theme",
+          "url": "https://drive.google.com/drive/folders/1bVpKNAKOutE6NfxstNA1vKwgwZf28DOY"
+        }
+      ],
+      "backup": {
+        "url": "https://github.com/neuronsarealsocool/scroll-site-studio-source-backups/tree/main/layer/2026-10-22",
+        "visibility": "private",
+        "snapshot_date": "2026-10-22",
+        "verification": "Fresh GitHub restore verified all five file sizes and SHA-256 hashes",
+        "access_note": "Requires private repository authorization; other recipients need their own authorized copy."
+      }
     }
   ]
 }

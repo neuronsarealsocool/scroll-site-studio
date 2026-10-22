@@ -2,7 +2,7 @@
 name: scroll-site-studio
 description: Create or refine high-end responsive websites in Codex or Claude using supplied templates, prompts, assets and design references. Supports static, editorial, interactive and scroll-driven sites, exact reuse or adaptation, Replicate media generation, in-chat media approval and a growing template library.
 metadata:
-  version: 0.2.2
+  version: 0.2.3
 ---
 
 # Scroll Site Studio

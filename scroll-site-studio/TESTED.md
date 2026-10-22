@@ -1,5 +1,15 @@
 # Validation record
 
+## 0.2.3 — 22 October 2026
+
+Layer source inspection: two ZIPs passed CRC checks; all 14 production images
+match byte-for-byte between archives. Inspected prompt DOCX/Markdown exports, hero
+PNG, archive trees, theme README/header and block metadata. Five preserved files
+were restored from the private GitHub backup and checked against size/SHA-256
+manifest entries. Theme expects an absent product CSV. No downloaded theme code
+was executed; WordPress/WooCommerce runtime, checkout and physical-device behaviour
+remain untested. No new media generation or public source-media upload.
+
 ## 0.2.0 — 21 October 2026
 
 Updated workflow scope, default provider, mandatory chat media approval and exact/

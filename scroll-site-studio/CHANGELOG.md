@@ -1,5 +1,12 @@
 # Changes
 
+## 0.2.3 — 22 October 2026
+
+- Added Layer coffee showcase as a linked reference pack with exact/adapted/hybrid guidance.
+- Preserved two ZIPs, a reference PNG and two prompt-document exports in the private backup.
+- Recorded the missing product CSV, platform prerequisites and Replicate prompt adaptation.
+- Source media stays outside the public package and requires in-chat approval for web use.
+
 ## 0.2.2 — 21 October 2026
 
 - Independent, verified online copies are now the default for source pack files.

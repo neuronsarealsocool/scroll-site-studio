@@ -2,7 +2,7 @@
 updated_at: 2026-10-20T20:19:58.285+11:00
 edited_seconds: 30
 created: 2026-10-20T17:48
-updated: 2026-10-21T16:26
+updated: 2026-10-22T19:26
 ---
 # Scroll Site Studio
 
@@ -11,7 +11,7 @@ Claude Code**, and growing a library of templates and design references over tim
 
 ## Install
 
-Download and extract the [v0.2.2 release](https://github.com/neuronsarealsocool/scroll-site-studio/releases/tag/v0.2.2),
+Download and extract the [v0.2.3 release](https://github.com/neuronsarealsocool/scroll-site-studio/releases/tag/v0.2.3),
 then open a terminal inside the extracted `scroll-site-studio` folder. With Python 3.10+:
 
 ```text
@@ -113,3 +113,12 @@ Not every contribution needs to be a coded template. Detailed prompt documents, 
 ## Source resilience
 
 The workflow now defaults to independent online backups for source-pack files rather than depending on original Drive links. Use an authorized private destination, preserve versions and verify restored checksums. The Frostwood pack has an owner-private GitHub snapshot; it is accessible only to authorized users and is separate from approval to publish media.
+
+## Layer reference pack
+
+[Layer](scroll-site-studio/references/packs/layer.md) adds a premium coffee
+showcase with detailed product/ingredient prompts, a hero reference, asset QA and
+a WordPress/WooCommerce example. Use it verbatim, adapt it, or combine it with
+other references. All five source files have a verified private backup; the public
+skill contains links and guidance. The source theme needs product data that is
+not supplied in its archives. Replicate and in-chat media approval remain the defaults.

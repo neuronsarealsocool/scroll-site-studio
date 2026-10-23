@@ -3,6 +3,15 @@
 An externally hosted example of detailed website direction. Read the source prompt
 document when using this pack verbatim; this short index does not replace its prompts.
 
+## Platform default
+
+Use this pack with the user's chosen stack or the existing project/host stack.
+For a new project without a specified stack, choose a suitable responsive frontend.
+WordPress/WooCommerce are optional, only for a user-selected WP build or an existing
+WP project. The supplied theme and WP-specific source prompts do not change this
+default, even when reproducing the design verbatim. Preserve the design and record
+any platform-specific prompt adaptation; see ../creative-direction.md.
+
 ## Sources
 
 - [Video](https://www.youtube.com/watch?v=EVd577396Es)

@@ -1,5 +1,11 @@
 # Changes
 
+## 0.2.4 — 23 October 2026
+
+- Made platform-neutral design reuse explicit for all current and future reference packs.
+- WordPress/WooCommerce are optional user choices, including in verbatim reuse.
+- Updated Layer, Frostwood, catalog metadata and pack-maintenance guidance.
+
 ## 0.2.3 — 22 October 2026
 
 - Added Layer coffee showcase as a linked reference pack with exact/adapted/hybrid guidance.

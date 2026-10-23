@@ -1,4 +1,4 @@
-# Scroll Site Studio 0.2.3
+# Scroll Site Studio 0.2.4
 
 A portable high-end website skill and template library for Codex or Claude Code. Scroll effects are optional. Built from the
 Alder & Form workflow, with complete Scroll World, Scroll Craft and Replicate Media
@@ -93,6 +93,13 @@ Example prompt:
 
 Templates are starting points. They do not make every backend or business workflow
 production-ready. Publishing uses the recipient's own chosen host and credentials.
+
+## Reference pack platform choice
+
+All packs, including Layer and Frostwood, default to the user-selected or existing
+project/host stack; new projects use a suitable responsive frontend. WordPress and
+WooCommerce are optional choices. A supplied WP theme or WP-specific prompt never
+selects the stack automatically, including for verbatim design reuse.
 
 ## Source packs
 

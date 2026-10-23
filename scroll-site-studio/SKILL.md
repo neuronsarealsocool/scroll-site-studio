@@ -2,12 +2,17 @@
 name: scroll-site-studio
 description: Create or refine high-end responsive websites in Codex or Claude using supplied templates, prompts, assets and design references. Supports static, editorial, interactive and scroll-driven sites, exact reuse or adaptation, Replicate media generation, in-chat media approval and a growing template library.
 metadata:
-  version: 0.2.3
+  version: 0.2.4
 ---
 
 # Scroll Site Studio
 
 Build a high-end website from the user's brief, existing assets and chosen platform.
+All reference packs are platform-neutral design sources. Use the existing project
+stack or a suitable frontend for the brief; WordPress/WooCommerce are optional and
+require the user to request or agree to that platform. Source themes and prompts
+do not select the build stack, including in verbatim mode. Read the platform rule
+in `references/creative-direction.md` before using a pack.
 The skill name is retained for compatibility; scroll effects are optional. Choose
 motion only when it helps the design and visitor's task. A static site can be the
 right finished result. Do not add video, pinning or a cinematic journey by default.

@@ -6,6 +6,24 @@ effects are one technique, not a requirement or a quality score. Prioritize cohe
 art direction, typography, spacing, useful content, responsive composition and finish.
 Do not impose a default section count, palette, animation quota or signature move.
 
+## Platform choice for every reference pack
+
+Reference packs supply design direction, prompts and assets; their source platform
+is not the default build platform. Follow the user's chosen stack, or retain the
+existing project/host stack. For a new project without a chosen stack, use a suitable
+responsive frontend for the brief and hosting environment. WordPress and WooCommerce
+are optional: use them only when the user requests or agrees to them, or is already
+working on an existing WordPress site. A bundled WP theme, source installation guide
+or source prompt mentioning WP does not count as that choice.
+
+This applies to Layer, Frostwood and every future pack, including verbatim and
+hybrid reuse. Preserve requested design, assets and interactions while adapting
+platform-specific instructions to the selected stack; keep the original prompt
+unchanged and disclose the technical adaptation. Reproducing a visual design does
+not require reproducing its CMS. Treat theme code as an optional implementation
+reference, not an installer to run by default. Add a CMS or commerce backend only
+when the project needs it; product selection alone does not imply WooCommerce.
+
 ## Three supported ways to use the library
 
 - **Verbatim:** reuse a supplied prompt exactly; reproduce template structure,

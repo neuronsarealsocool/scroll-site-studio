@@ -15,6 +15,12 @@ on the original Drive links. Follow source-backups.md for authorized private sto
 immutable snapshots, manifests and restore verification. Keep backup access separate
 from permission to publish media. Record verified backup details in the pack catalog.
 
+Every current and future pack must default to platform-neutral design reuse.
+Record the source platform as provenance and any theme as optional example code;
+do not turn its prerequisites into requirements for every build. Follow the platform
+choice rule in creative-direction.md, including for verbatim reuse. WordPress and
+WooCommerce require a user choice or an existing WP project.
+
 A source pack need not be runnable code. A video, long prompt document, reference
 screenshots, original images and optional finished theme are enough. Register it in
 catalog.json reference_packs with a unique id, description, local index path and HTTPS

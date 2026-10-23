@@ -4,6 +4,15 @@ A detailed prompt and asset reference for a premium coffee storefront, with a
 curved ingredient selector surrounding one large drink. Read the original prompt
 document for verbatim use; this index is a guide, not a replacement for its detail.
 
+## Platform default
+
+Use this pack with the user's chosen stack or the existing project/host stack.
+For a new project without a specified stack, choose a suitable responsive frontend.
+WordPress/WooCommerce are optional, only for a user-selected WP build or an existing
+WP project. The supplied theme and WP-specific source prompts do not change this
+default, even when reproducing the design verbatim. Preserve the design and record
+any platform-specific prompt adaptation; see ../creative-direction.md.
+
 ## Sources and backup
 
 - [Video](https://www.youtube.com/watch?v=lKQIOiDN2ME)
@@ -60,7 +69,7 @@ and crop consistency before accepting the set.
 
 ## Build and acceptance
 
-For WordPress, inspect the theme before installing it, supply WooCommerce product
+Only if WordPress is selected, inspect the theme before installing it, supply WooCommerce product
 data and verify variable sizes, displayed prices, cart state, errors and checkout
 against the real store. For other stacks, implement equivalent behaviour with
 semantic controls and the chosen commerce backend. A visual carousel alone is not

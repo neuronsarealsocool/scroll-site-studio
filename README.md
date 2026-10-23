@@ -2,7 +2,7 @@
 updated_at: 2026-10-20T20:19:58.285+11:00
 edited_seconds: 30
 created: 2026-10-20T17:48
-updated: 2026-10-22T19:26
+updated: 2026-10-23T21:09
 ---
 # Scroll Site Studio
 
@@ -11,7 +11,7 @@ Claude Code**, and growing a library of templates and design references over tim
 
 ## Install
 
-Download and extract the [v0.2.3 release](https://github.com/neuronsarealsocool/scroll-site-studio/releases/tag/v0.2.3),
+Download and extract the [v0.2.4 release](https://github.com/neuronsarealsocool/scroll-site-studio/releases/tag/v0.2.4),
 then open a terminal inside the extracted `scroll-site-studio` folder. With Python 3.10+:
 
 ```text
@@ -105,6 +105,13 @@ include a connected business backend. Use real licensed assets and test your res
 MIT for original package work. Bundled components retain their own MIT licenses;
 FFmpeg and other external dependencies retain their own licenses. This project is
 independent of OpenAI, Anthropic, Replicate and the upstream skill authors.
+
+## Reference pack platform choice
+
+All packs, including Layer and Frostwood, default to the user-selected or existing
+project/host stack; new projects use a suitable responsive frontend. WordPress and
+WooCommerce are optional choices. A supplied WP theme or WP-specific prompt never
+selects the stack automatically, including for verbatim design reuse.
 
 ## Reference packs
 

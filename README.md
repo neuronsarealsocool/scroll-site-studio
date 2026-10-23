@@ -2,7 +2,7 @@
 updated_at: 2026-10-20T20:19:58.285+11:00
 edited_seconds: 30
 created: 2026-10-20T17:48
-updated: 2026-10-23T21:09
+updated: 2026-10-23T21:42
 ---
 # Scroll Site Studio
 
@@ -11,7 +11,7 @@ Claude Code**, and growing a library of templates and design references over tim
 
 ## Install
 
-Download and extract the [v0.2.4 release](https://github.com/neuronsarealsocool/scroll-site-studio/releases/tag/v0.2.4),
+Download and extract the [v0.2.5 release](https://github.com/neuronsarealsocool/scroll-site-studio/releases/tag/v0.2.5),
 then open a terminal inside the extracted `scroll-site-studio` folder. With Python 3.10+:
 
 ```text
@@ -129,3 +129,11 @@ a WordPress/WooCommerce example. Use it verbatim, adapt it, or combine it with
 other references. All five source files have a verified private backup; the public
 skill contains links and guidance. The source theme needs product data that is
 not supplied in its archives. Replicate and in-chat media approval remain the defaults.
+
+## Horizon Estates reference pack
+
+[Horizon Estates](scroll-site-studio/references/packs/horizon-estates.md) adds
+architectural parallax direction with Orange and Purple asset sets, detailed prompts
+and an inspected image map. All 15 original PNGs and both document exports are
+backed up privately with verified checksums. It is a prompt-and-assets pack, with
+WordPress optional; no finished theme or site code is supplied.

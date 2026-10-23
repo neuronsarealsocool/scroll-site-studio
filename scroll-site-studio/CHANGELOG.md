@@ -1,5 +1,12 @@
 # Changes
 
+## 0.2.5 — 23 October 2026
+
+- Added Horizon Estates architectural parallax prompt-and-assets reference pack.
+- Indexed both Orange and Purple directions with inspected asset roles and transparency.
+- Preserved 15 original PNGs and two document exports in a verified private backup.
+- WordPress stays optional; no source media or full prompts bundled publicly.
+
 ## 0.2.4 — 23 October 2026
 
 - Made platform-neutral design reuse explicit for all current and future reference packs.

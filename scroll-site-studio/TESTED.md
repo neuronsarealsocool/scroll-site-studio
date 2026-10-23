@@ -1,5 +1,14 @@
 # Validation record
 
+## 0.2.5 — 23 October 2026
+
+Horizon Estates ingestion: decoded all 15 original PNGs; recorded dimensions and
+alpha extrema; visually inspected a contact sheet and checked DOCX CRC/XML. Both
+Google document exports were preserved. All 17 file sizes/SHA-256 hashes matched
+a fresh restore from the private GitHub backup. No completed theme/code was supplied.
+Video title checked; no transcript available. No site, animation, WP runtime or
+physical-device test performed; no paid media generation or public source-media upload.
+
 ## 0.2.3 — 22 October 2026
 
 Layer source inspection: two ZIPs passed CRC checks; all 14 production images

@@ -1,4 +1,4 @@
-# Scroll Site Studio 0.2.4
+# Scroll Site Studio 0.2.5
 
 A portable high-end website skill and template library for Codex or Claude Code. Scroll effects are optional. Built from the
 Alder & Form workflow, with complete Scroll World, Scroll Craft and Replicate Media
@@ -109,6 +109,10 @@ The Layer pack adds a premium coffee product showcase, detailed matched-asset
 prompts, a hero reference and a WooCommerce theme example. See
 references/packs/layer.md for reuse modes, the private backup and missing product
 data. Source packs guide other platforms too; they are not runnable HTML starters.
+
+The Horizon Estates pack adds architectural parallax direction, 15 Orange/Purple
+images and a detailed prompt document. Its index maps source filenames, real alpha
+channels and missing deliverables. See references/packs/horizon-estates.md.
 
 ## Independent backups
 

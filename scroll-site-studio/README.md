@@ -1,4 +1,4 @@
-# Scroll Site Studio 0.2.8
+# Scroll Site Studio 0.2.9
 
 A portable high-end website skill and template library for Codex or Claude Code. Scroll effects are optional. Built from the
 Alder & Form workflow, with complete Scroll World, Scroll Craft and Replicate Media
@@ -117,3 +117,11 @@ channels and missing deliverables. See references/packs/horizon-estates.md.
 ## Independent backups
 
 Default to a verified independent online copy of source documents and assets, in a designated private repository/folder when public use is not approved. Preserve dated versions and checksum manifests, and verify by downloading the copies. Private backup does not approve public website use. See references/source-backups.md.
+
+## Planet Jumping — MotionSites.ai
+
+All credit for the original Planet Jumping prompt/design reference goes to
+[MotionSites.ai](https://www.motionsites.ai/). This prompt-only pack describes a
+cinematic canvas portal experience. One supplied text file is backed up privately;
+referenced media and fonts were not supplied. The source prompt is not included
+in the public release. See references/packs/planet-jumping.md for reuse guidance and dependency limits.

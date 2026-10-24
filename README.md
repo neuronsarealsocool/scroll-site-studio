@@ -2,7 +2,7 @@
 updated_at: 2026-10-20T20:19:58.285+11:00
 edited_seconds: 30
 created: 2026-10-20T17:48
-updated: 2026-10-24T14:39
+updated: 2026-10-24T16:33
 ---
 # Scroll Site Studio
 
@@ -11,7 +11,7 @@ Claude Code**, and growing a library of templates and design references over tim
 
 ## Install
 
-Download and extract the [v0.2.8 release](https://github.com/neuronsarealsocool/scroll-site-studio/releases/tag/v0.2.8),
+Download and extract the [v0.2.9 release](https://github.com/neuronsarealsocool/scroll-site-studio/releases/tag/v0.2.9),
 then open a terminal inside the extracted `scroll-site-studio` folder. With Python 3.10+:
 
 ```text
@@ -145,3 +145,11 @@ section order and layout details, with private checksum-verified review evidence
 The user-selected [headline placement reference](scroll-site-studio/references/packs/horizon-estates-headline-reference.md)
 requires visible clearance and complete headline letters at desktop and ultrawide sizes.
 The uploaded still is backed up privately and is not bundled in the release.
+
+## Planet Jumping — MotionSites.ai
+
+All credit for the original Planet Jumping prompt/design reference goes to
+[MotionSites.ai](https://www.motionsites.ai/). This prompt-only pack describes a
+cinematic canvas portal experience. One supplied text file is backed up privately;
+referenced media and fonts were not supplied. The source prompt is not included
+in the public release. See [the pack index](scroll-site-studio/references/packs/planet-jumping.md) for reuse guidance and dependency limits.

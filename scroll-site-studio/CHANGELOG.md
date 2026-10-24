@@ -1,5 +1,12 @@
 # Changes
 
+## 0.2.9 — 24 October 2026
+
+- Added Planet Jumping as a prompt-only reference pack; all original prompt/design credit to MotionSites.ai.
+- Preserved the one supplied text file in a restore-verified private snapshot.
+- Recorded remote media/font dependencies as unsupplied and unverified; no runnable site claimed.
+- Added exact/adapted/hybrid guidance, platform defaults and implementation-gap notes.
+
 ## 0.2.8 — 24 October 2026
 
 - Corrected Horizon headline guidance: complete opening letterforms and visible silhouette clearance take precedence over tight spacing.

@@ -1,5 +1,13 @@
 # Validation record
 
+## 0.2.9 — 24 October 2026
+
+Planet Jumping ingestion inspected the user-supplied prompt specification and
+recorded explicit MotionSites.ai credit. A fresh private GitHub restore verified
+the single original text file size and SHA-256. Referenced media/fonts were not
+supplied, downloaded, availability-tested or backed up. No site was built, code
+executed, media generated or runtime/device behaviour tested.
+
 ## 0.2.5 — 23 October 2026
 
 Horizon Estates ingestion: decoded all 15 original PNGs; recorded dimensions and

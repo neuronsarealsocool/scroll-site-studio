@@ -31,3 +31,11 @@ No original property reference photographs, stock imagery, generated videos, cli
 branding, proprietary design screenshots or font files are bundled. Catalog design
 references link to sources without copying their media. Follow the applicable rights
 when adding assets. Source code licenses do not grant rights to referenced brands.
+
+## Planet Jumping reference credit
+
+All credit for the original Planet Jumping prompt/design reference goes to
+[MotionSites.ai](https://www.motionsites.ai/), as explicitly specified by the user.
+The original supplied prompt is preserved privately, not relicensed under this
+package MIT license. Public distribution includes attribution and authored usage
+notes only. No referenced media, fonts, logo or finished site is bundled.

@@ -184,6 +184,41 @@
           }
         }
       }
+    },
+    {
+      "id": "planet-jumping",
+      "title": "Planet Jumping — MotionSites.ai",
+      "description": "Prompt-only cinematic space portal reference credited to MotionSites.ai; canvas mask travel and video preloader; media/fonts not supplied.",
+      "index": "references/packs/planet-jumping.md",
+      "use_modes": [
+        "verbatim",
+        "adapted",
+        "hybrid"
+      ],
+      "distribution": "original guidance and attribution only; source prompt preserved privately",
+      "credit": {
+        "name": "MotionSites.ai",
+        "url": "https://www.motionsites.ai/",
+        "notice": "All credit for the original prompt/design reference goes to MotionSites.ai. Preserve attribution.",
+        "basis": "Explicit user-supplied attribution"
+      },
+      "supplied_material": "One text prompt only; six remote media references in text are not downloaded/backed-up assets; no fonts or runnable HTML supplied.",
+      "media_publication_approval": "required in chat for each new/selected asset",
+      "sources": [
+        {
+          "type": "credited-source; not verified exact-prompt download",
+          "url": "https://www.motionsites.ai/"
+        }
+      ],
+      "backup": {
+        "url": "https://github.com/neuronsarealsocool/scroll-site-studio-source-backups/tree/main/planet-jumping/2026-10-24",
+        "visibility": "private",
+        "snapshot_date": "2026-10-24",
+        "verification": "Fresh GitHub restore verified the one original prompt file size and SHA-256; referenced remote media excluded.",
+        "access_note": "Requires private repository authorization; other recipients need their own authorized prompt copy."
+      },
+      "platform_default": "user-selected or existing project/host stack; vanilla single-file frontend suits faithful new builds",
+      "wordpress": "optional; only when selected by the user or maintaining an existing WordPress project"
     }
   ]
 }

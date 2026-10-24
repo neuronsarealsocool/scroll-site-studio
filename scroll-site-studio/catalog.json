@@ -148,7 +148,20 @@
         "access_note": "Requires private repository authorization; other recipients need their own authorized copy."
       },
       "platform_default": "user-selected or existing project/host stack; otherwise a suitable responsive frontend",
-      "wordpress": "optional; only when selected by the user or maintaining an existing WordPress project"
+      "wordpress": "optional; only when selected by the user or maintaining an existing WordPress project",
+      "video_review": {
+        "reviewed_on": "2026-10-24",
+        "duration": "07:52",
+        "coverage": "Complete auto-generated English transcript and visual comparisons of opening, prototype and final walkthrough",
+        "audit": "references/packs/horizon-estates-video-audit.md",
+        "final_walkthrough": "07:07-07:27",
+        "limits": "Exact CSS values and physical-phone behavior are not established by the footage.",
+        "evidence_backup": {
+          "url": "https://github.com/neuronsarealsocool/scroll-site-studio-source-backups/tree/main/horizon-estates/2026-10-24-video-review",
+          "visibility": "private",
+          "verification": "Fresh sparse GitHub clone restored all 14 evidence files; sizes and SHA-256 verified against the snapshot manifest."
+        }
+      }
     }
   ]
 }

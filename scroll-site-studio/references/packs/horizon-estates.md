@@ -28,13 +28,17 @@ See ../creative-direction.md.
 - [Prompt document](https://docs.google.com/document/d/1_rd-diJHsyR43OTkHPJtATFUpenTGowO6KDEkARfh0Y/edit)
 - [Orange images](https://drive.google.com/drive/folders/1VJd8wPL8bTwuVOsiRQN0rRXeYcTptkuV)
 - [Purple images](https://drive.google.com/drive/folders/1zfbZZ3NGbKq2KRVB4zl7ObDF-gK1XV1M)
+- [Private video-review evidence, 24 October 2026](https://github.com/neuronsarealsocool/scroll-site-studio-source-backups/tree/main/horizon-estates/2026-10-24-video-review)
 - [Private snapshot, 23 October 2026](https://github.com/neuronsarealsocool/scroll-site-studio-source-backups/tree/main/horizon-estates/2026-10-23)
 
 The snapshot preserves all 15 original PNGs in their source folders and DOCX/Markdown
 exports of the native Google document. All 17 sizes/SHA-256 hashes were verified
 against a fresh GitHub restore. Access requires private-repository authorization;
 other recipients need their own authorized backup. Full prompts and images are not
-bundled in the public skill. The video title was checked; no transcript was available.
+bundled in the public skill. On 24 October 2026, the full auto-generated English
+transcript became available and the opening, prototype and finished walkthrough
+were visually reviewed. See [timestamped video audit](horizon-estates-video-audit.md)
+for the observed composition, section order and separate motion behaviors.
 
 ## What the source supplies
 
@@ -78,7 +82,7 @@ Keep original filenames in the backup; readable aliases belong in the project ma
 | Purple | Aug 6, 2026, 11_20_47 PM | 1672x941 | Left mountain/cloud continuation | Opaque |
 | Purple | Aug 6, 2026, 11_20_58 PM | 1672x941 | Mist/landscape continuation | Opaque |
 
-Only four images have an alpha channel with transparent pixels (range 0–255).
+Only four images have an alpha channel with transparent pixels (range 0â€“255).
 Opaque PNGs need appropriate crops/masks; the extension alone does not make them
 independent cutout layers. Orange contains three 4:3 property images, not the six
 suggested in part of the prompt. Purple contains no standalone property-card set.
@@ -86,6 +90,14 @@ Use the available assets or obtain approval for additions rather than claiming m
 files exist. Derive focal positions and depth values in the actual composition.
 
 ## Build and review guidance
+
+For close video reuse, apply the [video audit](horizon-estates-video-audit.md), not
+just this asset inventory. The finished pass uses a close foreground residence,
+headline occlusion, lower-left hero copy/actions, a pill navigation, a bright warm
+statement, ten-label strip, animated metrics before tall residence cards, full-width
+advisory rows and a left-aligned dark closing scene. Section entrances, statement
+emphasis and numerical animation are separate behaviors; avoid leaving all lower
+content fully static. Do not copy the prototype's excessive cloud coverage.
 
 For a close build, reuse the supplied images; the source does not require new
 generation. When the user wants new media, Replicate remains the default provider.

@@ -1,5 +1,13 @@
 # Changes
 
+## 0.2.6 — 24 October 2026
+
+- Verified Horizon's full auto-generated narration and sampled opening, prototype and final walkthrough frames.
+- Added timestamped rules for foreground scale, headline occlusion, hero controls, separate scroll behaviors and final section order.
+- Recorded ten-label strip, number animation, tall cards, full-width advisory rows and closing alignment.
+- Distinguished final footage from prototype defects, document alternatives and implementation choices.
+- Kept original prompts/assets and review screenshots out of the public skill package.
+
 ## 0.2.5 — 23 October 2026
 
 - Added Horizon Estates architectural parallax prompt-and-assets reference pack.

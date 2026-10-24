@@ -2,7 +2,7 @@
 updated_at: 2026-10-20T20:19:58.285+11:00
 edited_seconds: 30
 created: 2026-10-20T17:48
-updated: 2026-10-23T21:42
+updated: 2026-10-24T11:48
 ---
 # Scroll Site Studio
 
@@ -137,3 +137,7 @@ architectural parallax direction with Orange and Purple asset sets, detailed pro
 and an inspected image map. All 15 original PNGs and both document exports are
 backed up privately with verified checksums. It is a prompt-and-assets pack, with
 WordPress optional; no finished theme or site code is supplied.
+
+The [timestamped video audit](scroll-site-studio/references/packs/horizon-estates-video-audit.md)
+records the final hero scale, headline overlap, scroll entrances, count-up figures,
+section order and layout details, with private checksum-verified review evidence.

@@ -11,7 +11,7 @@ Claude Code**, and growing a library of templates and design references over tim
 
 ## Install
 
-Download and extract the [v0.2.6 release](https://github.com/neuronsarealsocool/scroll-site-studio/releases/tag/v0.2.6),
+Download and extract the [v0.2.7 release](https://github.com/neuronsarealsocool/scroll-site-studio/releases/tag/v0.2.7),
 then open a terminal inside the extracted `scroll-site-studio` folder. With Python 3.10+:
 
 ```text
@@ -141,3 +141,7 @@ WordPress optional; no finished theme or site code is supplied.
 The [timestamped video audit](scroll-site-studio/references/packs/horizon-estates-video-audit.md)
 records the final hero scale, headline overlap, scroll entrances, count-up figures,
 section order and layout details, with private checksum-verified review evidence.
+
+The user-selected [headline placement reference](scroll-site-studio/references/packs/horizon-estates-headline-reference.md)
+locks both phrases close to the upper house while preserving readable words.
+The uploaded still is backed up privately and is not bundled in the release.

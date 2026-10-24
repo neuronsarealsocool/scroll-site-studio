@@ -39,6 +39,9 @@ bundled in the public skill. On 24 October 2026, the full auto-generated English
 transcript became available and the opening, prototype and finished walkthrough
 were visually reviewed. See [timestamped video audit](horizon-estates-video-audit.md)
 for the observed composition, section order and separate motion behaviors.
+The user-selected [headline placement reference](horizon-estates-headline-reference.md)
+refines the desktop spacing: both phrases hug the visible upper facade, with the
+words readable. Its original screenshot is retained in a separate private snapshot.
 
 ## What the source supplies
 
@@ -92,7 +95,10 @@ files exist. Derive focal positions and depth values in the actual composition.
 ## Build and review guidance
 
 For close video reuse, apply the [video audit](horizon-estates-video-audit.md), not
-just this asset inventory. The finished pass uses a close foreground residence,
+just this asset inventory. Also apply the user-selected
+[headline placement reference](horizon-estates-headline-reference.md): anchor the
+inner phrase edges beside the visible upper house, keeping both phrases readable.
+The finished pass uses a close foreground residence,
 headline occlusion, lower-left hero copy/actions, a pill navigation, a bright warm
 statement, ten-label strip, animated metrics before tall residence cards, full-width
 advisory rows and a left-aligned dark closing scene. Section entrances, statement

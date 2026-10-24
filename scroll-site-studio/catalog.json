@@ -161,6 +161,16 @@
           "visibility": "private",
           "verification": "Fresh sparse GitHub clone restored all 14 evidence files; sizes and SHA-256 verified against the snapshot manifest."
         }
+      },
+      "headline_reference": {
+        "selected_on": "2026-10-24",
+        "guidance": "references/packs/horizon-estates-headline-reference.md",
+        "locked": "Both headline phrases hug the visible upper facade on a shared baseline; words remain readable.",
+        "evidence_backup": {
+          "url": "https://github.com/neuronsarealsocool/scroll-site-studio-source-backups/tree/main/horizon-estates/2026-10-24-headline-reference",
+          "visibility": "private",
+          "verification": "Fresh sparse GitHub clone restored the original 2560 x 1440 screenshot; size and SHA-256 verified against the snapshot manifest."
+        }
       }
     }
   ]

@@ -4,6 +4,10 @@ Source: [WPDev, How I use GPT 5.6 as a WordPress web designer](https://www.youtu
 
 This supplements the [pack index](horizon-estates.md). Keep the source document unchanged. Private review evidence is separate from the distributable skill; do not put the transcript or video screenshots into a public template or website.
 
+The later user-selected [headline placement reference](horizon-estates-headline-reference.md)
+locks the close spacing beside the upper facade and clarifies opening-state
+readability. Apply it together with the motion observations below.
+
 ## Which version is authoritative
 
 - **00:07–00:28 and 07:07–07:27:** opening demonstration and finished walkthrough. Use these to resolve visual details.
@@ -16,7 +20,7 @@ This supplements the [pack index](horizon-estates.md). Keep the source document 
 | Feature | Evidence | Reproduction rule |
 |---|---|---|
 | Foreground architecture | 00:12–00:19; 07:09–07:11 | Treat the house and its mountain as a close foreground plane. Upper floors occupy the headline's central area; the cliff continues down into mist. Avoid a small, fully framed island surrounded by empty sky. |
-| Headline overlap | 03:45–04:04; 07:09–07:14 | The two phrases extend toward the residence and pass behind it during scrolling. A wide empty gap between unrelated text columns and the house misses the effect. Partial letter occlusion should communicate depth without concealing an entire phrase. |
+| Headline overlap | 03:45–04:04; 07:09–07:14 | The two phrases extend toward the residence and pass behind it during scrolling. A wide empty gap between unrelated text columns and the house misses the effect. Follow the selected still for close spacing beside the upper facade. Keep both phrases readable on arrival; partial letter occlusion during movement must not swallow whole words. |
 | Independent motion | 03:53–04:04 | Sky, residence and foreground landscape move at visibly different rates. Uniform translation of a flattened image is insufficient. Exact pixel travel and easing are implementation choices. |
 | Hero controls | Finished opening near 07:10 | Supporting paragraph sits low on the left, with the two actions together beneath it. Navigation stays above the scene in a slim warm dark pill, with a pale pill consultation action. |
 | Statement | 00:19–00:22; 07:14–07:16 | Spacious warm mist, centered large type, and progressive word/phrase emphasis tied to scroll. Unfinished text is softer; completed text becomes bright. This is distinct from a simple whole-paragraph entrance. |

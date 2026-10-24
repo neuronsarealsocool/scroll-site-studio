@@ -1,5 +1,11 @@
 # Changes
 
+## 0.2.7 — 24 October 2026
+
+- Added the user-selected Horizon hero still as the headline-placement reference.
+- Anchored both phrases beside the visible upper facade, with opening-state readability and responsive/scroll checks.
+- Preserved the original screenshot privately; only authored guidance is distributed.
+
 ## 0.2.6 — 24 October 2026
 
 - Verified Horizon's full auto-generated narration and sampled opening, prototype and final walkthrough frames.

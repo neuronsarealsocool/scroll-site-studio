@@ -1,5 +1,12 @@
 # Changes
 
+## 0.2.10 — 24 October 2026
+
+- Added VEYRA: MotionSites.ai reference credit and upstream project attribution to Amir Mušić.
+- Pinned v1.0.0 and verified all 32 upstream reference hashes; source ZIP includes 18 media files.
+- Preserved the supplied prompt and full source archive in a verified private snapshot.
+- Documented interaction/reuse modes, optional WordPress and Replicate/media-approval defaults.
+
 ## 0.2.9 — 24 October 2026
 
 - Added Planet Jumping as a prompt-only reference pack; all original prompt/design credit to MotionSites.ai.

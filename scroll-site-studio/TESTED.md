@@ -1,5 +1,15 @@
 # Validation record
 
+## 0.2.10 — 24 October 2026
+
+VEYRA ingestion: v1.0.0 tag resolved to 5779ec0762559b84bd5da3b6ffccf76e747f7587.
+Downloaded ZIP passed CRC and all 32 upstream source/media/reference hashes
+(with prescribed text line-ending normalization). Inspected 18-file media tree,
+license/notices, architecture/media/verification docs, package metadata and both
+reference screenshots. A fresh private GitHub restore verified prompt/archive
+sizes and SHA-256 hashes. No upstream code executed, dependencies installed,
+unit tests/build run, site deployed or device behaviour tested during ingestion.
+
 ## 0.2.9 — 24 October 2026
 
 Planet Jumping ingestion inspected the user-supplied prompt specification and

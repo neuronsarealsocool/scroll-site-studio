@@ -219,6 +219,59 @@
       },
       "platform_default": "user-selected or existing project/host stack; vanilla single-file frontend suits faithful new builds",
       "wordpress": "optional; only when selected by the user or maintaining an existing WordPress project"
+    },
+    {
+      "id": "veyra",
+      "title": "VEYRA — MotionSites.ai reference; project by Amir Mušić",
+      "description": "Framed automotive interaction scene with four hotspots, authored hover films, technical stills and appearance menus; pinned React/Vite source with bundled media.",
+      "index": "references/packs/veyra.md",
+      "use_modes": [
+        "verbatim",
+        "adapted",
+        "hybrid"
+      ],
+      "distribution": "source-links-only",
+      "credit": {
+        "reference_name": "MotionSites.ai",
+        "reference_url": "https://www.motionsites.ai/",
+        "basis": "User identified the supplied reference as another MotionSites reference.",
+        "upstream_author": "Amir Mušić",
+        "upstream_url": "https://github.com/amirmushichge/veyra-interactive-car",
+        "license": "MIT; retain source LICENSE and THIRD_PARTY_NOTICES.md"
+      },
+      "source_version": {
+        "tag": "v1.0.0",
+        "commit": "5779ec0762559b84bd5da3b6ffccf76e747f7587",
+        "reference_hashes_verified": 32
+      },
+      "media_publication_approval": "required in chat for each new/selected asset; upstream reference approval is not current-user publication approval",
+      "sources": [
+        {
+          "type": "credited-reference",
+          "url": "https://www.motionsites.ai/"
+        },
+        {
+          "type": "pinned-project",
+          "url": "https://github.com/amirmushichge/veyra-interactive-car/tree/v1.0.0"
+        },
+        {
+          "type": "source-archive",
+          "url": "https://github.com/amirmushichge/veyra-interactive-car/archive/refs/tags/v1.0.0.zip"
+        },
+        {
+          "type": "reproduction-prompt",
+          "url": "https://github.com/amirmushichge/veyra-interactive-car/blob/v1.0.0/docs/RECREATE.md"
+        }
+      ],
+      "backup": {
+        "url": "https://github.com/neuronsarealsocool/scroll-site-studio-source-backups/tree/main/veyra/2026-10-24",
+        "visibility": "private",
+        "snapshot_date": "2026-10-24",
+        "verification": "Fresh GitHub restore verified the original user prompt and pinned source ZIP sizes/SHA-256 hashes; source ZIP includes 18 media files.",
+        "access_note": "Requires private repository authorization; other recipients can obtain the pinned public source and make their own authorized backup."
+      },
+      "platform_default": "user-selected or existing project/host stack; React/Vite source suits faithful new builds",
+      "wordpress": "optional; only when selected by the user or maintaining an existing WordPress project"
     }
   ]
 }

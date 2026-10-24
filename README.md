@@ -11,7 +11,7 @@ Claude Code**, and growing a library of templates and design references over tim
 
 ## Install
 
-Download and extract the [v0.2.9 release](https://github.com/neuronsarealsocool/scroll-site-studio/releases/tag/v0.2.9),
+Download and extract the [v0.2.10 release](https://github.com/neuronsarealsocool/scroll-site-studio/releases/tag/v0.2.10),
 then open a terminal inside the extracted `scroll-site-studio` folder. With Python 3.10+:
 
 ```text
@@ -153,3 +153,11 @@ All credit for the original Planet Jumping prompt/design reference goes to
 cinematic canvas portal experience. One supplied text file is backed up privately;
 referenced media and fonts were not supplied. The source prompt is not included
 in the public release. See [the pack index](scroll-site-studio/references/packs/planet-jumping.md) for reuse guidance and dependency limits.
+
+## VEYRA — MotionSites.ai reference
+
+Credit [MotionSites.ai](https://www.motionsites.ai/) for the supplied reference,
+and retain the upstream VEYRA project credit to
+[Amir Mušić](https://github.com/amirmushichge/veyra-interactive-car). The pack
+indexes a pinned automotive interaction scene with source and 18 bundled media
+files. The prompt and source ZIP have a verified private backup. See [the pack index](scroll-site-studio/references/packs/veyra.md) for reuse and verification details.

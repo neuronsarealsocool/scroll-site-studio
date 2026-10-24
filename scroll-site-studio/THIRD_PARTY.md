@@ -39,3 +39,12 @@ All credit for the original Planet Jumping prompt/design reference goes to
 The original supplied prompt is preserved privately, not relicensed under this
 package MIT license. Public distribution includes attribution and authored usage
 notes only. No referenced media, fonts, logo or finished site is bundled.
+
+## VEYRA reference credit
+
+Credit [MotionSites.ai](https://www.motionsites.ai/) for the reference supplied by
+the user. The upstream VEYRA project credits concept, art direction, interaction
+design and media finishing to [Amir Mušić](https://github.com/amirmushichge/veyra-interactive-car).
+Retain its MIT LICENSE and THIRD_PARTY_NOTICES.md when reusing source or media.
+The pinned source ZIP is backed up privately; no upstream code, media or prompt is
+bundled in this public skill. Upstream dependency/font notices remain applicable.

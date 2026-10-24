@@ -1,4 +1,4 @@
-# Scroll Site Studio 0.2.9
+# Scroll Site Studio 0.2.10
 
 A portable high-end website skill and template library for Codex or Claude Code. Scroll effects are optional. Built from the
 Alder & Form workflow, with complete Scroll World, Scroll Craft and Replicate Media
@@ -125,3 +125,11 @@ All credit for the original Planet Jumping prompt/design reference goes to
 cinematic canvas portal experience. One supplied text file is backed up privately;
 referenced media and fonts were not supplied. The source prompt is not included
 in the public release. See references/packs/planet-jumping.md for reuse guidance and dependency limits.
+
+## VEYRA — MotionSites.ai reference
+
+Credit [MotionSites.ai](https://www.motionsites.ai/) for the supplied reference,
+and retain the upstream VEYRA project credit to
+[Amir Mušić](https://github.com/amirmushichge/veyra-interactive-car). The pack
+indexes a pinned automotive interaction scene with source and 18 bundled media
+files. The prompt and source ZIP have a verified private backup. See references/packs/veyra.md for reuse and verification details.

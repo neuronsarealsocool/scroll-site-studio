@@ -1,5 +1,11 @@
 # Changes
 
+## 0.2.8 — 24 October 2026
+
+- Corrected Horizon headline guidance: complete opening letterforms and visible silhouette clearance take precedence over tight spacing.
+- Added house-relative type/height limits and explicit ultrawide regression checks, including 3440 x 1271.
+- Preserved the user-reported failure screenshot privately.
+
 ## 0.2.7 — 24 October 2026
 
 - Added the user-selected Horizon hero still as the headline-placement reference.

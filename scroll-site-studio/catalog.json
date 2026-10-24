@@ -165,11 +165,23 @@
       "headline_reference": {
         "selected_on": "2026-10-24",
         "guidance": "references/packs/horizon-estates-headline-reference.md",
-        "locked": "Both headline phrases hug the visible upper facade on a shared baseline; words remain readable.",
+        "locked": "Both phrases sit near the upper facade with visible clearance and complete opening-state letterforms. House-relative size/height limits and ultrawide checks are required.",
         "evidence_backup": {
           "url": "https://github.com/neuronsarealsocool/scroll-site-studio-source-backups/tree/main/horizon-estates/2026-10-24-headline-reference",
           "visibility": "private",
           "verification": "Fresh sparse GitHub clone restored the original 2560 x 1440 screenshot; size and SHA-256 verified against the snapshot manifest."
+        },
+        "ultrawide_correction": {
+          "reported_on": "2026-10-24",
+          "failure_screenshot_dimensions": [
+            3440,
+            1271
+          ],
+          "evidence_backup": {
+            "url": "https://github.com/neuronsarealsocool/scroll-site-studio-source-backups/tree/main/horizon-estates/2026-10-24-ultrawide-correction",
+            "visibility": "private",
+            "verification": "Fresh GitHub restore verified original screenshot size and SHA-256 against the immutable snapshot manifest."
+          }
         }
       }
     }

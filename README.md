@@ -2,7 +2,7 @@
 updated_at: 2026-10-20T20:19:58.285+11:00
 edited_seconds: 30
 created: 2026-10-20T17:48
-updated: 2026-10-24T11:48
+updated: 2026-10-24T14:39
 ---
 # Scroll Site Studio
 
@@ -11,7 +11,7 @@ Claude Code**, and growing a library of templates and design references over tim
 
 ## Install
 
-Download and extract the [v0.2.7 release](https://github.com/neuronsarealsocool/scroll-site-studio/releases/tag/v0.2.7),
+Download and extract the [v0.2.8 release](https://github.com/neuronsarealsocool/scroll-site-studio/releases/tag/v0.2.8),
 then open a terminal inside the extracted `scroll-site-studio` folder. With Python 3.10+:
 
 ```text
@@ -143,5 +143,5 @@ records the final hero scale, headline overlap, scroll entrances, count-up figur
 section order and layout details, with private checksum-verified review evidence.
 
 The user-selected [headline placement reference](scroll-site-studio/references/packs/horizon-estates-headline-reference.md)
-locks both phrases close to the upper house while preserving readable words.
+requires visible clearance and complete headline letters at desktop and ultrawide sizes.
 The uploaded still is backed up privately and is not bundled in the release.

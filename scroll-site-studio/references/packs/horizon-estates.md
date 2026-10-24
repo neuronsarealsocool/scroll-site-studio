@@ -40,7 +40,7 @@ transcript became available and the opening, prototype and finished walkthrough
 were visually reviewed. See [timestamped video audit](horizon-estates-video-audit.md)
 for the observed composition, section order and separate motion behaviors.
 The user-selected [headline placement reference](horizon-estates-headline-reference.md)
-refines the desktop spacing: both phrases hug the visible upper facade, with the
+refines the desktop spacing: both phrases sit near the upper facade with visible clearance and all
 words readable. Its original screenshot is retained in a separate private snapshot.
 
 ## What the source supplies
@@ -97,7 +97,8 @@ files exist. Derive focal positions and depth values in the actual composition.
 For close video reuse, apply the [video audit](horizon-estates-video-audit.md), not
 just this asset inventory. Also apply the user-selected
 [headline placement reference](horizon-estates-headline-reference.md): anchor the
-inner phrase edges beside the visible upper house, keeping both phrases readable.
+inner phrase edges near the visible upper house with breathing room, keeping every
+letter readable. Check ultrawide sizes as well as typical desktop viewports.
 The finished pass uses a close foreground residence,
 headline occlusion, lower-left hero copy/actions, a pill navigation, a bright warm
 statement, ten-label strip, animated metrics before tall residence cards, full-width

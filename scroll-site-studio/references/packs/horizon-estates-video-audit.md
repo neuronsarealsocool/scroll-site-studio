@@ -5,8 +5,8 @@ Source: [WPDev, How I use GPT 5.6 as a WordPress web designer](https://www.youtu
 This supplements the [pack index](horizon-estates.md). Keep the source document unchanged. Private review evidence is separate from the distributable skill; do not put the transcript or video screenshots into a public template or website.
 
 The later user-selected [headline placement reference](horizon-estates-headline-reference.md)
-locks the close spacing beside the upper facade and clarifies opening-state
-readability. Apply it together with the motion observations below.
+locks spacing beside the upper facade with visible clearance and complete
+opening-state letterforms, including ultrawide layouts. Apply it together with the motion observations below.
 
 ## Which version is authoritative
 

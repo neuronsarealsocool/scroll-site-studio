@@ -272,6 +272,49 @@
       },
       "platform_default": "user-selected or existing project/host stack; React/Vite source suits faithful new builds",
       "wordpress": "optional; only when selected by the user or maintaining an existing WordPress project"
+    },
+    {
+      "id": "darrell-wilson-method",
+      "title": "Darrell Wilson method — Replicate adaptation",
+      "description": "Business-led style tile, visual story, matched scene handoffs, independently mapped scroll pacing and mobile sequence workflow; Replicate replaces the source provider.",
+      "index": "references/packs/darrell-wilson-method.md",
+      "use_modes": [
+        "verbatim",
+        "adapted",
+        "hybrid"
+      ],
+      "distribution": "source-links-only; original prompts/product image and derived full prompts remain private",
+      "credit": {
+        "author": "Darrel Wilson",
+        "url": "https://www.youtube.com/@darrelwilson",
+        "notice": "Method and tutorial credit to Darrel Wilson; pack display name uses Darrell as requested."
+      },
+      "provider": "Replicate; explicit user-requested replacement for Higgsfield; connected tools or authenticated HTTP API",
+      "media_publication_approval": "required in chat for each new/selected asset; source autonomous acceptance never approves public use",
+      "sources": [
+        {
+          "type": "tutorial",
+          "url": "https://www.youtube.com/watch?v=dn6MDl86fRY"
+        },
+        {
+          "type": "desktop-and-mobile-prompts",
+          "url": "https://lite.evernote.com/note/762e2275-a03e-a637-ff92-3f0f84364d5b"
+        },
+        {
+          "type": "product-reference-image",
+          "url": "https://drive.google.com/file/d/1D0Z-oGVmnUGnCGIArzdUQMLjsWGt_Vq0/view"
+        }
+      ],
+      "backup": {
+        "url": "https://github.com/neuronsarealsocool/scroll-site-studio-source-backups/tree/main/darrell-wilson-method/2026-10-25",
+        "visibility": "private",
+        "snapshot_date": "2026-10-25",
+        "verification": "Fresh GitHub restore verified five files: two original Markdown attachments, original PNG and two derived Replicate working prompts; sizes/SHA-256 matched.",
+        "access_note": "Requires private repository authorization; other recipients need their own authorized source/backup."
+      },
+      "platform_default": "user-selected or existing project/host stack; reuse existing publishing workflow",
+      "wordpress": "optional; only when selected by the user or maintaining an existing WordPress project",
+      "review_limits": "Note and attachments inspected; 300x300 transparent product PNG inspected. Video title/channel/duration checked; transcript unavailable, full video not reviewed or backed up."
     }
   ]
 }

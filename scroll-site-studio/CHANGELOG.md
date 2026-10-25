@@ -1,5 +1,12 @@
 # Changes
 
+## 0.2.11 — 25 October 2026
+
+- Added Darrell Wilson method with credit to source creator Darrel Wilson.
+- Adapted desktop/mobile prompts to Replicate, preserving original downloads privately.
+- Retained explicit in-chat media approval, optional WordPress and one existing project/host workflow.
+- Backed up both original Markdown attachments, the product PNG and two derived working prompts; restore verified.
+
 ## 0.2.10 — 24 October 2026
 
 - Added VEYRA: MotionSites.ai reference credit and upstream project attribution to Amir Mušić.

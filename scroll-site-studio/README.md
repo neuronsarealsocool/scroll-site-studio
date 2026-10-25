@@ -1,4 +1,4 @@
-# Scroll Site Studio 0.2.10
+# Scroll Site Studio 0.2.11
 
 A portable high-end website skill and template library for Codex or Claude Code. Scroll effects are optional. Built from the
 Alder & Form workflow, with complete Scroll World, Scroll Craft and Replicate Media
@@ -133,3 +133,12 @@ and retain the upstream VEYRA project credit to
 [Amir Mušić](https://github.com/amirmushichge/veyra-interactive-car). The pack
 indexes a pinned automotive interaction scene with source and 18 bundled media
 files. The prompt and source ZIP have a verified private backup. See references/packs/veyra.md for reuse and verification details.
+
+## Darrell Wilson method — Replicate adaptation
+
+Credit [Darrel Wilson](https://www.youtube.com/@darrelwilson) for the tutorial and
+method. This pack combines a business-led style tile, visual-story table, matched
+media handoffs, scroll pacing and a dedicated mobile workflow. Replicate replaces
+the source provider; mandatory in-chat media approval and optional WordPress remain.
+Original sources and separate working adaptations have a verified private backup.
+See references/packs/darrell-wilson-method.md for sources and limits.

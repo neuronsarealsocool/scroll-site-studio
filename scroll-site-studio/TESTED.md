@@ -1,5 +1,15 @@
 # Validation record
 
+## 0.2.11 — 25 October 2026
+
+Inspected the Darrel Wilson note and downloaded its two original Markdown attachments
+and Drive PNG. PNG decoded as 300x300 RGBA with transparency. Preserved originals
+and generated two clearly marked Replicate/approval/platform working adaptations.
+A fresh private GitHub restore matched all five file sizes and SHA-256 hashes.
+Video title/channel/duration checked; transcript unavailable; full video not reviewed
+or backed up. No paid generation, build, site publication, runtime/device checks
+or performance benchmark was performed during ingestion.
+
 ## 0.2.10 — 24 October 2026
 
 VEYRA ingestion: v1.0.0 tag resolved to 5779ec0762559b84bd5da3b6ffccf76e747f7587.

@@ -48,3 +48,11 @@ design and media finishing to [Amir Mušić](https://github.com/amirmushichge/ve
 Retain its MIT LICENSE and THIRD_PARTY_NOTICES.md when reusing source or media.
 The pinned source ZIP is backed up privately; no upstream code, media or prompt is
 bundled in this public skill. Upstream dependency/font notices remain applicable.
+
+## Darrell Wilson method
+
+Method/tutorial credit: [Darrel Wilson](https://www.youtube.com/@darrelwilson).
+The user requested the display name Darrell Wilson method and the Replicate
+provider adaptation. Original prompts and the supplied product reference remain
+private alongside explicitly labelled working adaptations. No original media or
+complete source prompts are redistributed or relicensed by the public package.

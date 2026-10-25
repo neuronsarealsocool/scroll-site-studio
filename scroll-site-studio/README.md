@@ -1,4 +1,4 @@
-# Scroll Site Studio 0.2.11
+# Scroll Site Studio 0.2.12
 
 A portable high-end website skill and template library for Codex or Claude Code. Scroll effects are optional. Built from the
 Alder & Form workflow, with complete Scroll World, Scroll Craft and Replicate Media
@@ -142,3 +142,11 @@ media handoffs, scroll pacing and a dedicated mobile workflow. Replicate replace
 the source provider; mandatory in-chat media approval and optional WordPress remain.
 Original sources and separate working adaptations have a verified private backup.
 See references/packs/darrell-wilson-method.md for sources and limits.
+
+## Bart method — Replicate adaptation
+
+Credit [Bart Slodyczka / Barty-Bart](https://github.com/Barty-Bart/gpt-6-astra-10k-websites).
+The pack follows Desktop Build with Mobile Refinement in one responsive project.
+Original pinned source and separate Replicate working prompts are privately backed
+up and restore-verified. No finished site or production media is supplied.
+See references/packs/bart-method.md for workflow, credit and limits.

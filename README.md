@@ -11,7 +11,7 @@ Claude Code**, and growing a library of templates and design references over tim
 
 ## Install
 
-Download and extract the [v0.2.11 release](https://github.com/neuronsarealsocool/scroll-site-studio/releases/tag/v0.2.11),
+Download and extract the [v0.2.12 release](https://github.com/neuronsarealsocool/scroll-site-studio/releases/tag/v0.2.12),
 then open a terminal inside the extracted `scroll-site-studio` folder. With Python 3.10+:
 
 ```text
@@ -170,3 +170,11 @@ media handoffs, scroll pacing and a dedicated mobile workflow. Replicate replace
 the source provider; mandatory in-chat media approval and optional WordPress remain.
 Original sources and separate working adaptations have a verified private backup.
 See [the pack index](scroll-site-studio/references/packs/darrell-wilson-method.md) for sources and limits.
+
+## Bart method — Replicate adaptation
+
+Credit [Bart Slodyczka / Barty-Bart](https://github.com/Barty-Bart/gpt-6-astra-10k-websites).
+The pack follows Desktop Build with Mobile Refinement in one responsive project.
+Original pinned source and separate Replicate working prompts are privately backed
+up and restore-verified. No finished site or production media is supplied.
+See [the pack index](scroll-site-studio/references/packs/bart-method.md) for workflow, credit and limits.

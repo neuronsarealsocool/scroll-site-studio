@@ -1,5 +1,12 @@
 # Changes
 
+## 0.2.12 — 25 October 2026
+
+- Added Bart method with credit to Bart Slodyczka / Barty-Bart.
+- Pinned source commit and preserved original archive with two separate Replicate working prompts.
+- Documented desktop-to-mobile method, placeholder-only source assets and source review limits.
+- Retained in-chat media approval, optional WordPress and verbatim/adapted/hybrid reuse.
+
 ## 0.2.11 — 25 October 2026
 
 - Added Darrell Wilson method with credit to source creator Darrel Wilson.

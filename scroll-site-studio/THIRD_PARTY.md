@@ -56,3 +56,11 @@ The user requested the display name Darrell Wilson method and the Replicate
 provider adaptation. Original prompts and the supplied product reference remain
 private alongside explicitly labelled working adaptations. No original media or
 complete source prompts are redistributed or relicensed by the public package.
+
+## Bart method
+
+Credit [Bart Slodyczka / Barty-Bart](https://github.com/Barty-Bart/gpt-6-astra-10k-websites)
+for the prompts and tutorial. The pinned source has no LICENSE file. This package
+does not republish or relicense full source prompts or its placeholder SVG. The
+original ZIP and clearly marked Replicate adaptations are preserved privately;
+public distribution contains links, credit and authored usage guidance.

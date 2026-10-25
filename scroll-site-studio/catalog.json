@@ -315,6 +315,51 @@
       "platform_default": "user-selected or existing project/host stack; reuse existing publishing workflow",
       "wordpress": "optional; only when selected by the user or maintaining an existing WordPress project",
       "review_limits": "Note and attachments inspected; 300x300 transparent product PNG inspected. Video title/channel/duration checked; transcript unavailable, full video not reviewed or backed up."
+    },
+    {
+      "id": "bart-method",
+      "title": "Bart method — Replicate adaptation",
+      "description": "Bart Slodyczka desktop-build then mobile-refinement prompts: business identity, style tile, connected visual story, scroll pacing and portrait refinement.",
+      "index": "references/packs/bart-method.md",
+      "use_modes": [
+        "verbatim",
+        "adapted",
+        "hybrid"
+      ],
+      "distribution": "source-links-only; original archive and full working adaptations remain private",
+      "credit": {
+        "author": "Bart Slodyczka",
+        "repository_owner": "Barty-Bart",
+        "url": "https://github.com/Barty-Bart/gpt-6-astra-10k-websites",
+        "notice": "Credit Bart Slodyczka / Barty-Bart for source prompts and tutorial; no source license supplied in pinned snapshot."
+      },
+      "source_commit": "e05e451ecd1e371536ef3c310fa273e12b98db7a",
+      "provider": "Replicate replaces the source Higgsfield MCP requirement under this library default",
+      "media_publication_approval": "required in chat for each new/selected asset, including autonomous work",
+      "sources": [
+        {
+          "type": "repository",
+          "url": "https://github.com/Barty-Bart/gpt-6-astra-10k-websites"
+        },
+        {
+          "type": "pinned-source",
+          "url": "https://github.com/Barty-Bart/gpt-6-astra-10k-websites/tree/e05e451ecd1e371536ef3c310fa273e12b98db7a"
+        },
+        {
+          "type": "tutorial",
+          "url": "https://www.youtube.com/watch?v=h2MjhbwVKLk"
+        }
+      ],
+      "backup": {
+        "url": "https://github.com/neuronsarealsocool/scroll-site-studio-source-backups/tree/main/bart-method/2026-10-25",
+        "visibility": "private",
+        "snapshot_date": "2026-10-25",
+        "verification": "Fresh GitHub restore verified original pinned ZIP and two Replicate working prompts, plus all five original archive member sizes/SHA-256 hashes.",
+        "access_note": "Requires private repository authorization; other recipients can obtain pinned public sources and create their own authorized backup."
+      },
+      "platform_default": "user-selected or existing project/host stack; coding-agent model follows user/environment",
+      "wordpress": "optional; only when selected by the user or maintaining an existing WordPress project",
+      "review_limits": "All five repository files inspected; no runnable app or production media. Tutorial title/channel checked; transcript unavailable and full video not reviewed or backed up."
     }
   ]
 }

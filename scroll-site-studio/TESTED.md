@@ -1,5 +1,14 @@
 # Validation record
 
+## 0.2.12 — 25 October 2026
+
+Inspected all five Bart source files at e05e451ecd1e371536ef3c310fa273e12b98db7a.
+Pinned ZIP passed CRC. A fresh private GitHub restore verified original archive,
+two derived Replicate prompts and five archive members by size/SHA-256. No LICENSE
+file or production media/app supplied. Tutorial title/channel checked; transcript
+unavailable and full video not reviewed/backed up. No paid generation, code execution,
+website build/deploy or runtime/device/performance check during ingestion.
+
 ## 0.2.11 — 25 October 2026
 
 Inspected the Darrel Wilson note and downloaded its two original Markdown attachments

@@ -1,5 +1,12 @@
 # Changes
 
+## 0.2.13 — 9 November 2026
+
+- Added Tower Real Estate Videos as a prompt-and-linked-media reference pack.
+- Preserved original prompt and all 12 source media files in a verified private backup.
+- Documented measured dimensions, demo pricing/registration, reuse modes and playback checks.
+- Retained Replicate, optional WordPress and mandatory in-chat media approval defaults.
+
 ## 0.2.12 — 25 October 2026
 
 - Added Bart method with credit to Bart Slodyczka / Barty-Bart.

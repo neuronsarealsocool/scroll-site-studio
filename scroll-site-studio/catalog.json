@@ -360,6 +360,42 @@
       "platform_default": "user-selected or existing project/host stack; coding-agent model follows user/environment",
       "wordpress": "optional; only when selected by the user or maintaining an existing WordPress project",
       "review_limits": "All five repository files inspected; no runnable app or production media. Tutorial title/channel checked; transcript unavailable and full video not reviewed or backed up."
+    },
+    {
+      "id": "tower-real-estate-videos",
+      "title": "Tower Real Estate Videos",
+      "description": "Choose your floor prompt: registered floor lighting, two-clip tower arrival and reversible bathroom/bedroom video tours; 12 linked source assets backed up privately.",
+      "index": "references/packs/tower-real-estate-videos.md",
+      "use_modes": [
+        "verbatim",
+        "adapted",
+        "hybrid"
+      ],
+      "distribution": "authored guidance and private-source links; original prompt/media not redistributed publicly",
+      "credit": {
+        "source": "User-supplied recreation prompt",
+        "author": "not identified in supplied material",
+        "notice": "Preserve original prompt and any later supplied attribution; do not infer authorship from CDN/proxy names."
+      },
+      "media_publication_approval": "required in chat for each new/selected asset; private backup is separate",
+      "sources": [
+        {
+          "type": "private-original-prompt-and-media-snapshot",
+          "url": "https://github.com/neuronsarealsocool/scroll-site-studio-source-backups/tree/main/tower-real-estate-videos/2026-11-09"
+        }
+      ],
+      "backup": {
+        "url": "https://github.com/neuronsarealsocool/scroll-site-studio-source-backups/tree/main/tower-real-estate-videos/2026-11-09",
+        "visibility": "private",
+        "snapshot_date": "2026-11-09",
+        "verification": "Fresh GitHub restore verified original prompt and all 12 original media downloads (13 file sizes/SHA-256 hashes).",
+        "access_note": "Private repository authorization required; other recipients need their own authorized sources/backup."
+      },
+      "supplied_material": "One text prompt; all 12 linked direct-source assets downloaded (5 PNG, 7 MP4); no runnable HTML or fonts supplied.",
+      "platform_default": "user-selected or existing project/host stack; faithful new build uses single-file vanilla HTML/CSS/JS",
+      "wordpress": "optional; only when selected by the user or maintaining an existing WordPress project",
+      "provider": "Replicate remains default for separately requested new generation; source media provenance unchanged",
+      "review_limits": "PNG decoding and ffprobe metadata checked; CORS observed with local Origin. No full-motion/endpoint continuity, browser site or physical-device validation."
     }
   ]
 }

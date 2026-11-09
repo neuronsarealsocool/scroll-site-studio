@@ -64,3 +64,11 @@ for the prompts and tutorial. The pinned source has no LICENSE file. This packag
 does not republish or relicense full source prompts or its placeholder SVG. The
 original ZIP and clearly marked Replicate adaptations are preserved privately;
 public distribution contains links, credit and authored usage guidance.
+
+## Tower Real Estate Videos
+
+User-supplied Choose your floor recreation prompt. No author attribution or
+redistribution license was supplied; no ownership is inferred from source CDN or
+image-proxy names. Prompt and all 12 linked media are backed up privately. Public
+distribution includes authored guidance and provenance, without original source
+prompt/media or a new license grant over them.

@@ -1,4 +1,4 @@
-# Scroll Site Studio 0.2.12
+# Scroll Site Studio 0.2.13
 
 A portable high-end website skill and template library for Codex or Claude Code. Scroll effects are optional. Built from the
 Alder & Form workflow, with complete Scroll World, Scroll Craft and Replicate Media
@@ -150,3 +150,10 @@ The pack follows Desktop Build with Mobile Refinement in one responsive project.
 Original pinned source and separate Replicate working prompts are privately backed
 up and restore-verified. No finished site or production media is supplied.
 See references/packs/bart-method.md for workflow, credit and limits.
+
+## Tower Real Estate Videos
+
+A user-supplied Choose your floor prompt, with registered floor highlights, a
+two-clip apartment arrival and reversible bedroom/bathroom tours. Original prompt
+and all 12 linked assets have a verified private backup. No runnable website or
+real property inventory is supplied. See references/packs/tower-real-estate-videos.md for reuse and limits.

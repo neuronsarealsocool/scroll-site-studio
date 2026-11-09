@@ -11,7 +11,7 @@ Claude Code**, and growing a library of templates and design references over tim
 
 ## Install
 
-Download and extract the [v0.2.12 release](https://github.com/neuronsarealsocool/scroll-site-studio/releases/tag/v0.2.12),
+Download and extract the [v0.2.13 release](https://github.com/neuronsarealsocool/scroll-site-studio/releases/tag/v0.2.13),
 then open a terminal inside the extracted `scroll-site-studio` folder. With Python 3.10+:
 
 ```text
@@ -178,3 +178,10 @@ The pack follows Desktop Build with Mobile Refinement in one responsive project.
 Original pinned source and separate Replicate working prompts are privately backed
 up and restore-verified. No finished site or production media is supplied.
 See [the pack index](scroll-site-studio/references/packs/bart-method.md) for workflow, credit and limits.
+
+## Tower Real Estate Videos
+
+A user-supplied Choose your floor prompt, with registered floor highlights, a
+two-clip apartment arrival and reversible bedroom/bathroom tours. Original prompt
+and all 12 linked assets have a verified private backup. No runnable website or
+real property inventory is supplied. See [the pack index](scroll-site-studio/references/packs/tower-real-estate-videos.md) for reuse and limits.

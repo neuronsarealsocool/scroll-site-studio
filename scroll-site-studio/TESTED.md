@@ -1,5 +1,14 @@
 # Validation record
 
+## 0.2.13 — 9 November 2026
+
+Tower Real Estate Videos: inspected supplied prompt, decoded five PNGs and probed
+seven H.264 MP4s. Measured several 1276x720 clips where the prompt says 1280x720;
+mist loop contains AAC audio. Direct-source downloads with local Origin returned
+wildcard CORS. A fresh private GitHub restore matched all 13 file sizes/SHA-256
+hashes. No complete motion/endpoint, app runtime, browser/device acceptance, media
+generation or public site deployment was performed. Fonts/proxy copies excluded.
+
 ## 0.2.12 — 25 October 2026
 
 Inspected all five Bart source files at e05e451ecd1e371536ef3c310fa273e12b98db7a.

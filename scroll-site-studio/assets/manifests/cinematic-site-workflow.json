@@ -1,0 +1,12 @@
+{
+  "title": "Cinematic site workflow",
+  "assets": [
+    {
+      "id": "asset-01",
+      "role": "small transparent product reference",
+      "url": "https://lapis-slate-xvar.here.now/library/cinematic-site-workflow/media/3d806d062e1143.png",
+      "bytes": 80937,
+      "sha256": "24b4d046b230fc57db4ffc86729d2f8d6ebaed421129322a3c73c4a34459760d"
+    }
+  ]
+}

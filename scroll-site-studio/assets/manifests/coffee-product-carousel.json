@@ -1,0 +1,110 @@
+{
+  "title": "Coffee product carousel",
+  "assets": [
+    {
+      "id": "asset-01",
+      "role": "01-caramel",
+      "url": "https://lapis-slate-xvar.here.now/library/coffee-product-carousel/media/829205e4ca764d.png",
+      "bytes": 1209696,
+      "sha256": "796b0599a185d4e32091704662ff262c5088d8b73755e8439db2fe6fab7483bc"
+    },
+    {
+      "id": "asset-02",
+      "role": "02-chocolate",
+      "url": "https://lapis-slate-xvar.here.now/library/coffee-product-carousel/media/2d82ae03b82949.png",
+      "bytes": 1824258,
+      "sha256": "72514b1f72e908598a7dbc62218af6081b4c305f23fd3471e9c165f600d0bfe4"
+    },
+    {
+      "id": "asset-03",
+      "role": "04-pistachio",
+      "url": "https://lapis-slate-xvar.here.now/library/coffee-product-carousel/media/3f3be5b886924f.png",
+      "bytes": 1826496,
+      "sha256": "a999a9bc4606bebd196c8c0c79bd45d4e163a88c805abfae4863763477603288"
+    },
+    {
+      "id": "asset-04",
+      "role": "02-mocha-cream",
+      "url": "https://lapis-slate-xvar.here.now/library/coffee-product-carousel/media/6312e08d7f7641.png",
+      "bytes": 5112326,
+      "sha256": "30b83a81f2c10dbe6af530da7b113b0f330556acdd64d4793338711b0cf1f9b3"
+    },
+    {
+      "id": "asset-05",
+      "role": "03-strawberry-cold-foam",
+      "url": "https://lapis-slate-xvar.here.now/library/coffee-product-carousel/media/0d762ddc67f741.png",
+      "bytes": 4606640,
+      "sha256": "2514c8be71e7c0acdc6f34e0bef993c0b1482e43d1c5464b923729e934377638"
+    },
+    {
+      "id": "asset-06",
+      "role": "coffee-shop",
+      "url": "https://lapis-slate-xvar.here.now/library/coffee-product-carousel/media/a7269c37926f4e.jpg",
+      "bytes": 1081554,
+      "sha256": "e009adc02fa8add0b588a3087a992bfcbd4c7d1cf40a6283fd83ed6e1c0a6aea"
+    },
+    {
+      "id": "asset-07",
+      "role": "barista-pour",
+      "url": "https://lapis-slate-xvar.here.now/library/coffee-product-carousel/media/03c191e58c2741.jpg",
+      "bytes": 732587,
+      "sha256": "e6f37fcabf43d73d32693b57989171b9f6a10f5862686162c30a7b32418cb6ea"
+    },
+    {
+      "id": "asset-08",
+      "role": "03-strawberry",
+      "url": "https://lapis-slate-xvar.here.now/library/coffee-product-carousel/media/c1dea116eef44f.png",
+      "bytes": 2404587,
+      "sha256": "6866f06e965f70bc4d9d06d501ed559573ea9af72df6bf79a700879e5df040c5"
+    },
+    {
+      "id": "asset-09",
+      "role": "05-brown-sugar-latte",
+      "url": "https://lapis-slate-xvar.here.now/library/coffee-product-carousel/media/9f43ed877a7940.png",
+      "bytes": 5554900,
+      "sha256": "e994e9de9f35669c2db1f2dbdf74137a6957261c315e311fc073b91f5b9baf16"
+    },
+    {
+      "id": "asset-10",
+      "role": "05-brown-sugar-cinnamon",
+      "url": "https://lapis-slate-xvar.here.now/library/coffee-product-carousel/media/cf53b1e010f54c.png",
+      "bytes": 2010738,
+      "sha256": "90072da6b56bc7d65d6c8379e6da321e05106109545046473205b0afc1b563ef"
+    },
+    {
+      "id": "asset-11",
+      "role": "04-pistachio-oat-latte",
+      "url": "https://lapis-slate-xvar.here.now/library/coffee-product-carousel/media/e77a25d974ab4a.png",
+      "bytes": 5111246,
+      "sha256": "e12271364b22d802e2491e4f666f5503b6b1fdd1592868cb20a33ddcfc76b36c"
+    },
+    {
+      "id": "asset-12",
+      "role": "hero-background-4k",
+      "url": "https://lapis-slate-xvar.here.now/library/coffee-product-carousel/media/0daa40b0d49544.png",
+      "bytes": 4245472,
+      "sha256": "1dc4a439213a357199974ee165552a0c328c73fb33e334d337ba052924bb78fc"
+    },
+    {
+      "id": "asset-13",
+      "role": "01-caramel-cloud",
+      "url": "https://lapis-slate-xvar.here.now/library/coffee-product-carousel/media/1a3a5c869b0243.png",
+      "bytes": 4930475,
+      "sha256": "fde7c33b53c6411ad69498e143ecfffeafc6f5b05f7e7835c929102e63cc1039"
+    },
+    {
+      "id": "asset-14",
+      "role": "ingredients-counter",
+      "url": "https://lapis-slate-xvar.here.now/library/coffee-product-carousel/media/375cd68a5a0a42.jpg",
+      "bytes": 1499855,
+      "sha256": "f0394f4e903ee1e80c220236700a5c7e0fe2b7aa2b66a4293ddd101ee0f15b21"
+    },
+    {
+      "id": "asset-15",
+      "role": "hero composition reference",
+      "url": "https://lapis-slate-xvar.here.now/library/coffee-product-carousel/media/c24d8234b6bd47.png",
+      "bytes": 1742016,
+      "sha256": "5abb73d3fcf3e81823b6821b2e0eb8ea1b4ec3932b39f47cd514332ff59f69cb"
+    }
+  ]
+}

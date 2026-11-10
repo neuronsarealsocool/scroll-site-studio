@@ -1,0 +1,138 @@
+{
+  "title": "Alpine editorial retreat",
+  "assets": [
+    {
+      "id": "asset-01",
+      "role": "gallery photograph 01",
+      "url": "https://lapis-slate-xvar.here.now/library/alpine-editorial/media/2fe4237b6c3647.webp",
+      "bytes": 179400,
+      "sha256": "7b1c7334d610e67674cfa1f416eb47c0ef1f789e494949a1a979eec3a8bd5588"
+    },
+    {
+      "id": "asset-02",
+      "role": "hero",
+      "url": "https://lapis-slate-xvar.here.now/library/alpine-editorial/media/20c1f19653c541.webp",
+      "bytes": 213830,
+      "sha256": "3357ec32e547b6482fccbecd2b17ae7d230c75ebfe5aa443cde8d25553c3aadb"
+    },
+    {
+      "id": "asset-03",
+      "role": "gallery photograph 03",
+      "url": "https://lapis-slate-xvar.here.now/library/alpine-editorial/media/950e92def32849.webp",
+      "bytes": 191078,
+      "sha256": "f87f9b2333f862bf9267823a25f23e1851ceadbf8d7b354c9a1efae26700a48e"
+    },
+    {
+      "id": "asset-04",
+      "role": "gallery photograph 04",
+      "url": "https://lapis-slate-xvar.here.now/library/alpine-editorial/media/f6a3b4c86d0447.webp",
+      "bytes": 206932,
+      "sha256": "3ebc4b7fcf85aa8fcd138d639cfd0855e80eb31671dbc380cd3eeb4ab102a48a"
+    },
+    {
+      "id": "asset-05",
+      "role": "gallery photograph 05",
+      "url": "https://lapis-slate-xvar.here.now/library/alpine-editorial/media/4832b2010c6643.webp",
+      "bytes": 277246,
+      "sha256": "5e3572f0296981b2b0c35f3f47a2cde09f4fdbacceffe48c2ea265bb96bbd59c"
+    },
+    {
+      "id": "asset-06",
+      "role": "exterior",
+      "url": "https://lapis-slate-xvar.here.now/library/alpine-editorial/media/be11531c336045.webp",
+      "bytes": 337518,
+      "sha256": "e5778c25671257347eaeb5ea572c5e2174b0b25bfb5929e12fa6a195908d5b12"
+    },
+    {
+      "id": "asset-07",
+      "role": "navigation photograph 07",
+      "url": "https://lapis-slate-xvar.here.now/library/alpine-editorial/media/4c6032fc14314d.webp",
+      "bytes": 321902,
+      "sha256": "f3f4d8baa6bb4aed1be2c70334bf7349e3941eaa184d32f549a4903f17abe028"
+    },
+    {
+      "id": "asset-08",
+      "role": "gallery photograph 08",
+      "url": "https://lapis-slate-xvar.here.now/library/alpine-editorial/media/87af5f090b4443.webp",
+      "bytes": 241768,
+      "sha256": "d76130af2a8c411303c7ff94abd0cd5773fc913fd1b6f9c32e4a768d1ce37328"
+    },
+    {
+      "id": "asset-09",
+      "role": "interior",
+      "url": "https://lapis-slate-xvar.here.now/library/alpine-editorial/media/47ff0e59edbb41.webp",
+      "bytes": 132422,
+      "sha256": "55b093a12202aae150d73559360221725b4391c1229799b66d81a1fd741adaf8"
+    },
+    {
+      "id": "asset-10",
+      "role": "gallery photograph 10",
+      "url": "https://lapis-slate-xvar.here.now/library/alpine-editorial/media/4540b48175f544.webp",
+      "bytes": 249314,
+      "sha256": "7c2e2fffa5740318edb583fccf87ce4f02c8c15bf56770ad6af705e676662487"
+    },
+    {
+      "id": "asset-11",
+      "role": "gallery photograph 11",
+      "url": "https://lapis-slate-xvar.here.now/library/alpine-editorial/media/d24f0b5f253f4c.webp",
+      "bytes": 207478,
+      "sha256": "3b995d2864b8fd11ab6252a608710cba38500c8f037948b1dbbac46419bc4786"
+    },
+    {
+      "id": "asset-12",
+      "role": "gallery photograph 12",
+      "url": "https://lapis-slate-xvar.here.now/library/alpine-editorial/media/2bb0826165984c.webp",
+      "bytes": 127498,
+      "sha256": "2e2d84a6417d1252fd36fdda3186eb75ef93eaffc948598ccdf3abf9c3a4c1ec"
+    },
+    {
+      "id": "asset-13",
+      "role": "footer",
+      "url": "https://lapis-slate-xvar.here.now/library/alpine-editorial/media/cf198cf9eade49.webp",
+      "bytes": 275856,
+      "sha256": "d04df34fe8b0cb68f0e23c7f1bcfb341935cd3db8d99d725a87711d400565e8c"
+    },
+    {
+      "id": "asset-14",
+      "role": "navigation photograph 14",
+      "url": "https://lapis-slate-xvar.here.now/library/alpine-editorial/media/4e89a21213b34f.webp",
+      "bytes": 182984,
+      "sha256": "e0194b44e47fccdf30ffea4db72c7b52501eb8853d3f46163af779a183b8884c"
+    },
+    {
+      "id": "asset-15",
+      "role": "gallery photograph 15",
+      "url": "https://lapis-slate-xvar.here.now/library/alpine-editorial/media/34985d00d7a34a.webp",
+      "bytes": 301360,
+      "sha256": "0bed845398863f36f843fafcfc0ec3527a2a931c6b25f5cf2db8dd84494132b4"
+    },
+    {
+      "id": "asset-16",
+      "role": "navigation photograph 16",
+      "url": "https://lapis-slate-xvar.here.now/library/alpine-editorial/media/993e38042c574a.webp",
+      "bytes": 231448,
+      "sha256": "81a750f646cd4a8f407a644bb8f9b6ecc992968c9e8dcba00010a156e90c062b"
+    },
+    {
+      "id": "asset-17",
+      "role": "full reference",
+      "url": "https://lapis-slate-xvar.here.now/library/alpine-editorial/media/0eaac747e4c945.png",
+      "bytes": 2156670,
+      "sha256": "80e533a34365a9081a000a0c7851705f91e30863610c58b7f0ea1e11ecf9ed33"
+    },
+    {
+      "id": "asset-18",
+      "role": "gallery photograph 18",
+      "url": "https://lapis-slate-xvar.here.now/library/alpine-editorial/media/93b07aa9b2164f.webp",
+      "bytes": 201776,
+      "sha256": "cd5a4f0e92655f7dbd112bd447b2e1be609c52e4589dade05e893471a139bdb3"
+    },
+    {
+      "id": "asset-19",
+      "role": "page composition reference",
+      "url": "https://lapis-slate-xvar.here.now/library/alpine-editorial/media/61db43def20946.png",
+      "bytes": 158909,
+      "sha256": "bc95647d7806f70bd6615efe997fee42ff9c5516763a3d268cd5685313e823b5"
+    }
+  ]
+}

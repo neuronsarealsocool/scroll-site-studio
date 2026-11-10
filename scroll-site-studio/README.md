@@ -94,66 +94,22 @@ Example prompt:
 Templates are starting points. They do not make every backend or business workflow
 production-ready. Publishing uses the recipient's own chosen host and credentials.
 
-## Reference pack platform choice
+## Reference packs
 
-All packs, including Layer and Frostwood, default to the user-selected or existing
-project/host stack; new projects use a suitable responsive frontend. WordPress and
-WooCommerce are optional choices. A supplied WP theme or WP-specific prompt never
-selects the stack automatically, including for verbatim design reuse.
+Eight neutral working packs include direct hosted asset maps. Use their prompts as
+written, adapt them, or combine selected parts with other ideas. WordPress remains
+optional. New media defaults to Replicate and still requires in-chat approval.
 
-## Source packs
+- [Alpine editorial retreat](references/packs/alpine-editorial.md): 19 media files.
+- [Coffee product carousel](references/packs/coffee-product-carousel.md): 15 media files.
+- [Architectural landscape journey](references/packs/architectural-landscape.md): 15 media files.
+- [Orbital portal experience](references/packs/orbital-portals.md): 6 media files.
+- [Electric vehicle explorer](references/packs/electric-vehicle-explorer.md): 20 media files.
+- [Cinematic site workflow](references/packs/cinematic-site-workflow.md): 1 media files.
+- [Desktop and mobile workflow](references/packs/desktop-mobile-workflow.md): 1 media files.
+- [Tower and room tours](references/packs/tower-room-tours.md): 12 media files.
 
-The Frostwood pack links its video, detailed prompt document and original image/theme archives. It can guide close reproduction or a different design brief. Originals stay in their existing Drive location; the library provides an index and usage notes rather than republishing the source media. See references/packs/frostwood.md.
-
-The Layer pack adds a premium coffee product showcase, detailed matched-asset
-prompts, a hero reference and a WooCommerce theme example. See
-references/packs/layer.md for reuse modes, the private backup and missing product
-data. Source packs guide other platforms too; they are not runnable HTML starters.
-
-The Horizon Estates pack adds architectural parallax direction, 15 Orange/Purple
-images and a detailed prompt document. Its index maps source filenames, real alpha
-channels and missing deliverables. See references/packs/horizon-estates.md.
-
-## Independent backups
-
-Default to a verified independent online copy of source documents and assets, in a designated private repository/folder when public use is not approved. Preserve dated versions and checksum manifests, and verify by downloading the copies. Private backup does not approve public website use. See references/source-backups.md.
-
-## Planet Jumping — MotionSites.ai
-
-All credit for the original Planet Jumping prompt/design reference goes to
-[MotionSites.ai](https://www.motionsites.ai/). This prompt-only pack describes a
-cinematic canvas portal experience. One supplied text file is backed up privately;
-referenced media and fonts were not supplied. The source prompt is not included
-in the public release. See references/packs/planet-jumping.md for reuse guidance and dependency limits.
-
-## VEYRA — MotionSites.ai reference
-
-Credit [MotionSites.ai](https://www.motionsites.ai/) for the supplied reference,
-and retain the upstream VEYRA project credit to
-[Amir Mušić](https://github.com/amirmushichge/veyra-interactive-car). The pack
-indexes a pinned automotive interaction scene with source and 18 bundled media
-files. The prompt and source ZIP have a verified private backup. See references/packs/veyra.md for reuse and verification details.
-
-## Darrell Wilson method — Replicate adaptation
-
-Credit [Darrel Wilson](https://www.youtube.com/@darrelwilson) for the tutorial and
-method. This pack combines a business-led style tile, visual-story table, matched
-media handoffs, scroll pacing and a dedicated mobile workflow. Replicate replaces
-the source provider; mandatory in-chat media approval and optional WordPress remain.
-Original sources and separate working adaptations have a verified private backup.
-See references/packs/darrell-wilson-method.md for sources and limits.
-
-## Bart method — Replicate adaptation
-
-Credit [Bart Slodyczka / Barty-Bart](https://github.com/Barty-Bart/gpt-6-astra-10k-websites).
-The pack follows Desktop Build with Mobile Refinement in one responsive project.
-Original pinned source and separate Replicate working prompts are privately backed
-up and restore-verified. No finished site or production media is supplied.
-See references/packs/bart-method.md for workflow, credit and limits.
-
-## Tower Real Estate Videos
-
-A user-supplied Choose your floor prompt, with registered floor highlights, a
-two-clip apartment arrival and reversible bedroom/bathroom tours. Original prompt
-and all 12 linked assets have a verified private backup. No runnable website or
-real property inventory is supplied. See references/packs/tower-real-estate-videos.md for reuse and limits.
+[Browse the hosted library](https://lapis-slate-xvar.here.now/library/browse.html). The release includes working prompts,
+asset manifests and required notices; media bytes are hosted separately. Originals
+and private working backups are outside the public package. Required notices and
+recognizable imagery can identify a source; neutral naming is not full anonymity.

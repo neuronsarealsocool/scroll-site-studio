@@ -1,0 +1,89 @@
+{
+  "title": "Tower and room tours",
+  "assets": [
+    {
+      "id": "asset-01",
+      "role": "tower dawn plate",
+      "url": "https://lapis-slate-xvar.here.now/library/tower-room-tours/media/d69f7a7c265c41.png",
+      "bytes": 3191216,
+      "sha256": "e8e6d1db23c56d75429eb3380a86d3c8df9d5a06b158671e66ef675fa6577d94"
+    },
+    {
+      "id": "asset-02",
+      "role": "amber window plate",
+      "url": "https://lapis-slate-xvar.here.now/library/tower-room-tours/media/9028729d570e46.png",
+      "bytes": 3312280,
+      "sha256": "1c66c3bcbf93df94d74a141d501e576787e76959073329b4ffdc80c146e06e68"
+    },
+    {
+      "id": "asset-03",
+      "role": "mist loop",
+      "url": "https://lapis-slate-xvar.here.now/library/tower-room-tours/media/d9260005fe8640.mp4",
+      "bytes": 3119401,
+      "sha256": "a53107c66f3455cc9c9ab53ede3d8d04dd7c2cc565263c0eace6522fc62779ad"
+    },
+    {
+      "id": "asset-04",
+      "role": "bathroom still",
+      "url": "https://lapis-slate-xvar.here.now/library/tower-room-tours/media/83ad657818844d.png",
+      "bytes": 5116029,
+      "sha256": "612e1a30585fddcc78d035e235666d5a6b42819712a3cb0a6e11bf65402767ef"
+    },
+    {
+      "id": "asset-05",
+      "role": "living room still",
+      "url": "https://lapis-slate-xvar.here.now/library/tower-room-tours/media/f71ee0cb96244b.png",
+      "bytes": 5091697,
+      "sha256": "4e03df507b89265ff6501bb28815c95584c174dc145d53886ab16ff8711564e9"
+    },
+    {
+      "id": "asset-06",
+      "role": "bedroom still",
+      "url": "https://lapis-slate-xvar.here.now/library/tower-room-tours/media/990133c719be4d.png",
+      "bytes": 5246202,
+      "sha256": "2d8a61f450bc17f5df2397b08d9d3d4f607d2647f1c99e71c063fb0282efd942"
+    },
+    {
+      "id": "asset-07",
+      "role": "bathroom return film",
+      "url": "https://lapis-slate-xvar.here.now/library/tower-room-tours/media/df4fe4a4d75043.mp4",
+      "bytes": 4248212,
+      "sha256": "6bbef08e20e0d9e8821b80c023fa6e0903e6ab668f319d417b6df2d2d08c8065"
+    },
+    {
+      "id": "asset-08",
+      "role": "bedroom return film",
+      "url": "https://lapis-slate-xvar.here.now/library/tower-room-tours/media/2f4d338b38ed44.mp4",
+      "bytes": 4971562,
+      "sha256": "6925630fdac01509d299e327f6dddea3d1a7890225de3e6b27a0812d86fec429"
+    },
+    {
+      "id": "asset-09",
+      "role": "tower to balcony film",
+      "url": "https://lapis-slate-xvar.here.now/library/tower-room-tours/media/0d6494f865f246.mp4",
+      "bytes": 4994319,
+      "sha256": "5cecc1aa417c10f9c72a46f668da69dba874886abbe32ec1bf65431bcb06c8e7"
+    },
+    {
+      "id": "asset-10",
+      "role": "living to bathroom film",
+      "url": "https://lapis-slate-xvar.here.now/library/tower-room-tours/media/1163d1658c8843.mp4",
+      "bytes": 4625331,
+      "sha256": "cc8929dd89e5c4b592b5437ace447fc41521b2057257e7ec31e5abe3262a5be5"
+    },
+    {
+      "id": "asset-11",
+      "role": "living to bedroom film",
+      "url": "https://lapis-slate-xvar.here.now/library/tower-room-tours/media/0a4bef8f0bb142.mp4",
+      "bytes": 4867171,
+      "sha256": "b1a398bcb7772f57f8d82b087d13354d2fe1d595058deb8aee53d9fa799bbfb1"
+    },
+    {
+      "id": "asset-12",
+      "role": "balcony to living room film",
+      "url": "https://lapis-slate-xvar.here.now/library/tower-room-tours/media/c57d43b5697248.mp4",
+      "bytes": 6151519,
+      "sha256": "534f883a0265e9b2989cc5605cec27b65cc4c6897088ba5ce2afe13a8b6495c7"
+    }
+  ]
+}

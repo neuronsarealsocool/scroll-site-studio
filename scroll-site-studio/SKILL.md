@@ -2,7 +2,7 @@
 name: scroll-site-studio
 description: Create or refine high-end responsive websites in Codex or Claude using supplied templates, prompts, assets and design references. Supports static, editorial, interactive and scroll-driven sites, exact reuse or adaptation, Replicate media generation, in-chat media approval and a growing template library.
 metadata:
-  version: 0.2.13
+  version: 0.3.0
 ---
 
 # Scroll Site Studio
@@ -42,7 +42,9 @@ and assets are portable; host-specific tools and paid accounts are not bundled.
   available in Claude or a plain Codex installation.
 - **Extending this library:** read `references/maintaining.md`.
 - **Source documents and asset packs:** read `references/source-backups.md`.
-  Default to a verified independent online copy, not just original URLs or local
+  Use neutral pack names and user-hosted approved asset URLs in working packs and
+  backups. Retain required license notices and keep approval records private. Default to
+  a verified independent online copy, not just original URLs or local
   downloads. Reuse an authorized private backup destination, preserve versions and
   record checksums/access. Backup approval is not approval for public media use.
 
@@ -83,7 +85,7 @@ publication. Read `references/media.md` for the review workflow.
    in this package. Node is needed for Scroll Craft, not the vanilla starter.
 3. Read `catalog.json`. Select a template by fit, not by whichever was last used.
    `reference_packs` can instead supply a source document, example code and assets
-   hosted elsewhere. Read the pack's local index and original sources; a pack need
+   hosted elsewhere. Read the pack's local working prompt and hosted media manifest; a pack need
    not be a ready-made HTML template. Keep local originals and make an independent
    private online backup when authorized; keep them out of public hosting until approved.
    `python scripts/catalog.py init <id> --dest <new-directory>` copies a complete

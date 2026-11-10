@@ -16,7 +16,7 @@ are optional: use them only when the user requests or agrees to them, or is alre
 working on an existing WordPress site. A bundled WP theme, source installation guide
 or source prompt mentioning WP does not count as that choice.
 
-This applies to Layer, Frostwood and every future pack, including verbatim and
+This applies to every current and future pack, including verbatim and
 hybrid reuse. Preserve requested design, assets and interactions while adapting
 platform-specific instructions to the selected stack; keep the original prompt
 unchanged and disclose the technical adaptation. Reproducing a visual design does

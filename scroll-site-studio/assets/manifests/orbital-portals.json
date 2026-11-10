@@ -1,0 +1,47 @@
+{
+  "title": "Orbital portal experience",
+  "assets": [
+    {
+      "id": "asset-01",
+      "role": "mars bg",
+      "url": "https://lapis-slate-xvar.here.now/library/orbital-portals/media/71853add431544.mp4",
+      "bytes": 5558213,
+      "sha256": "608a277e4b3c1e781993617a2d5139aafff8aa06f76f73c6fb387acd509c596a"
+    },
+    {
+      "id": "asset-02",
+      "role": "to earth",
+      "url": "https://lapis-slate-xvar.here.now/library/orbital-portals/media/2a4c28730cea46.mp4",
+      "bytes": 11560881,
+      "sha256": "98c86f7e2b3f7954b0280e9ab57cb2310d88d0003f76f93bdcb1666964f3d42b"
+    },
+    {
+      "id": "asset-03",
+      "role": "to venus",
+      "url": "https://lapis-slate-xvar.here.now/library/orbital-portals/media/0dcfd0be919842.mp4",
+      "bytes": 14475698,
+      "sha256": "719c7971d8e2b063456e8cc9759bc328443c74ffea14047f38f1f816418df616"
+    },
+    {
+      "id": "asset-04",
+      "role": "to mars",
+      "url": "https://lapis-slate-xvar.here.now/library/orbital-portals/media/b799e9ef8e4c40.mp4",
+      "bytes": 15860826,
+      "sha256": "dfed8df15e25679a4bdc9ce990eb4ff9ecb293f445908b115e26b5a9fe80faa0"
+    },
+    {
+      "id": "asset-05",
+      "role": "mercury",
+      "url": "https://lapis-slate-xvar.here.now/library/orbital-portals/media/7e7d45a4e82b44.jpg",
+      "bytes": 1039184,
+      "sha256": "54f2dfeeece2d1863084988b54f247fa2490228a9cc81915e7e6b19aceaf3bbb"
+    },
+    {
+      "id": "asset-06",
+      "role": "logo",
+      "url": "https://lapis-slate-xvar.here.now/library/orbital-portals/media/ede1ec6bf03d48.svg",
+      "bytes": 855,
+      "sha256": "ac0f32de15668a525d53e1b3011c4bd8392ac34cc6fac7d6157c626b06e7bb3e"
+    }
+  ]
+}

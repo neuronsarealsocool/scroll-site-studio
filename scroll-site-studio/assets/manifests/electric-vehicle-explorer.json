@@ -1,0 +1,145 @@
+{
+  "title": "Electric vehicle explorer",
+  "assets": [
+    {
+      "id": "asset-01",
+      "role": "desktop",
+      "url": "https://lapis-slate-xvar.here.now/library/electric-vehicle-explorer/media/72f7675e1cf543.png",
+      "bytes": 83934,
+      "sha256": "ec1969f7e92310fd5cdf6c62ff182e58b0102969a1996c6fed14f223af6eab6c"
+    },
+    {
+      "id": "asset-02",
+      "role": "mobile",
+      "url": "https://lapis-slate-xvar.here.now/library/electric-vehicle-explorer/media/d716226149d34a.png",
+      "bytes": 34394,
+      "sha256": "c40b148aeb76ba63d068f3a443d374e8c4419996978fa173078fd8f27bbd0ba5"
+    },
+    {
+      "id": "asset-03",
+      "role": "battery-blue",
+      "url": "https://lapis-slate-xvar.here.now/library/electric-vehicle-explorer/media/90e956d525584b.png",
+      "bytes": 2079457,
+      "sha256": "90d573ce8569362b0f0c63e884b8e2683d312c436d4b8bd449a51535817ceb9a"
+    },
+    {
+      "id": "asset-04",
+      "role": "battery-hover-forward",
+      "url": "https://lapis-slate-xvar.here.now/library/electric-vehicle-explorer/media/2092bdd6534a4a.mp4",
+      "bytes": 330933,
+      "sha256": "28f264b3a2b11025e40e273348d90e624c54e511a1b5141260c10032eec8901b"
+    },
+    {
+      "id": "asset-05",
+      "role": "battery-hover-reverse",
+      "url": "https://lapis-slate-xvar.here.now/library/electric-vehicle-explorer/media/087cba459ac84e.mp4",
+      "bytes": 284523,
+      "sha256": "0c6d55c302280c531d841da72875aaaf08e32dfe95d3d4ba48cf12a575b3c42a"
+    },
+    {
+      "id": "asset-06",
+      "role": "battery",
+      "url": "https://lapis-slate-xvar.here.now/library/electric-vehicle-explorer/media/545b4066544549.png",
+      "bytes": 1979546,
+      "sha256": "9ce2b98e8897c7ff77384ef5492a840e27e645395f60102cba091092dd12f20c"
+    },
+    {
+      "id": "asset-07",
+      "role": "electric-green",
+      "url": "https://lapis-slate-xvar.here.now/library/electric-vehicle-explorer/media/1306e84e815645.png",
+      "bytes": 1456193,
+      "sha256": "a4cb72ab48752bf5c27cc079c7f643ac1b3ef23fd8aa3ffc902fa99cc45ab4d8"
+    },
+    {
+      "id": "asset-08",
+      "role": "graphite",
+      "url": "https://lapis-slate-xvar.here.now/library/electric-vehicle-explorer/media/1b5da2ffbc1f42.png",
+      "bytes": 1441808,
+      "sha256": "f4d4c277a58c84410059339fcfb61ca7b3603f6cf177da171e141c52507d7fa6"
+    },
+    {
+      "id": "asset-09",
+      "role": "lime-green",
+      "url": "https://lapis-slate-xvar.here.now/library/electric-vehicle-explorer/media/6a94dcf4b0d544.png",
+      "bytes": 1442605,
+      "sha256": "e132799f06033e21a939f8c0afae258a9667d602c326971b89fc3b074bf22e91"
+    },
+    {
+      "id": "asset-10",
+      "role": "sky-blue",
+      "url": "https://lapis-slate-xvar.here.now/library/electric-vehicle-explorer/media/f59c5bf239c241.png",
+      "bytes": 1417271,
+      "sha256": "cb4dd42cd552742eca7a12c102c44d117dd3300eb475bce6bc6d33c07b730468"
+    },
+    {
+      "id": "asset-11",
+      "role": "wheels-aero",
+      "url": "https://lapis-slate-xvar.here.now/library/electric-vehicle-explorer/media/b6360b840df84c.png",
+      "bytes": 1383683,
+      "sha256": "75d37bf058b0fb6f77fbdfa2257691ad2d4db57f255c848c454700da9a1c12f6"
+    },
+    {
+      "id": "asset-12",
+      "role": "wheels-forged",
+      "url": "https://lapis-slate-xvar.here.now/library/electric-vehicle-explorer/media/4eced439fce249.png",
+      "bytes": 1405117,
+      "sha256": "6711c0c45c4b6984183d67f389d7071c61a4026fc471ca95b113f47bac0ba86d"
+    },
+    {
+      "id": "asset-13",
+      "role": "drive-blue",
+      "url": "https://lapis-slate-xvar.here.now/library/electric-vehicle-explorer/media/5e98f4aa575642.png",
+      "bytes": 2084360,
+      "sha256": "af955c93520443f0a827a32c3be2ec831196f10b8a145f54a562675fe1eee69d"
+    },
+    {
+      "id": "asset-14",
+      "role": "drive",
+      "url": "https://lapis-slate-xvar.here.now/library/electric-vehicle-explorer/media/e5ec009c805649.png",
+      "bytes": 1925064,
+      "sha256": "84ee5a7e09550d99174cc3788f8d0e147886cc3680a607b69db887d7a8f674fa"
+    },
+    {
+      "id": "asset-15",
+      "role": "exterior-blue",
+      "url": "https://lapis-slate-xvar.here.now/library/electric-vehicle-explorer/media/4cb449689e4441.png",
+      "bytes": 1459387,
+      "sha256": "2498f53baa1bf3b15500c94522b264fcc5d0770786d01d021d1b2ae299822dda"
+    },
+    {
+      "id": "asset-16",
+      "role": "exterior-polished",
+      "url": "https://lapis-slate-xvar.here.now/library/electric-vehicle-explorer/media/162e2a3e090740.png",
+      "bytes": 1445207,
+      "sha256": "9433f3641eae25d6fc2f96ee646af0867d4906adf659a589c7ba4704d25bd29d"
+    },
+    {
+      "id": "asset-17",
+      "role": "exterior",
+      "url": "https://lapis-slate-xvar.here.now/library/electric-vehicle-explorer/media/62e06733f83942.png",
+      "bytes": 1308469,
+      "sha256": "c62ddf054ab80748bf8c3ba3207e57b8eb498a011c1fad91fb398a86e66579e8"
+    },
+    {
+      "id": "asset-18",
+      "role": "hood-hover-forward",
+      "url": "https://lapis-slate-xvar.here.now/library/electric-vehicle-explorer/media/e4a3a0877c9a44.mp4",
+      "bytes": 266800,
+      "sha256": "4a95a615e47a105155243745b83c784214fb188348f164af1864cc8dc22981ec"
+    },
+    {
+      "id": "asset-19",
+      "role": "hood-hover-reverse",
+      "url": "https://lapis-slate-xvar.here.now/library/electric-vehicle-explorer/media/68aff0db637f4d.mp4",
+      "bytes": 245876,
+      "sha256": "ee73759cd6d715d9ab56a9231fabdead9d1d631e8e502218875297a0dcb200ad"
+    },
+    {
+      "id": "asset-20",
+      "role": "lenses-blue",
+      "url": "https://lapis-slate-xvar.here.now/library/electric-vehicle-explorer/media/93e8de8e5f664d.png",
+      "bytes": 1813697,
+      "sha256": "fb1fc0b9a2c494ba34bf8ba855f1230d5561a821035de30620a98e0b13eabe83"
+    }
+  ]
+}

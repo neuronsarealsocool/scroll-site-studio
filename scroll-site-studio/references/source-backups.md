@@ -20,7 +20,7 @@ and report that online backup is incomplete rather than claiming protection.
 4. Store a manifest with source URLs, snapshot date, file sizes and SHA-256 hashes.
    Never store API tokens, signed upload URLs or private machine paths in that manifest.
 5. Download/restore the uploaded files and compare sizes/hashes. Only then record
-   a verified backup in the catalog. An upload attempt or an HTTP-200 HTML login
+   a verified backup in private maintenance state. An upload attempt or an HTTP-200 HTML login
    page is not proof the files were backed up.
 6. Record the destination and access requirements. A private backup is available
    only to authorized users, not every public skill recipient. Each recipient
@@ -39,3 +39,15 @@ the public catalog can carry links, provenance and access notes rather than copi
 Prefer a durable, authenticated destination over temporary provider-output URLs or
 anonymous expiring hosting. State the actual persistence/access limits and avoid
 promising that any external service will be available forever.
+
+
+## Neutral backup updates
+
+Use neutral descriptive directory/file names and user-hosted asset URLs in the
+private working backup as well. Omit optional creator/tutorial credits and original
+source URLs from these working backups; keep the hosted URL and new file hashes.
+Keep required licenses intact. If the owner asks
+to update existing snapshots, that overrides the default immutable-copy naming
+rule: make a reversible Git commit and retain prior history. Do not force-push or
+claim earlier source evidence has disappeared. Keep original local recovery copies
+outside the published tree, and never expose private backup access in public packs.

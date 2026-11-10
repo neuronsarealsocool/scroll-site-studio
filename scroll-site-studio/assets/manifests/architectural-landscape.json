@@ -1,0 +1,110 @@
+{
+  "title": "Architectural landscape journey",
+  "assets": [
+    {
+      "id": "asset-01",
+      "role": "warm sunset sky",
+      "url": "https://lapis-slate-xvar.here.now/library/architectural-landscape/media/f1d211e1be9443.png",
+      "bytes": 2084247,
+      "sha256": "31748d70ca6d34f02884ad3a79dcad9494801fdb0982ab835464a63604b306e4"
+    },
+    {
+      "id": "asset-02",
+      "role": "warm residence cutout",
+      "url": "https://lapis-slate-xvar.here.now/library/architectural-landscape/media/9eefd780a20a4b.png",
+      "bytes": 3051623,
+      "sha256": "c2383fe2c63d5ccbed88f36bb66ed5102d4cffaaf7178c54f727d20ab02ecfbb"
+    },
+    {
+      "id": "asset-03",
+      "role": "warm mountain mist continuation",
+      "url": "https://lapis-slate-xvar.here.now/library/architectural-landscape/media/a0e7796bbee046.png",
+      "bytes": 1975628,
+      "sha256": "0afcfd787f18e50eec611900086c48ae8530bf75ecbc1cd46ec42c62aa6bff97"
+    },
+    {
+      "id": "asset-04",
+      "role": "warm left mountain continuation",
+      "url": "https://lapis-slate-xvar.here.now/library/architectural-landscape/media/478ee3d4339743.png",
+      "bytes": 1796613,
+      "sha256": "290f6aa043ab68b205f4a05f702315035168ea7ca5921fea4581d40f3d555eeb"
+    },
+    {
+      "id": "asset-05",
+      "role": "alpine residence card",
+      "url": "https://lapis-slate-xvar.here.now/library/architectural-landscape/media/cad0103ea5314a.png",
+      "bytes": 2517878,
+      "sha256": "8f086dd7c2b6845d3e5eae06065a3be6ff03c42a536b03dd51b920cab5d6b49a"
+    },
+    {
+      "id": "asset-06",
+      "role": "coastal residence card",
+      "url": "https://lapis-slate-xvar.here.now/library/architectural-landscape/media/c2b976f10c4046.png",
+      "bytes": 2357740,
+      "sha256": "2fbc9fe27ab32cb59c80e34f3de603f4063147424c52b9fe66b38ff0567acf05"
+    },
+    {
+      "id": "asset-07",
+      "role": "warm mountain foreground cutout",
+      "url": "https://lapis-slate-xvar.here.now/library/architectural-landscape/media/9295d44f7eb443.png",
+      "bytes": 2582146,
+      "sha256": "a52b776bee20371d339ae595d0855b1992e4717121e23fc496f9897f2c6c54f1"
+    },
+    {
+      "id": "asset-08",
+      "role": "desert residence card",
+      "url": "https://lapis-slate-xvar.here.now/library/architectural-landscape/media/7b353ebb7d394b.png",
+      "bytes": 2434506,
+      "sha256": "1de76994d823531bd66452bb85d603d86fff5909bd43db7cba036279e495ccea"
+    },
+    {
+      "id": "asset-09",
+      "role": "violet sunset sky",
+      "url": "https://lapis-slate-xvar.here.now/library/architectural-landscape/media/cae5c4950c4342.png",
+      "bytes": 1988599,
+      "sha256": "1c990c88132d56baee8791576917feb09f273af2640fbeee51592d8638ba6a3c"
+    },
+    {
+      "id": "asset-10",
+      "role": "violet residence cutout",
+      "url": "https://lapis-slate-xvar.here.now/library/architectural-landscape/media/638cde1297ed4d.png",
+      "bytes": 2925547,
+      "sha256": "16a1e06620f700d5fb66c18956ee69f13c0b21bb123c194444e5f3f047d0e97e"
+    },
+    {
+      "id": "asset-11",
+      "role": "violet foreground cutout",
+      "url": "https://lapis-slate-xvar.here.now/library/architectural-landscape/media/d5c4b6652bff48.png",
+      "bytes": 2339592,
+      "sha256": "1cd9355239f1fc340697e0f530266bcf072d3d329946d8d5cd6f11bf748ab676"
+    },
+    {
+      "id": "asset-12",
+      "role": "violet landscape continuation one",
+      "url": "https://lapis-slate-xvar.here.now/library/architectural-landscape/media/e71fd118641c4e.png",
+      "bytes": 1585242,
+      "sha256": "c249ac9408180144d2f0e6e5a3daa3d6905c7a4af76e6857d6244a99d024a751"
+    },
+    {
+      "id": "asset-13",
+      "role": "violet landscape continuation two",
+      "url": "https://lapis-slate-xvar.here.now/library/architectural-landscape/media/6926fbdb9b8449.png",
+      "bytes": 1806319,
+      "sha256": "4761087b978f6cadb9f215e89b2fe0fc03d60cca6d0e8b043909cb5d3dbc0292"
+    },
+    {
+      "id": "asset-14",
+      "role": "violet left continuation",
+      "url": "https://lapis-slate-xvar.here.now/library/architectural-landscape/media/738bfec26aa540.png",
+      "bytes": 1796540,
+      "sha256": "e632fc7aad6c467e00886d794007889295f5d89fa1b15ba22ed2ac0a4819dba0"
+    },
+    {
+      "id": "asset-15",
+      "role": "violet landscape continuation three",
+      "url": "https://lapis-slate-xvar.here.now/library/architectural-landscape/media/f429b9ec21a340.png",
+      "bytes": 1820200,
+      "sha256": "e196907914fae48d4c737b16280bdc3477132b11a33d49a84e09e8159ae1ade7"
+    }
+  ]
+}

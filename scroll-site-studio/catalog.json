@@ -43,359 +43,236 @@
   ],
   "reference_packs": [
     {
-      "id": "frostwood",
-      "title": "Frostwood design and prompt pack",
-      "description": "Platform-neutral design prompts, visual references and production assets; optional WordPress theme example.",
-      "index": "references/packs/frostwood.md",
+      "id": "alpine-editorial",
+      "title": "Alpine editorial retreat",
+      "description": "Build a polished editorial website for an alpine retreat. Establish the visitor's next action before laying out the page. Compose a large photographic opening, quiet navigation, an expressive headline, readable supporting copy and one clear primary action. Use the supplied hero/exterior/interior/footer photographs for their intended roles; composition references guide spacing rather than becoming flattened screenshots of the interface.",
+      "index": "references/packs/alpine-editorial.md",
       "use_modes": [
         "verbatim",
         "adapted",
         "hybrid"
       ],
-      "distribution": "source-links-only",
-      "media_publication_approval": "required in chat for each new/selected asset",
+      "distribution": "authored working prompt and hosted media manifest; required notices retained",
       "sources": [
         {
-          "type": "video",
-          "url": "https://www.youtube.com/watch?v=EVd577396Es"
+          "type": "working-prompt",
+          "url": "https://lapis-slate-xvar.here.now/library/alpine-editorial/prompt.md"
         },
         {
-          "type": "prompt-document",
-          "url": "https://docs.google.com/document/d/1O4uzOHqg5GcAvWlNR9Nz0pnvqK3jCOvU/edit"
-        },
-        {
-          "type": "assets-and-theme",
-          "url": "https://drive.google.com/drive/folders/1mBrFljSMJCJvlsvYYhPqVB9xCA61chSt"
+          "type": "media-manifest",
+          "url": "https://lapis-slate-xvar.here.now/library/alpine-editorial/assets.json"
         }
       ],
-      "backup": {
-        "url": "https://github.com/neuronsarealsocool/scroll-site-studio-source-backups/tree/main/frostwood/2026-10-21",
-        "visibility": "private",
-        "snapshot_date": "2026-10-21",
-        "verification": "Downloaded from GitHub and verified all three file sizes and SHA-256 hashes",
-        "access_note": "Requires private repository authorization; other recipients need their own authorized copy."
-      },
-      "platform_default": "user-selected or existing project/host stack; otherwise a suitable responsive frontend",
-      "wordpress": "optional; only when selected by the user or maintaining an existing WordPress project"
+      "media_publication_approval": "required in chat for new/selected media; explicit approval persists for unchanged assets",
+      "platform_default": "existing or user-selected stack; otherwise a suitable responsive frontend",
+      "wordpress": "optional",
+      "provider": "Replicate for new generated media",
+      "media_count": 19,
+      "asset_manifest": "assets/manifests/alpine-editorial.json",
+      "asset_base_url": "https://lapis-slate-xvar.here.now/library/alpine-editorial/media/"
     },
     {
-      "id": "layer",
-      "title": "Layer coffee product showcase",
-      "description": "Platform-neutral coffee showcase direction, matched-asset prompts and QA; optional WordPress/WooCommerce example.",
-      "index": "references/packs/layer.md",
+      "id": "coffee-product-carousel",
+      "title": "Coffee product carousel",
+      "description": "Build a premium coffee product showcase with one prominent selected drink on a warm cream studio background and a curved ingredient selector. Keep the selected product name, description, options and primary action visually coherent. Use the hero composition reference to establish the relationship between cup, tray, ingredients and typography. Keep every control as HTML rather than baking it into the image.",
+      "index": "references/packs/coffee-product-carousel.md",
       "use_modes": [
         "verbatim",
         "adapted",
         "hybrid"
       ],
-      "distribution": "source-links-only",
-      "media_publication_approval": "required in chat for each new/selected asset",
+      "distribution": "authored working prompt and hosted media manifest; required notices retained",
       "sources": [
         {
-          "type": "video",
-          "url": "https://www.youtube.com/watch?v=lKQIOiDN2ME"
+          "type": "working-prompt",
+          "url": "https://lapis-slate-xvar.here.now/library/coffee-product-carousel/prompt.md"
         },
         {
-          "type": "prompt-document",
-          "url": "https://docs.google.com/document/d/1h_Bx6WuQOpAi2iuUp0jNxMY7LYsQroNUPqGZ6zjvI7o/edit"
-        },
-        {
-          "type": "assets-reference-and-theme",
-          "url": "https://drive.google.com/drive/folders/1bVpKNAKOutE6NfxstNA1vKwgwZf28DOY"
+          "type": "media-manifest",
+          "url": "https://lapis-slate-xvar.here.now/library/coffee-product-carousel/assets.json"
         }
       ],
-      "backup": {
-        "url": "https://github.com/neuronsarealsocool/scroll-site-studio-source-backups/tree/main/layer/2026-10-22",
-        "visibility": "private",
-        "snapshot_date": "2026-10-22",
-        "verification": "Fresh GitHub restore verified all five file sizes and SHA-256 hashes",
-        "access_note": "Requires private repository authorization; other recipients need their own authorized copy."
-      },
-      "platform_default": "user-selected or existing project/host stack; otherwise a suitable responsive frontend",
-      "wordpress": "optional; only when selected by the user or maintaining an existing WordPress project"
+      "media_publication_approval": "required in chat for new/selected media; explicit approval persists for unchanged assets",
+      "platform_default": "existing or user-selected stack; otherwise a suitable responsive frontend",
+      "wordpress": "optional",
+      "provider": "Replicate for new generated media",
+      "media_count": 15,
+      "asset_manifest": "assets/manifests/coffee-product-carousel.json",
+      "asset_base_url": "https://lapis-slate-xvar.here.now/library/coffee-product-carousel/media/"
     },
     {
-      "id": "horizon-estates",
-      "title": "Horizon Estates architectural parallax pack",
-      "description": "Platform-neutral layered architectural website prompts with Orange/Purple landscapes and transparent subjects; WordPress optional.",
-      "index": "references/packs/horizon-estates.md",
+      "id": "architectural-landscape",
+      "title": "Architectural landscape journey",
+      "description": "Build an architectural property website with independent sky, residence and foreground planes. Establish a strong static composition before adding motion. Choose either the warm or violet image family rather than blending conflicting palettes accidentally. The warm family has eight images and three property-card photographs; the violet family has seven images and no standalone property cards. Only the two residence subjects and two foreground subjects have real transparency. Opaque continuations require deliberate crop/mask blending.",
+      "index": "references/packs/architectural-landscape.md",
       "use_modes": [
         "verbatim",
         "adapted",
         "hybrid"
       ],
-      "distribution": "source-links-only",
-      "media_publication_approval": "required in chat for each new/selected asset",
+      "distribution": "authored working prompt and hosted media manifest; required notices retained",
       "sources": [
         {
-          "type": "video",
-          "url": "https://www.youtube.com/watch?v=bpF7Df-GDEQ"
+          "type": "working-prompt",
+          "url": "https://lapis-slate-xvar.here.now/library/architectural-landscape/prompt.md"
         },
         {
-          "type": "prompt-document",
-          "url": "https://docs.google.com/document/d/1_rd-diJHsyR43OTkHPJtATFUpenTGowO6KDEkARfh0Y/edit"
-        },
-        {
-          "type": "assets",
-          "url": "https://drive.google.com/drive/folders/1qmEsYC5dsyoziDAn17v-JPs3qec0f-a8"
+          "type": "media-manifest",
+          "url": "https://lapis-slate-xvar.here.now/library/architectural-landscape/assets.json"
         }
       ],
-      "backup": {
-        "url": "https://github.com/neuronsarealsocool/scroll-site-studio-source-backups/tree/main/horizon-estates/2026-10-23",
-        "visibility": "private",
-        "snapshot_date": "2026-10-23",
-        "verification": "Fresh GitHub restore verified all 17 file sizes and SHA-256 hashes",
-        "access_note": "Requires private repository authorization; other recipients need their own authorized copy."
-      },
-      "platform_default": "user-selected or existing project/host stack; otherwise a suitable responsive frontend",
-      "wordpress": "optional; only when selected by the user or maintaining an existing WordPress project",
-      "video_review": {
-        "reviewed_on": "2026-10-24",
-        "duration": "07:52",
-        "coverage": "Complete auto-generated English transcript and visual comparisons of opening, prototype and final walkthrough",
-        "audit": "references/packs/horizon-estates-video-audit.md",
-        "final_walkthrough": "07:07-07:27",
-        "limits": "Exact CSS values and physical-phone behavior are not established by the footage.",
-        "evidence_backup": {
-          "url": "https://github.com/neuronsarealsocool/scroll-site-studio-source-backups/tree/main/horizon-estates/2026-10-24-video-review",
-          "visibility": "private",
-          "verification": "Fresh sparse GitHub clone restored all 14 evidence files; sizes and SHA-256 verified against the snapshot manifest."
-        }
-      },
-      "headline_reference": {
-        "selected_on": "2026-10-24",
-        "guidance": "references/packs/horizon-estates-headline-reference.md",
-        "locked": "Both phrases sit near the upper facade with visible clearance and complete opening-state letterforms. House-relative size/height limits and ultrawide checks are required.",
-        "evidence_backup": {
-          "url": "https://github.com/neuronsarealsocool/scroll-site-studio-source-backups/tree/main/horizon-estates/2026-10-24-headline-reference",
-          "visibility": "private",
-          "verification": "Fresh sparse GitHub clone restored the original 2560 x 1440 screenshot; size and SHA-256 verified against the snapshot manifest."
-        },
-        "ultrawide_correction": {
-          "reported_on": "2026-10-24",
-          "failure_screenshot_dimensions": [
-            3440,
-            1271
-          ],
-          "evidence_backup": {
-            "url": "https://github.com/neuronsarealsocool/scroll-site-studio-source-backups/tree/main/horizon-estates/2026-10-24-ultrawide-correction",
-            "visibility": "private",
-            "verification": "Fresh GitHub restore verified original screenshot size and SHA-256 against the immutable snapshot manifest."
-          }
-        }
-      }
+      "media_publication_approval": "required in chat for new/selected media; explicit approval persists for unchanged assets",
+      "platform_default": "existing or user-selected stack; otherwise a suitable responsive frontend",
+      "wordpress": "optional",
+      "provider": "Replicate for new generated media",
+      "media_count": 15,
+      "asset_manifest": "assets/manifests/architectural-landscape.json",
+      "asset_base_url": "https://lapis-slate-xvar.here.now/library/architectural-landscape/media/"
     },
     {
-      "id": "planet-jumping",
-      "title": "Planet Jumping — MotionSites.ai",
-      "description": "Prompt-only cinematic space portal reference credited to MotionSites.ai; canvas mask travel and video preloader; media/fonts not supplied.",
-      "index": "references/packs/planet-jumping.md",
+      "id": "orbital-portals",
+      "title": "Orbital portal experience",
+      "description": "Build a self-contained HTML document with inline CSS/JavaScript and no external code libraries. Its media remains external, so “self-contained” does not mean offline-ready. The core interaction is a rounded canvas mask over screen-locked imagery: pointer tilt moves the window while its image stays fixed, then a click expands it to full-screen footage before committing the next state. A video preloader, docking logo, large condensed planet title, fact rows and custom cursor complete the composition.",
+      "index": "references/packs/orbital-portals.md",
       "use_modes": [
         "verbatim",
         "adapted",
         "hybrid"
       ],
-      "distribution": "original guidance and attribution only; source prompt preserved privately",
-      "credit": {
-        "name": "MotionSites.ai",
-        "url": "https://www.motionsites.ai/",
-        "notice": "All credit for the original prompt/design reference goes to MotionSites.ai. Preserve attribution.",
-        "basis": "Explicit user-supplied attribution"
-      },
-      "supplied_material": "One text prompt only; six remote media references in text are not downloaded/backed-up assets; no fonts or runnable HTML supplied.",
-      "media_publication_approval": "required in chat for each new/selected asset",
+      "distribution": "authored working prompt and hosted media manifest; required notices retained",
       "sources": [
         {
-          "type": "credited-source; not verified exact-prompt download",
-          "url": "https://www.motionsites.ai/"
+          "type": "working-prompt",
+          "url": "https://lapis-slate-xvar.here.now/library/orbital-portals/prompt.md"
+        },
+        {
+          "type": "media-manifest",
+          "url": "https://lapis-slate-xvar.here.now/library/orbital-portals/assets.json"
         }
       ],
-      "backup": {
-        "url": "https://github.com/neuronsarealsocool/scroll-site-studio-source-backups/tree/main/planet-jumping/2026-10-24",
-        "visibility": "private",
-        "snapshot_date": "2026-10-24",
-        "verification": "Fresh GitHub restore verified the one original prompt file size and SHA-256; referenced remote media excluded.",
-        "access_note": "Requires private repository authorization; other recipients need their own authorized prompt copy."
-      },
-      "platform_default": "user-selected or existing project/host stack; vanilla single-file frontend suits faithful new builds",
-      "wordpress": "optional; only when selected by the user or maintaining an existing WordPress project"
+      "media_publication_approval": "required in chat for new/selected media; explicit approval persists for unchanged assets",
+      "platform_default": "existing or user-selected stack; otherwise a suitable responsive frontend",
+      "wordpress": "optional",
+      "provider": "Replicate for new generated media",
+      "media_count": 6,
+      "asset_manifest": "assets/manifests/orbital-portals.json",
+      "asset_base_url": "https://lapis-slate-xvar.here.now/library/orbital-portals/media/"
     },
     {
-      "id": "veyra",
-      "title": "VEYRA — MotionSites.ai reference; project by Amir Mušić",
-      "description": "Framed automotive interaction scene with four hotspots, authored hover films, technical stills and appearance menus; pinned React/Vite source with bundled media.",
-      "index": "references/packs/veyra.md",
+      "id": "electric-vehicle-explorer",
+      "title": "Electric vehicle explorer",
+      "description": "Build a framed electric-vehicle exploration scene with a full-car view, four image-relative hotspots and appearance menus below the frame. The hotspots are Drive, Battery, Paint and Wheels. Hood and battery interactions use authored forward/reverse films, with still cutaways for detail states. This is a compact product study, not a runtime 3D model, a combined vehicle configurator or a sales backend. React/Vite or another selected frontend can implement the state machine.",
+      "index": "references/packs/electric-vehicle-explorer.md",
       "use_modes": [
         "verbatim",
         "adapted",
         "hybrid"
       ],
-      "distribution": "source-links-only",
-      "credit": {
-        "reference_name": "MotionSites.ai",
-        "reference_url": "https://www.motionsites.ai/",
-        "basis": "User identified the supplied reference as another MotionSites reference.",
-        "upstream_author": "Amir Mušić",
-        "upstream_url": "https://github.com/amirmushichge/veyra-interactive-car",
-        "license": "MIT; retain source LICENSE and THIRD_PARTY_NOTICES.md"
-      },
-      "source_version": {
-        "tag": "v1.0.0",
-        "commit": "5779ec0762559b84bd5da3b6ffccf76e747f7587",
-        "reference_hashes_verified": 32
-      },
-      "media_publication_approval": "required in chat for each new/selected asset; upstream reference approval is not current-user publication approval",
+      "distribution": "authored working prompt and hosted media manifest; required notices retained",
       "sources": [
         {
-          "type": "credited-reference",
-          "url": "https://www.motionsites.ai/"
+          "type": "working-prompt",
+          "url": "https://lapis-slate-xvar.here.now/library/electric-vehicle-explorer/prompt.md"
         },
         {
-          "type": "pinned-project",
-          "url": "https://github.com/amirmushichge/veyra-interactive-car/tree/v1.0.0"
-        },
-        {
-          "type": "source-archive",
-          "url": "https://github.com/amirmushichge/veyra-interactive-car/archive/refs/tags/v1.0.0.zip"
-        },
-        {
-          "type": "reproduction-prompt",
-          "url": "https://github.com/amirmushichge/veyra-interactive-car/blob/v1.0.0/docs/RECREATE.md"
+          "type": "media-manifest",
+          "url": "https://lapis-slate-xvar.here.now/library/electric-vehicle-explorer/assets.json"
         }
       ],
-      "backup": {
-        "url": "https://github.com/neuronsarealsocool/scroll-site-studio-source-backups/tree/main/veyra/2026-10-24",
-        "visibility": "private",
-        "snapshot_date": "2026-10-24",
-        "verification": "Fresh GitHub restore verified the original user prompt and pinned source ZIP sizes/SHA-256 hashes; source ZIP includes 18 media files.",
-        "access_note": "Requires private repository authorization; other recipients can obtain the pinned public source and make their own authorized backup."
-      },
-      "platform_default": "user-selected or existing project/host stack; React/Vite source suits faithful new builds",
-      "wordpress": "optional; only when selected by the user or maintaining an existing WordPress project"
+      "media_publication_approval": "required in chat for new/selected media; explicit approval persists for unchanged assets",
+      "platform_default": "existing or user-selected stack; otherwise a suitable responsive frontend",
+      "wordpress": "optional",
+      "provider": "Replicate for new generated media",
+      "media_count": 20,
+      "asset_manifest": "assets/manifests/electric-vehicle-explorer.json",
+      "asset_base_url": "https://lapis-slate-xvar.here.now/library/electric-vehicle-explorer/media/"
     },
     {
-      "id": "darrell-wilson-method",
-      "title": "Darrell Wilson method — Replicate adaptation",
-      "description": "Business-led style tile, visual story, matched scene handoffs, independently mapped scroll pacing and mobile sequence workflow; Replicate replaces the source provider.",
-      "index": "references/packs/darrell-wilson-method.md",
+      "id": "cinematic-site-workflow",
+      "title": "Cinematic site workflow",
+      "description": "Build a high-end responsive website around the actual business and visitor action. Use the following planning and implementation method within the chosen project.",
+      "index": "references/packs/cinematic-site-workflow.md",
       "use_modes": [
         "verbatim",
         "adapted",
         "hybrid"
       ],
-      "distribution": "source-links-only; original prompts/product image and derived full prompts remain private",
-      "credit": {
-        "author": "Darrel Wilson",
-        "url": "https://www.youtube.com/@darrelwilson",
-        "notice": "Method and tutorial credit to Darrel Wilson; pack display name uses Darrell as requested."
-      },
-      "provider": "Replicate; explicit user-requested replacement for Higgsfield; connected tools or authenticated HTTP API",
-      "media_publication_approval": "required in chat for each new/selected asset; source autonomous acceptance never approves public use",
+      "distribution": "authored working prompt and hosted media manifest; required notices retained",
       "sources": [
         {
-          "type": "tutorial",
-          "url": "https://www.youtube.com/watch?v=dn6MDl86fRY"
+          "type": "working-prompt",
+          "url": "https://lapis-slate-xvar.here.now/library/cinematic-site-workflow/prompt.md"
         },
         {
-          "type": "desktop-and-mobile-prompts",
-          "url": "https://lite.evernote.com/note/762e2275-a03e-a637-ff92-3f0f84364d5b"
-        },
-        {
-          "type": "product-reference-image",
-          "url": "https://drive.google.com/file/d/1D0Z-oGVmnUGnCGIArzdUQMLjsWGt_Vq0/view"
+          "type": "media-manifest",
+          "url": "https://lapis-slate-xvar.here.now/library/cinematic-site-workflow/assets.json"
         }
       ],
-      "backup": {
-        "url": "https://github.com/neuronsarealsocool/scroll-site-studio-source-backups/tree/main/darrell-wilson-method/2026-10-25",
-        "visibility": "private",
-        "snapshot_date": "2026-10-25",
-        "verification": "Fresh GitHub restore verified five files: two original Markdown attachments, original PNG and two derived Replicate working prompts; sizes/SHA-256 matched.",
-        "access_note": "Requires private repository authorization; other recipients need their own authorized source/backup."
-      },
-      "platform_default": "user-selected or existing project/host stack; reuse existing publishing workflow",
-      "wordpress": "optional; only when selected by the user or maintaining an existing WordPress project",
-      "review_limits": "Note and attachments inspected; 300x300 transparent product PNG inspected. Video title/channel/duration checked; transcript unavailable, full video not reviewed or backed up."
+      "media_publication_approval": "required in chat for new/selected media; explicit approval persists for unchanged assets",
+      "platform_default": "existing or user-selected stack; otherwise a suitable responsive frontend",
+      "wordpress": "optional",
+      "provider": "Replicate for new generated media",
+      "media_count": 1,
+      "asset_manifest": "assets/manifests/cinematic-site-workflow.json",
+      "asset_base_url": "https://lapis-slate-xvar.here.now/library/cinematic-site-workflow/media/"
     },
     {
-      "id": "bart-method",
-      "title": "Bart method — Replicate adaptation",
-      "description": "Bart Slodyczka desktop-build then mobile-refinement prompts: business identity, style tile, connected visual story, scroll pacing and portrait refinement.",
-      "index": "references/packs/bart-method.md",
+      "id": "desktop-mobile-workflow",
+      "title": "Desktop and mobile workflow",
+      "description": "Build a high-end responsive website around the actual business and visitor action. Use the following planning and implementation method within the chosen project.",
+      "index": "references/packs/desktop-mobile-workflow.md",
       "use_modes": [
         "verbatim",
         "adapted",
         "hybrid"
       ],
-      "distribution": "source-links-only; original archive and full working adaptations remain private",
-      "credit": {
-        "author": "Bart Slodyczka",
-        "repository_owner": "Barty-Bart",
-        "url": "https://github.com/Barty-Bart/gpt-6-astra-10k-websites",
-        "notice": "Credit Bart Slodyczka / Barty-Bart for source prompts and tutorial; no source license supplied in pinned snapshot."
-      },
-      "source_commit": "e05e451ecd1e371536ef3c310fa273e12b98db7a",
-      "provider": "Replicate replaces the source Higgsfield MCP requirement under this library default",
-      "media_publication_approval": "required in chat for each new/selected asset, including autonomous work",
+      "distribution": "authored working prompt and hosted media manifest; required notices retained",
       "sources": [
         {
-          "type": "repository",
-          "url": "https://github.com/Barty-Bart/gpt-6-astra-10k-websites"
+          "type": "working-prompt",
+          "url": "https://lapis-slate-xvar.here.now/library/desktop-mobile-workflow/prompt.md"
         },
         {
-          "type": "pinned-source",
-          "url": "https://github.com/Barty-Bart/gpt-6-astra-10k-websites/tree/e05e451ecd1e371536ef3c310fa273e12b98db7a"
-        },
-        {
-          "type": "tutorial",
-          "url": "https://www.youtube.com/watch?v=h2MjhbwVKLk"
+          "type": "media-manifest",
+          "url": "https://lapis-slate-xvar.here.now/library/desktop-mobile-workflow/assets.json"
         }
       ],
-      "backup": {
-        "url": "https://github.com/neuronsarealsocool/scroll-site-studio-source-backups/tree/main/bart-method/2026-10-25",
-        "visibility": "private",
-        "snapshot_date": "2026-10-25",
-        "verification": "Fresh GitHub restore verified original pinned ZIP and two Replicate working prompts, plus all five original archive member sizes/SHA-256 hashes.",
-        "access_note": "Requires private repository authorization; other recipients can obtain pinned public sources and create their own authorized backup."
-      },
-      "platform_default": "user-selected or existing project/host stack; coding-agent model follows user/environment",
-      "wordpress": "optional; only when selected by the user or maintaining an existing WordPress project",
-      "review_limits": "All five repository files inspected; no runnable app or production media. Tutorial title/channel checked; transcript unavailable and full video not reviewed or backed up."
+      "media_publication_approval": "required in chat for new/selected media; explicit approval persists for unchanged assets",
+      "platform_default": "existing or user-selected stack; otherwise a suitable responsive frontend",
+      "wordpress": "optional",
+      "provider": "Replicate for new generated media",
+      "media_count": 1,
+      "asset_manifest": "assets/manifests/desktop-mobile-workflow.json",
+      "asset_base_url": "https://lapis-slate-xvar.here.now/library/desktop-mobile-workflow/media/"
     },
     {
-      "id": "tower-real-estate-videos",
-      "title": "Tower Real Estate Videos",
-      "description": "Choose your floor prompt: registered floor lighting, two-clip tower arrival and reversible bathroom/bedroom video tours; 12 linked source assets backed up privately.",
-      "index": "references/packs/tower-real-estate-videos.md",
+      "id": "tower-room-tours",
+      "title": "Tower and room tours",
+      "description": "Build an immersive full-screen residential tower selector with an apartment arrival and reversible room tours. A single-file HTML/CSS/vanilla JS implementation is suitable for a new standalone demo; use the chosen/existing stack when needed. Keep tower image, illuminated-window masks and floor hit zones on one registered scene plane. Keep interface scaling independent so controls fit short screens.",
+      "index": "references/packs/tower-room-tours.md",
       "use_modes": [
         "verbatim",
         "adapted",
         "hybrid"
       ],
-      "distribution": "authored guidance and private-source links; original prompt/media not redistributed publicly",
-      "credit": {
-        "source": "User-supplied recreation prompt",
-        "author": "not identified in supplied material",
-        "notice": "Preserve original prompt and any later supplied attribution; do not infer authorship from CDN/proxy names."
-      },
-      "media_publication_approval": "required in chat for each new/selected asset; private backup is separate",
+      "distribution": "authored working prompt and hosted media manifest; required notices retained",
       "sources": [
         {
-          "type": "private-original-prompt-and-media-snapshot",
-          "url": "https://github.com/neuronsarealsocool/scroll-site-studio-source-backups/tree/main/tower-real-estate-videos/2026-11-09"
+          "type": "working-prompt",
+          "url": "https://lapis-slate-xvar.here.now/library/tower-room-tours/prompt.md"
+        },
+        {
+          "type": "media-manifest",
+          "url": "https://lapis-slate-xvar.here.now/library/tower-room-tours/assets.json"
         }
       ],
-      "backup": {
-        "url": "https://github.com/neuronsarealsocool/scroll-site-studio-source-backups/tree/main/tower-real-estate-videos/2026-11-09",
-        "visibility": "private",
-        "snapshot_date": "2026-11-09",
-        "verification": "Fresh GitHub restore verified original prompt and all 12 original media downloads (13 file sizes/SHA-256 hashes).",
-        "access_note": "Private repository authorization required; other recipients need their own authorized sources/backup."
-      },
-      "supplied_material": "One text prompt; all 12 linked direct-source assets downloaded (5 PNG, 7 MP4); no runnable HTML or fonts supplied.",
-      "platform_default": "user-selected or existing project/host stack; faithful new build uses single-file vanilla HTML/CSS/JS",
-      "wordpress": "optional; only when selected by the user or maintaining an existing WordPress project",
-      "provider": "Replicate remains default for separately requested new generation; source media provenance unchanged",
-      "review_limits": "PNG decoding and ffprobe metadata checked; CORS observed with local Origin. No full-motion/endpoint continuity, browser site or physical-device validation."
+      "media_publication_approval": "required in chat for new/selected media; explicit approval persists for unchanged assets",
+      "platform_default": "existing or user-selected stack; otherwise a suitable responsive frontend",
+      "wordpress": "optional",
+      "provider": "Replicate for new generated media",
+      "media_count": 12,
+      "asset_manifest": "assets/manifests/tower-room-tours.json",
+      "asset_base_url": "https://lapis-slate-xvar.here.now/library/tower-room-tours/media/"
     }
   ]
 }

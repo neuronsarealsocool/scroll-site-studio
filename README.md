@@ -11,7 +11,7 @@ Claude Code**, and growing a library of templates and design references over tim
 
 ## Install
 
-Download and extract the [v0.2.13 release](https://github.com/neuronsarealsocool/scroll-site-studio/releases/tag/v0.2.13),
+Download and extract the [v0.3.0 release](https://github.com/neuronsarealsocool/scroll-site-studio/releases/tag/v0.3.0),
 then open a terminal inside the extracted `scroll-site-studio` folder. With Python 3.10+:
 
 ```text
@@ -106,82 +106,21 @@ MIT for original package work. Bundled components retain their own MIT licenses;
 FFmpeg and other external dependencies retain their own licenses. This project is
 independent of OpenAI, Anthropic, Replicate and the upstream skill authors.
 
-## Reference pack platform choice
+## Neutral reference library
 
-All packs, including Layer and Frostwood, default to the user-selected or existing
-project/host stack; new projects use a suitable responsive frontend. WordPress and
-WooCommerce are optional choices. A supplied WP theme or WP-specific prompt never
-selects the stack automatically, including for verbatim design reuse.
+- [Alpine editorial retreat](scroll-site-studio/references/packs/alpine-editorial.md): 19 media files.
+- [Coffee product carousel](scroll-site-studio/references/packs/coffee-product-carousel.md): 15 media files.
+- [Architectural landscape journey](scroll-site-studio/references/packs/architectural-landscape.md): 15 media files.
+- [Orbital portal experience](scroll-site-studio/references/packs/orbital-portals.md): 6 media files.
+- [Electric vehicle explorer](scroll-site-studio/references/packs/electric-vehicle-explorer.md): 20 media files.
+- [Cinematic site workflow](scroll-site-studio/references/packs/cinematic-site-workflow.md): 1 media files.
+- [Desktop and mobile workflow](scroll-site-studio/references/packs/desktop-mobile-workflow.md): 1 media files.
+- [Tower and room tours](scroll-site-studio/references/packs/tower-room-tours.md): 12 media files.
 
-## Reference packs
+[Browse prompts and assets](https://lapis-slate-xvar.here.now/library/browse.html). Direct hosted URLs replace original
+asset locations in these working packs. The eight prompts can be reused as written
+or adapted. All packs and future additions use neutral names, with WordPress optional,
+Replicate for new media and approval in chat before new media is published.
 
-Not every contribution needs to be a coded template. Detailed prompt documents, videos, images and example themes can be registered as linked source packs. [Frostwood](scroll-site-studio/references/packs/frostwood.md) is the first example; originals remain in their source Drive folder.
-
-## Source resilience
-
-The workflow now defaults to independent online backups for source-pack files rather than depending on original Drive links. Use an authorized private destination, preserve versions and verify restored checksums. The Frostwood pack has an owner-private GitHub snapshot; it is accessible only to authorized users and is separate from approval to publish media.
-
-## Layer reference pack
-
-[Layer](scroll-site-studio/references/packs/layer.md) adds a premium coffee
-showcase with detailed product/ingredient prompts, a hero reference, asset QA and
-a WordPress/WooCommerce example. Use it verbatim, adapt it, or combine it with
-other references. All five source files have a verified private backup; the public
-skill contains links and guidance. The source theme needs product data that is
-not supplied in its archives. Replicate and in-chat media approval remain the defaults.
-
-## Horizon Estates reference pack
-
-[Horizon Estates](scroll-site-studio/references/packs/horizon-estates.md) adds
-architectural parallax direction with Orange and Purple asset sets, detailed prompts
-and an inspected image map. All 15 original PNGs and both document exports are
-backed up privately with verified checksums. It is a prompt-and-assets pack, with
-WordPress optional; no finished theme or site code is supplied.
-
-The [timestamped video audit](scroll-site-studio/references/packs/horizon-estates-video-audit.md)
-records the final hero scale, headline overlap, scroll entrances, count-up figures,
-section order and layout details, with private checksum-verified review evidence.
-
-The user-selected [headline placement reference](scroll-site-studio/references/packs/horizon-estates-headline-reference.md)
-requires visible clearance and complete headline letters at desktop and ultrawide sizes.
-The uploaded still is backed up privately and is not bundled in the release.
-
-## Planet Jumping — MotionSites.ai
-
-All credit for the original Planet Jumping prompt/design reference goes to
-[MotionSites.ai](https://www.motionsites.ai/). This prompt-only pack describes a
-cinematic canvas portal experience. One supplied text file is backed up privately;
-referenced media and fonts were not supplied. The source prompt is not included
-in the public release. See [the pack index](scroll-site-studio/references/packs/planet-jumping.md) for reuse guidance and dependency limits.
-
-## VEYRA — MotionSites.ai reference
-
-Credit [MotionSites.ai](https://www.motionsites.ai/) for the supplied reference,
-and retain the upstream VEYRA project credit to
-[Amir Mušić](https://github.com/amirmushichge/veyra-interactive-car). The pack
-indexes a pinned automotive interaction scene with source and 18 bundled media
-files. The prompt and source ZIP have a verified private backup. See [the pack index](scroll-site-studio/references/packs/veyra.md) for reuse and verification details.
-
-## Darrell Wilson method — Replicate adaptation
-
-Credit [Darrel Wilson](https://www.youtube.com/@darrelwilson) for the tutorial and
-method. This pack combines a business-led style tile, visual-story table, matched
-media handoffs, scroll pacing and a dedicated mobile workflow. Replicate replaces
-the source provider; mandatory in-chat media approval and optional WordPress remain.
-Original sources and separate working adaptations have a verified private backup.
-See [the pack index](scroll-site-studio/references/packs/darrell-wilson-method.md) for sources and limits.
-
-## Bart method — Replicate adaptation
-
-Credit [Bart Slodyczka / Barty-Bart](https://github.com/Barty-Bart/gpt-6-astra-10k-websites).
-The pack follows Desktop Build with Mobile Refinement in one responsive project.
-Original pinned source and separate Replicate working prompts are privately backed
-up and restore-verified. No finished site or production media is supplied.
-See [the pack index](scroll-site-studio/references/packs/bart-method.md) for workflow, credit and limits.
-
-## Tower Real Estate Videos
-
-A user-supplied Choose your floor prompt, with registered floor highlights, a
-two-clip apartment arrival and reversible bedroom/bathroom tours. Original prompt
-and all 12 linked assets have a verified private backup. No runnable website or
-real property inventory is supplied. See [the pack index](scroll-site-studio/references/packs/tower-real-estate-videos.md) for reuse and limits.
+Required licenses and recognizable media remain; this does not erase Git history
+or grant new rights over third-party assets. Private working backups stay private.

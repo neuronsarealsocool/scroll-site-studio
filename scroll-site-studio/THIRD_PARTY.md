@@ -27,48 +27,14 @@ Sites and other hosting connectors remain separately installed services. Their
 implementations, paid accounts, API keys, and plugin bundles are not copied. The
 publishing adapter explains how to use tools available in the recipient's environment.
 
-No original property reference photographs, stock imagery, generated videos, client
-branding, proprietary design screenshots or font files are bundled. Catalog design
-references link to sources without copying their media. Follow the applicable rights
-when adding assets. Source code licenses do not grant rights to referenced brands.
+## Reference-pack media and notices
 
-## Planet Jumping reference credit
+Working prompts and hosted-media manifests use neutral names. No media bytes are
+bundled in this skill archive. Those separate hosted assets retain their applicable
+rights; the package MIT license does not relicense third-party images, videos,
+logos, brands or fonts. Hosting copies is not a new rights grant.
 
-All credit for the original Planet Jumping prompt/design reference goes to
-[MotionSites.ai](https://www.motionsites.ai/), as explicitly specified by the user.
-The original supplied prompt is preserved privately, not relicensed under this
-package MIT license. Public distribution includes attribution and authored usage
-notes only. No referenced media, fonts, logo or finished site is bundled.
-
-## VEYRA reference credit
-
-Credit [MotionSites.ai](https://www.motionsites.ai/) for the reference supplied by
-the user. The upstream VEYRA project credits concept, art direction, interaction
-design and media finishing to [Amir Mušić](https://github.com/amirmushichge/veyra-interactive-car).
-Retain its MIT LICENSE and THIRD_PARTY_NOTICES.md when reusing source or media.
-The pinned source ZIP is backed up privately; no upstream code, media or prompt is
-bundled in this public skill. Upstream dependency/font notices remain applicable.
-
-## Darrell Wilson method
-
-Method/tutorial credit: [Darrel Wilson](https://www.youtube.com/@darrelwilson).
-The user requested the display name Darrell Wilson method and the Replicate
-provider adaptation. Original prompts and the supplied product reference remain
-private alongside explicitly labelled working adaptations. No original media or
-complete source prompts are redistributed or relicensed by the public package.
-
-## Bart method
-
-Credit [Bart Slodyczka / Barty-Bart](https://github.com/Barty-Bart/gpt-6-astra-10k-websites)
-for the prompts and tutorial. The pinned source has no LICENSE file. This package
-does not republish or relicense full source prompts or its placeholder SVG. The
-original ZIP and clearly marked Replicate adaptations are preserved privately;
-public distribution contains links, credit and authored usage guidance.
-
-## Tower Real Estate Videos
-
-User-supplied Choose your floor recreation prompt. No author attribution or
-redistribution license was supplied; no ownership is inferred from source CDN or
-image-proxy names. Prompt and all 12 linked media are backed up privately. Public
-distribution includes authored guidance and provenance, without original source
-prompt/media or a new license grant over them.
+The electric vehicle pack requires the full notice in
+`licenses/electric-vehicle-explorer.txt`, also supplied beside its hosted media.
+Carry applicable notices into any redistribution. Optional public creator/tutorial
+credits are omitted; legally required copyright and third-party notices remain.

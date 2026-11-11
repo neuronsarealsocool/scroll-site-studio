@@ -1,5 +1,11 @@
 # Changes
 
+## 0.4.1 — 12 November 2026
+
+- Removed the fashion video commerce pack from the active skill and public library at the owner’s request.
+- Updated current catalogs, downloads and installed copies to fifteen packs; hosted media count remains 155.
+- Kept the private source backup available for possible future restoration.
+
 ## 0.4.0 — 11 November 2026
 
 - Added eight recovered website briefs with detailed authored working prompts.

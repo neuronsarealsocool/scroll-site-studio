@@ -1,0 +1,12 @@
+{
+  "title": "Cinematic wipe studio",
+  "assets": [
+    {
+      "id": "asset-01",
+      "role": "continuous banner film",
+      "url": "https://lapis-slate-xvar.here.now/library/cinematic-wipe-studio/media/771f2e092bee41.mp4",
+      "bytes": 21794309,
+      "sha256": "771f2e092bee41df4f51af1ccf90cc1fa8643c8989791697e0cf99bf2490cae2"
+    }
+  ]
+}

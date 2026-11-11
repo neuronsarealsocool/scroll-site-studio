@@ -1,0 +1,33 @@
+{
+  "title": "Bird species atlas",
+  "assets": [
+    {
+      "id": "asset-01",
+      "role": "kingfisher illustration",
+      "url": "https://lapis-slate-xvar.here.now/library/bird-species-atlas/media/51937aa69c953c.png",
+      "bytes": 1529066,
+      "sha256": "51937aa69c953c77851637629a00b590e80c40e09791466cab09c442953e9a0d"
+    },
+    {
+      "id": "asset-02",
+      "role": "kingfisher specimen GLB",
+      "url": "https://lapis-slate-xvar.here.now/library/bird-species-atlas/media/a6cf1807a9dc80.glb",
+      "bytes": 18037184,
+      "sha256": "a6cf1807a9dc80f0462b556c38c3538894ac680aa4a1048d54766fae713e4620"
+    },
+    {
+      "id": "asset-03",
+      "role": "hoopoe illustration",
+      "url": "https://lapis-slate-xvar.here.now/library/bird-species-atlas/media/de19abc4f12fd2.png",
+      "bytes": 1630636,
+      "sha256": "de19abc4f12fd288531b72d37f3211636a49a9924b115cff78f3691aab472544"
+    },
+    {
+      "id": "asset-04",
+      "role": "hoopoe specimen GLB",
+      "url": "https://lapis-slate-xvar.here.now/library/bird-species-atlas/media/bf810e4935fd2c.glb",
+      "bytes": 20725948,
+      "sha256": "bf810e4935fd2cbef593bd7d02aa0db090c22cf73ccd4e4f3759e36a4398658d"
+    }
+  ]
+}

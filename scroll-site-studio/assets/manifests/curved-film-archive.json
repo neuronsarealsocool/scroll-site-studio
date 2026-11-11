@@ -1,0 +1,33 @@
+{
+  "title": "Curved film archive",
+  "assets": [
+    {
+      "id": "asset-01",
+      "role": "spine sprite sheet (2688x1152)",
+      "url": "https://lapis-slate-xvar.here.now/library/curved-film-archive/media/bef5d7e9e251fd.webp",
+      "bytes": 877104,
+      "sha256": "bef5d7e9e251fdf01c3fea1aae055bd5059f0b1344088479d94fd290d87df5ba"
+    },
+    {
+      "id": "asset-02",
+      "role": "replacement observer and storm spines (1520x2688)",
+      "url": "https://lapis-slate-xvar.here.now/library/curved-film-archive/media/906f9a9a8b2cd8.webp",
+      "bytes": 611454,
+      "sha256": "906f9a9a8b2cd89a511f47688bef1f4a8067593e6cbfa276afab052be9d43941"
+    },
+    {
+      "id": "asset-03",
+      "role": "replacement river spine (1520x2688)",
+      "url": "https://lapis-slate-xvar.here.now/library/curved-film-archive/media/1d302b88229f3e.webp",
+      "bytes": 897492,
+      "sha256": "1d302b88229f3e89006d574d8c8719ed8418bc0c62b85bc1c03d92e7238327df"
+    },
+    {
+      "id": "asset-04",
+      "role": "cover sprite sheet (1744x2336)",
+      "url": "https://lapis-slate-xvar.here.now/library/curved-film-archive/media/d12de9fb113a52.webp",
+      "bytes": 1119020,
+      "sha256": "d12de9fb113a52de8bcc2f13b97b4725b2e54a1d9f92a1dae35d575a3ea5d966"
+    }
+  ]
+}

@@ -1,5 +1,13 @@
 # Changes
 
+## 0.4.0 — 11 November 2026
+
+- Added eight recovered website briefs with detailed authored working prompts.
+- Expanded the library to sixteen packs and 155 hosted media/support files.
+- Preserved detailed neutral source documents in the private working backup.
+- Recorded missing cabin/fashion media and the exact point-cloud model requirement.
+- Kept Replicate, optional WordPress, reuse modes and in-chat media approval defaults.
+
 ## 0.3.0 — 10 November 2026
 
 - Renamed all eight working packs to neutral descriptive IDs and titles.

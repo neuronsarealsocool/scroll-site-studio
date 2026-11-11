@@ -1,4 +1,4 @@
-# Scroll Site Studio 0.2.13
+# Scroll Site Studio 0.4.0
 
 A portable high-end website skill and template library for Codex or Claude Code. Scroll effects are optional. Built from the
 Alder & Form workflow, with complete Scroll World, Scroll Craft and Replicate Media
@@ -113,3 +113,7 @@ optional. New media defaults to Replicate and still requires in-chat approval.
 asset manifests and required notices; media bytes are hosted separately. Originals
 and private working backups are outside the public package. Required notices and
 recognizable imagery can identify a source; neutral naming is not full anonymity.
+
+## Expanded reference library
+
+Sixteen packs cover architecture, hospitality, commerce, aviation, racing, film, particle interfaces, archives, natural-history viewers and production workflows. The catalog links 155 approved hosted media and support files. The lake-cabin and fashion packs contain detailed media briefs; the original fashion film was unavailable at intake. The exact point-cloud model needs an approved supplied geometry file. Detailed neutral source documents are maintained privately when public redistribution terms are unclear.

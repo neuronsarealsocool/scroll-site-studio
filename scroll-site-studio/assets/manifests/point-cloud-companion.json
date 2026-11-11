@@ -1,0 +1,20 @@
+{
+  "title": "Point-cloud companion",
+  "assets": [
+    {
+      "id": "asset-01",
+      "role": "people gallery",
+      "url": "https://lapis-slate-xvar.here.now/library/point-cloud-companion/media/48d411d5c12622.webp",
+      "bytes": 13884,
+      "sha256": "48d411d5c126228394e9ff867f24e64fb9e23f023062a96a41bc3c00dc739ab5"
+    },
+    {
+      "id": "asset-02",
+      "role": "places gallery",
+      "url": "https://lapis-slate-xvar.here.now/library/point-cloud-companion/media/9101dd00cbe3b4.webp",
+      "bytes": 56938,
+      "sha256": "9101dd00cbe3b471db15443fdf7dabd522adcf201a070b5a7d0c77bdb58f9dc5"
+    }
+  ],
+  "media_status": "Two gallery images approved. The exact original point-cloud model is not included in public media; supply an approved licensed model before an exact build."
+}

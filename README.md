@@ -11,7 +11,7 @@ Claude Code**, and growing a library of templates and design references over tim
 
 ## Install
 
-Download and extract the [v0.3.0 release](https://github.com/neuronsarealsocool/scroll-site-studio/releases/tag/v0.3.0),
+Download and extract the [v0.4.0 release](https://github.com/neuronsarealsocool/scroll-site-studio/releases/tag/v0.4.0),
 then open a terminal inside the extracted `scroll-site-studio` folder. With Python 3.10+:
 
 ```text
@@ -118,9 +118,13 @@ independent of OpenAI, Anthropic, Replicate and the upstream skill authors.
 - [Tower and room tours](scroll-site-studio/references/packs/tower-room-tours.md): 12 media files.
 
 [Browse prompts and assets](https://lapis-slate-xvar.here.now/library/browse.html). Direct hosted URLs replace original
-asset locations in these working packs. The eight prompts can be reused as written
+asset locations in these working packs. The sixteen prompts can be reused as written
 or adapted. All packs and future additions use neutral names, with WordPress optional,
 Replicate for new media and approval in chat before new media is published.
 
 Required licenses and recognizable media remain; this does not erase Git history
 or grant new rights over third-party assets. Private working backups stay private.
+
+## Recovered prompt packs
+
+Version 0.4.0 adds eight independently worded working specifications recovered from the chat audit: lake cabin retreat, private aviation journey, racing driver profile, cinematic wipe studio, point-cloud companion, curved film archive, bird species atlas and fashion video commerce. The library now has sixteen packs and 155 hosted media/support files. Detailed neutral source documents remain in the private working backup. The cabin and fashion packs include media briefs; the old fashion clip was unavailable, and the exact point-cloud geometry still needs approval for public use.

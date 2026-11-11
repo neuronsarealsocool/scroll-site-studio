@@ -1,0 +1,180 @@
+{
+  "title": "Private aviation journey",
+  "assets": [
+    {
+      "id": "asset-01",
+      "role": "card-argent loop",
+      "url": "https://lapis-slate-xvar.here.now/library/private-aviation-journey/media/ca8ec0f1c17b1e.mp4",
+      "bytes": 896667,
+      "sha256": "ca8ec0f1c17b1e7c7b12d1767c41ac9870546024d6c231a8e82b4c18c9d0cebc"
+    },
+    {
+      "id": "asset-02",
+      "role": "card-nocturne poster",
+      "url": "https://lapis-slate-xvar.here.now/library/private-aviation-journey/media/e66c46706fcc2c.webp",
+      "bytes": 14510,
+      "sha256": "e66c46706fcc2c2cb4b859cd0a41ec3d684cac4eef0294900424be030701bce3"
+    },
+    {
+      "id": "asset-03",
+      "role": "card-lumen poster",
+      "url": "https://lapis-slate-xvar.here.now/library/private-aviation-journey/media/4121566d9aa4e7.webp",
+      "bytes": 14494,
+      "sha256": "4121566d9aa4e7f313315f9792499d8968797a5545010aeee4326265cd6a7d92"
+    },
+    {
+      "id": "asset-04",
+      "role": "aircraft model hero",
+      "url": "https://lapis-slate-xvar.here.now/library/private-aviation-journey/media/924230d4f2fdd5.glb",
+      "bytes": 1124228,
+      "sha256": "924230d4f2fdd5a0893b8abd163b9e57a1ec5688ffb6804df71ebd8941131ee6"
+    },
+    {
+      "id": "asset-05",
+      "role": "card-lumen loop",
+      "url": "https://lapis-slate-xvar.here.now/library/private-aviation-journey/media/de4e74daa1ab0a.mp4",
+      "bytes": 954970,
+      "sha256": "de4e74daa1ab0a65901e7fa2ece60a380bf631a19572e8c7e42851bb1f2368c6"
+    },
+    {
+      "id": "asset-06",
+      "role": "card-argent poster",
+      "url": "https://lapis-slate-xvar.here.now/library/private-aviation-journey/media/69b330a417a5f3.webp",
+      "bytes": 10970,
+      "sha256": "69b330a417a5f352abed93704ea2210081eb924e06d67ce6de065bfa8c4be315"
+    },
+    {
+      "id": "asset-07",
+      "role": "card-meridian poster",
+      "url": "https://lapis-slate-xvar.here.now/library/private-aviation-journey/media/078a04ec9d7b93.webp",
+      "bytes": 21154,
+      "sha256": "078a04ec9d7b93b9acffc73c0ab4fbf180616966cd759767c7d3e6dd1b6c909a"
+    },
+    {
+      "id": "asset-08",
+      "role": "card-solace poster",
+      "url": "https://lapis-slate-xvar.here.now/library/private-aviation-journey/media/f3cc953f8d11ff.webp",
+      "bytes": 14746,
+      "sha256": "f3cc953f8d11ffc8ec5b84e7f615e124e9c071f3954d5b03818c520176ebde30"
+    },
+    {
+      "id": "asset-09",
+      "role": "card-meridian loop",
+      "url": "https://lapis-slate-xvar.here.now/library/private-aviation-journey/media/5ca24fdcb051b7.mp4",
+      "bytes": 1031157,
+      "sha256": "5ca24fdcb051b7ddf12f8e0e6febc6839a2e217043ca79954959d59a453aa3ff"
+    },
+    {
+      "id": "asset-10",
+      "role": "own-fractional poster",
+      "url": "https://lapis-slate-xvar.here.now/library/private-aviation-journey/media/842fbe5f79ef79.webp",
+      "bytes": 12176,
+      "sha256": "842fbe5f79ef7935f20634e78bfa9c0d251829630b1cf94e472b4f11024b0e11"
+    },
+    {
+      "id": "asset-11",
+      "role": "card-nocturne loop",
+      "url": "https://lapis-slate-xvar.here.now/library/private-aviation-journey/media/02db14739bc212.mp4",
+      "bytes": 982061,
+      "sha256": "02db14739bc212a8d64622d28775053f16de4a5a80a91fc8c5bfffea3cc31f82"
+    },
+    {
+      "id": "asset-12",
+      "role": "card-solace loop",
+      "url": "https://lapis-slate-xvar.here.now/library/private-aviation-journey/media/5ee5fdaa9f8f16.mp4",
+      "bytes": 958386,
+      "sha256": "5ee5fdaa9f8f166373a44fb2ef03269c93476ad1a1c67acc86c4767b9b25cb71"
+    },
+    {
+      "id": "asset-13",
+      "role": "own-fractional loop",
+      "url": "https://lapis-slate-xvar.here.now/library/private-aviation-journey/media/609e05f3a635d1.mp4",
+      "bytes": 967380,
+      "sha256": "609e05f3a635d12bdd70b7cce9e773a52b0fcd7ed50c4a5d3214103477d05856"
+    },
+    {
+      "id": "asset-14",
+      "role": "own-cabin poster",
+      "url": "https://lapis-slate-xvar.here.now/library/private-aviation-journey/media/80d1c84d59096f.webp",
+      "bytes": 55244,
+      "sha256": "80d1c84d59096f80c454a02ab824d6c225f3f703bea6afce9a20b721cf7aba03"
+    },
+    {
+      "id": "asset-15",
+      "role": "own-cabin loop",
+      "url": "https://lapis-slate-xvar.here.now/library/private-aviation-journey/media/e376dc5a495e12.mp4",
+      "bytes": 451792,
+      "sha256": "e376dc5a495e123957bcafffa9b10fd5c0fa11237edb243539479d469be49223"
+    },
+    {
+      "id": "asset-16",
+      "role": "own-full poster",
+      "url": "https://lapis-slate-xvar.here.now/library/private-aviation-journey/media/6906e14a7b9e24.webp",
+      "bytes": 14536,
+      "sha256": "6906e14a7b9e2447b9f26b37f25dc4679a5b10366e86318b71bb45ef616f6d01"
+    },
+    {
+      "id": "asset-17",
+      "role": "own-full loop",
+      "url": "https://lapis-slate-xvar.here.now/library/private-aviation-journey/media/b47ef676c82501.mp4",
+      "bytes": 915465,
+      "sha256": "b47ef676c825018741eebcc080b024327b58c948d8c3e5defb3b1d777fc25c8c"
+    },
+    {
+      "id": "asset-18",
+      "role": "own-detail poster",
+      "url": "https://lapis-slate-xvar.here.now/library/private-aviation-journey/media/1a736423ddcfa5.webp",
+      "bytes": 21938,
+      "sha256": "1a736423ddcfa53ed5a87f2d21a6a86f3a41bfdb3910aef2b474092ec48c57e0"
+    },
+    {
+      "id": "asset-19",
+      "role": "own-lease poster",
+      "url": "https://lapis-slate-xvar.here.now/library/private-aviation-journey/media/2d854a71a1076e.webp",
+      "bytes": 55668,
+      "sha256": "2d854a71a1076e3065584018129e968cdde6618d8ed40ef4f4fb9513da23dc2b"
+    },
+    {
+      "id": "asset-20",
+      "role": "own-lease loop",
+      "url": "https://lapis-slate-xvar.here.now/library/private-aviation-journey/media/3ccaa870be68f6.mp4",
+      "bytes": 458068,
+      "sha256": "3ccaa870be68f69df20f6bf5950ca58910979bfdc8ca415b1f213cb4d5c9cb0d"
+    },
+    {
+      "id": "asset-21",
+      "role": "charter poster",
+      "url": "https://lapis-slate-xvar.here.now/library/private-aviation-journey/media/f4b91570cc0ca3.webp",
+      "bytes": 27134,
+      "sha256": "f4b91570cc0ca3664274540a8f76862e180b21f02ec9cdf249640aa7cacf70fe"
+    },
+    {
+      "id": "asset-22",
+      "role": "own-detail loop",
+      "url": "https://lapis-slate-xvar.here.now/library/private-aviation-journey/media/6df9aebc9d3834.mp4",
+      "bytes": 849849,
+      "sha256": "6df9aebc9d38344d9a9e9a74cfcc00f7bd1e5adba28abee77699c4f9072829d7"
+    },
+    {
+      "id": "asset-23",
+      "role": "clouds poster",
+      "url": "https://lapis-slate-xvar.here.now/library/private-aviation-journey/media/7f0a87187625ee.webp",
+      "bytes": 12162,
+      "sha256": "7f0a87187625ee063bbef8cfbb354bd21578b8f82fc4c68954cf71aa644cc863"
+    },
+    {
+      "id": "asset-24",
+      "role": "charter loop",
+      "url": "https://lapis-slate-xvar.here.now/library/private-aviation-journey/media/1f3c28ef8359f4.mp4",
+      "bytes": 4670184,
+      "sha256": "1f3c28ef8359f4e35725ad7749fd891cb4a21f5c436a0363a3d8a6d3509f37f4"
+    },
+    {
+      "id": "asset-25",
+      "role": "clouds loop",
+      "url": "https://lapis-slate-xvar.here.now/library/private-aviation-journey/media/58c644aa06b1fe.mp4",
+      "bytes": 5616442,
+      "sha256": "58c644aa06b1fee5e8efcd0faca89f93c0f1f7bdd4fcbde9d4096db4472e0b7d"
+    }
+  ]
+}

@@ -273,6 +273,241 @@
       "media_count": 12,
       "asset_manifest": "assets/manifests/tower-room-tours.json",
       "asset_base_url": "https://lapis-slate-xvar.here.now/library/tower-room-tours/media/"
+    },
+    {
+      "id": "lake-cabin-retreat",
+      "title": "Lake cabin retreat",
+      "description": "A private lakeside stay, with an optional connected camera flight.",
+      "index": "references/packs/lake-cabin-retreat.md",
+      "use_modes": [
+        "verbatim",
+        "adapted",
+        "hybrid"
+      ],
+      "distribution": "authored working prompt and hosted media manifest; detailed neutral source documents private",
+      "sources": [
+        {
+          "type": "working-prompt",
+          "url": "https://lapis-slate-xvar.here.now/library/lake-cabin-retreat/prompt.md"
+        },
+        {
+          "type": "media-manifest",
+          "url": "https://lapis-slate-xvar.here.now/library/lake-cabin-retreat/assets.json"
+        }
+      ],
+      "media_publication_approval": "required in chat for new/selected media; explicit approval persists for unchanged assets",
+      "platform_default": "existing or user-selected stack; otherwise a suitable responsive frontend",
+      "wordpress": "optional",
+      "provider": "Replicate for new generated media",
+      "media_count": 0,
+      "asset_manifest": "assets/manifests/lake-cabin-retreat.json",
+      "asset_base_url": "https://lapis-slate-xvar.here.now/library/lake-cabin-retreat/media/",
+      "media_status": "Prompt-only: property media is a generation/supply brief, not a bundled asset set."
+    },
+    {
+      "id": "private-aviation-journey",
+      "title": "Private aviation journey",
+      "description": "Five deliberate camera moves around a jet, followed by fleet and ownership stories.",
+      "index": "references/packs/private-aviation-journey.md",
+      "use_modes": [
+        "verbatim",
+        "adapted",
+        "hybrid"
+      ],
+      "distribution": "authored working prompt and hosted media manifest; detailed neutral source documents private",
+      "sources": [
+        {
+          "type": "working-prompt",
+          "url": "https://lapis-slate-xvar.here.now/library/private-aviation-journey/prompt.md"
+        },
+        {
+          "type": "media-manifest",
+          "url": "https://lapis-slate-xvar.here.now/library/private-aviation-journey/assets.json"
+        }
+      ],
+      "media_publication_approval": "required in chat for new/selected media; explicit approval persists for unchanged assets",
+      "platform_default": "existing or user-selected stack; otherwise a suitable responsive frontend",
+      "wordpress": "optional",
+      "provider": "Replicate for new generated media",
+      "media_count": 25,
+      "asset_manifest": "assets/manifests/private-aviation-journey.json",
+      "asset_base_url": "https://lapis-slate-xvar.here.now/library/private-aviation-journey/media/"
+    },
+    {
+      "id": "racing-driver-profile",
+      "title": "Racing driver profile",
+      "description": "A racing portrait revealed through depth, liquid masks and a circuit-led career story.",
+      "index": "references/packs/racing-driver-profile.md",
+      "use_modes": [
+        "verbatim",
+        "adapted",
+        "hybrid"
+      ],
+      "distribution": "authored working prompt and hosted media manifest; detailed neutral source documents private",
+      "sources": [
+        {
+          "type": "working-prompt",
+          "url": "https://lapis-slate-xvar.here.now/library/racing-driver-profile/prompt.md"
+        },
+        {
+          "type": "media-manifest",
+          "url": "https://lapis-slate-xvar.here.now/library/racing-driver-profile/assets.json"
+        }
+      ],
+      "media_publication_approval": "required in chat for new/selected media; explicit approval persists for unchanged assets",
+      "platform_default": "existing or user-selected stack; otherwise a suitable responsive frontend",
+      "wordpress": "optional",
+      "provider": "Replicate for new generated media",
+      "media_count": 30,
+      "asset_manifest": "assets/manifests/racing-driver-profile.json",
+      "asset_base_url": "https://lapis-slate-xvar.here.now/library/racing-driver-profile/media/"
+    },
+    {
+      "id": "cinematic-wipe-studio",
+      "title": "Cinematic wipe studio",
+      "description": "One continuous film, three synchronized layers and precise geometric wipes.",
+      "index": "references/packs/cinematic-wipe-studio.md",
+      "use_modes": [
+        "verbatim",
+        "adapted",
+        "hybrid"
+      ],
+      "distribution": "authored working prompt and hosted media manifest; detailed neutral source documents private",
+      "sources": [
+        {
+          "type": "working-prompt",
+          "url": "https://lapis-slate-xvar.here.now/library/cinematic-wipe-studio/prompt.md"
+        },
+        {
+          "type": "media-manifest",
+          "url": "https://lapis-slate-xvar.here.now/library/cinematic-wipe-studio/assets.json"
+        }
+      ],
+      "media_publication_approval": "required in chat for new/selected media; explicit approval persists for unchanged assets",
+      "platform_default": "existing or user-selected stack; otherwise a suitable responsive frontend",
+      "wordpress": "optional",
+      "provider": "Replicate for new generated media",
+      "media_count": 1,
+      "asset_manifest": "assets/manifests/cinematic-wipe-studio.json",
+      "asset_base_url": "https://lapis-slate-xvar.here.now/library/cinematic-wipe-studio/media/"
+    },
+    {
+      "id": "point-cloud-companion",
+      "title": "Point-cloud companion",
+      "description": "A responsive particle character, floating interface and choreographed product story.",
+      "index": "references/packs/point-cloud-companion.md",
+      "use_modes": [
+        "verbatim",
+        "adapted",
+        "hybrid"
+      ],
+      "distribution": "authored working prompt and hosted media manifest; detailed neutral source documents private",
+      "sources": [
+        {
+          "type": "working-prompt",
+          "url": "https://lapis-slate-xvar.here.now/library/point-cloud-companion/prompt.md"
+        },
+        {
+          "type": "media-manifest",
+          "url": "https://lapis-slate-xvar.here.now/library/point-cloud-companion/assets.json"
+        }
+      ],
+      "media_publication_approval": "required in chat for new/selected media; explicit approval persists for unchanged assets",
+      "platform_default": "existing or user-selected stack; otherwise a suitable responsive frontend",
+      "wordpress": "optional",
+      "provider": "Replicate for new generated media",
+      "media_count": 2,
+      "asset_manifest": "assets/manifests/point-cloud-companion.json",
+      "asset_base_url": "https://lapis-slate-xvar.here.now/library/point-cloud-companion/media/",
+      "media_status": "Two gallery images approved. The exact original point-cloud model is not included in public media; supply an approved licensed model before an exact build."
+    },
+    {
+      "id": "curved-film-archive",
+      "title": "Curved film archive",
+      "description": "A tactile 3D shelf, sprite-sheet film art and a paper-like detail view.",
+      "index": "references/packs/curved-film-archive.md",
+      "use_modes": [
+        "verbatim",
+        "adapted",
+        "hybrid"
+      ],
+      "distribution": "authored working prompt and hosted media manifest; detailed neutral source documents private",
+      "sources": [
+        {
+          "type": "working-prompt",
+          "url": "https://lapis-slate-xvar.here.now/library/curved-film-archive/prompt.md"
+        },
+        {
+          "type": "media-manifest",
+          "url": "https://lapis-slate-xvar.here.now/library/curved-film-archive/assets.json"
+        }
+      ],
+      "media_publication_approval": "required in chat for new/selected media; explicit approval persists for unchanged assets",
+      "platform_default": "existing or user-selected stack; otherwise a suitable responsive frontend",
+      "wordpress": "optional",
+      "provider": "Replicate for new generated media",
+      "media_count": 4,
+      "asset_manifest": "assets/manifests/curved-film-archive.json",
+      "asset_base_url": "https://lapis-slate-xvar.here.now/library/curved-film-archive/media/"
+    },
+    {
+      "id": "bird-species-atlas",
+      "title": "Bird species atlas",
+      "description": "Two specimens, one open 3D stage and an editorial field-guide interface.",
+      "index": "references/packs/bird-species-atlas.md",
+      "use_modes": [
+        "verbatim",
+        "adapted",
+        "hybrid"
+      ],
+      "distribution": "authored working prompt and hosted media manifest; detailed neutral source documents private",
+      "sources": [
+        {
+          "type": "working-prompt",
+          "url": "https://lapis-slate-xvar.here.now/library/bird-species-atlas/prompt.md"
+        },
+        {
+          "type": "media-manifest",
+          "url": "https://lapis-slate-xvar.here.now/library/bird-species-atlas/assets.json"
+        }
+      ],
+      "media_publication_approval": "required in chat for new/selected media; explicit approval persists for unchanged assets",
+      "platform_default": "existing or user-selected stack; otherwise a suitable responsive frontend",
+      "wordpress": "optional",
+      "provider": "Replicate for new generated media",
+      "media_count": 4,
+      "asset_manifest": "assets/manifests/bird-species-atlas.json",
+      "asset_base_url": "https://lapis-slate-xvar.here.now/library/bird-species-atlas/media/"
+    },
+    {
+      "id": "fashion-video-commerce",
+      "title": "Fashion video commerce",
+      "description": "A full-opacity scroll-scrubbed fashion film, with a practical shop around it.",
+      "index": "references/packs/fashion-video-commerce.md",
+      "use_modes": [
+        "verbatim",
+        "adapted",
+        "hybrid"
+      ],
+      "distribution": "authored working prompt and hosted media manifest; detailed neutral source documents private",
+      "sources": [
+        {
+          "type": "working-prompt",
+          "url": "https://lapis-slate-xvar.here.now/library/fashion-video-commerce/prompt.md"
+        },
+        {
+          "type": "media-manifest",
+          "url": "https://lapis-slate-xvar.here.now/library/fashion-video-commerce/assets.json"
+        }
+      ],
+      "media_publication_approval": "required in chat for new/selected media; explicit approval persists for unchanged assets",
+      "platform_default": "existing or user-selected stack; otherwise a suitable responsive frontend",
+      "wordpress": "optional",
+      "provider": "Replicate for new generated media",
+      "media_count": 0,
+      "asset_manifest": "assets/manifests/fashion-video-commerce.json",
+      "asset_base_url": "https://lapis-slate-xvar.here.now/library/fashion-video-commerce/media/",
+      "media_status": "Original clip unavailable (HTTP403); obtain a copy or approve new Replicate media."
     }
   ]
 }

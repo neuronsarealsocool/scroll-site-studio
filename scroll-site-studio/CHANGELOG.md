@@ -1,5 +1,11 @@
 # Changes
 
+## 0.4.2 — 12 November 2026
+
+- Replaced the condensed Point-cloud companion guide with the expanded original-derived technical working specification.
+- Added the approved exact geometry and its repository notice; total hosted media/support count is156.
+- Replaced the later car-film example with a dedicated public point-cloud build using neutral ION OS branding.
+
 ## 0.4.1 — 12 November 2026
 
 - Removed the fashion video commerce pack from the active skill and public library at the owner’s request.

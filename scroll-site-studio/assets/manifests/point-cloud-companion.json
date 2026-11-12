@@ -14,7 +14,14 @@
       "url": "https://lapis-slate-xvar.here.now/library/point-cloud-companion/media/9101dd00cbe3b4.webp",
       "bytes": 56938,
       "sha256": "9101dd00cbe3b471db15443fdf7dabd522adcf201a070b5a7d0c77bdb58f9dc5"
+    },
+    {
+      "id": "asset-03",
+      "role": "head and shoulders point-cloud geometry (59750 points)",
+      "url": "https://lapis-slate-xvar.here.now/library/point-cloud-companion/media/0efcd6f363c852.pcd",
+      "bytes": 721096,
+      "sha256": "0efcd6f363c852571e00cfca44fbd2e760df31b9bccb754d2dc27ba225d998ab"
     }
   ],
-  "media_status": "Two gallery images approved. The exact original point-cloud model is not included in public media; supply an approved licensed model before an exact build."
+  "license_url": "https://lapis-slate-xvar.here.now/library/point-cloud-companion/notices.txt"
 }

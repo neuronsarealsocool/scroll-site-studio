@@ -1,5 +1,11 @@
 # Changes
 
+## 0.4.3 — 12 November 2026
+
+- Expanded Curved film archive into the full original-derived VHS working specification, including all four approved sprite sheets and exact crop geometry.
+- Replaced the vinyl adaptation example with a dedicated public VHS build; the vinyl site remains available separately.
+- Verified desktop, portrait, short landscape, reduced motion, keyboard, drag and wheel navigation. Pack and asset counts remain 15 and 156.
+
 ## 0.4.2 — 12 November 2026
 
 - Replaced the condensed Point-cloud companion guide with the expanded original-derived technical working specification.

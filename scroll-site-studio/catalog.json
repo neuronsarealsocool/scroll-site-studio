@@ -424,7 +424,7 @@
     {
       "id": "curved-film-archive",
       "title": "Curved film archive",
-      "description": "A tactile 3D shelf, sprite-sheet film art and a paper-like detail view.",
+      "description": "A complete twelve-film VHS collection: exact four-sheet crops, curved 3D shelf geometry, ink-mask detail reveal, timeline, keyboard and touch controls, responsive and reduced-motion states.",
       "index": "references/packs/curved-film-archive.md",
       "use_modes": [
         "verbatim",

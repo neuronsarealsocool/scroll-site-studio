@@ -50,3 +50,7 @@ Prompt-only: property media is a generation/supply brief, not a bundled asset se
 ## Reuse and scope
 
 This is the complete public working specification for this pack, independently worded from the recovered brief. Detailed neutral source documents and implementation bodies are retained in the owner’s private backup; they are not redistributed as public source code. Use this working prompt verbatim, adapt it or combine it with other references. Keep the existing stack; WordPress is optional. Replicate is the default for new generated media. Confirm costs before spending and approve the actual media in chat before publication.
+
+## Live website reference
+
+[View the lake cabin website](https://www.thebreadcrumb.co/resources/vesper-built/view/Vesper.dc.html). This is the live example supplied for this pack. The property media remains a generation/supply brief; linking the example does not bundle or approve new media.

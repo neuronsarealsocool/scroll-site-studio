@@ -1,5 +1,10 @@
 # Changes
 
+## 0.4.4 — 12 November 2026
+
+- Set Lake cabin retreat’s live example to the exact lake-cabin link supplied by the owner, replacing the related architectural journey link.
+- Included the reference in the working prompt and catalog. No media added or generated.
+
 ## 0.4.3 — 12 November 2026
 
 - Expanded Curved film archive into the full original-derived VHS working specification, including all four approved sprite sheets and exact crop geometry.

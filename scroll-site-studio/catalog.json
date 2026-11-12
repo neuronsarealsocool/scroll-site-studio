@@ -293,6 +293,10 @@
         {
           "type": "media-manifest",
           "url": "https://lapis-slate-xvar.here.now/library/lake-cabin-retreat/assets.json"
+        },
+        {
+          "type": "live-example",
+          "url": "https://www.thebreadcrumb.co/resources/vesper-built/view/Vesper.dc.html"
         }
       ],
       "media_publication_approval": "required in chat for new/selected media; explicit approval persists for unchanged assets",

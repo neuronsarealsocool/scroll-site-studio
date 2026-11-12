@@ -61,6 +61,11 @@
         {
           "type": "media-manifest",
           "url": "https://lapis-slate-xvar.here.now/library/alpine-editorial/assets.json"
+        },
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=EVd577396Es",
+          "label": "Watch on YouTube"
         }
       ],
       "media_publication_approval": "required in chat for new/selected media; explicit approval persists for unchanged assets",
@@ -90,6 +95,11 @@
         {
           "type": "media-manifest",
           "url": "https://lapis-slate-xvar.here.now/library/coffee-product-carousel/assets.json"
+        },
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=lKQIOiDN2ME",
+          "label": "Watch on YouTube"
         }
       ],
       "media_publication_approval": "required in chat for new/selected media; explicit approval persists for unchanged assets",
@@ -119,6 +129,11 @@
         {
           "type": "media-manifest",
           "url": "https://lapis-slate-xvar.here.now/library/architectural-landscape/assets.json"
+        },
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=bpF7Df-GDEQ",
+          "label": "Watch on YouTube"
         }
       ],
       "media_publication_approval": "required in chat for new/selected media; explicit approval persists for unchanged assets",
@@ -206,6 +221,11 @@
         {
           "type": "media-manifest",
           "url": "https://lapis-slate-xvar.here.now/library/cinematic-site-workflow/assets.json"
+        },
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=dn6MDl86fRY",
+          "label": "Watch on YouTube"
         }
       ],
       "media_publication_approval": "required in chat for new/selected media; explicit approval persists for unchanged assets",
@@ -235,6 +255,11 @@
         {
           "type": "media-manifest",
           "url": "https://lapis-slate-xvar.here.now/library/desktop-mobile-workflow/assets.json"
+        },
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=h2MjhbwVKLk",
+          "label": "Watch on YouTube"
         }
       ],
       "media_publication_approval": "required in chat for new/selected media; explicit approval persists for unchanged assets",
@@ -297,6 +322,11 @@
         {
           "type": "live-example",
           "url": "https://www.thebreadcrumb.co/resources/vesper-built/view/Vesper.dc.html"
+        },
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=GJxchJkk4Lk",
+          "label": "Watch on YouTube"
         }
       ],
       "media_publication_approval": "required in chat for new/selected media; explicit approval persists for unchanged assets",

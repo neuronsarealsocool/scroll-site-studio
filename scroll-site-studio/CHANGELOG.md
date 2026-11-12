@@ -1,5 +1,11 @@
 # Changes
 
+## 0.4.5 — 12 November 2026
+
+- Restored associated YouTube reference links for six packs in their catalog entries, complete prompts and library pages.
+- Kept links in Markdown/ZIP downloads and private backups; future pack intake now preserves known associated YouTube links.
+- No video media downloaded, embedded or generated.
+
 ## 0.4.4 — 12 November 2026
 
 - Set Lake cabin retreat’s live example to the exact lake-cabin link supplied by the owner, replacing the related architectural journey link.

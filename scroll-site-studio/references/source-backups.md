@@ -44,8 +44,9 @@ promising that any external service will be available forever.
 ## Neutral backup updates
 
 Use neutral descriptive directory/file names and user-hosted asset URLs in the
-private working backup as well. Omit optional creator/tutorial credits and original
-source URLs from these working backups; keep the hosted URL and new file hashes.
+private working backup as well. Preserve associated YouTube reference links as
+requested for the prompt library. Omit other optional creator/tutorial credits and
+original source URLs unless requested; keep hosted asset URLs and new file hashes.
 Keep required licenses intact. If the owner asks
 to update existing snapshots, that overrides the default immutable-copy naming
 rule: make a reversible Git commit and retain prior history. Do not force-push or

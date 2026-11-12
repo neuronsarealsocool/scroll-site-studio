@@ -71,3 +71,7 @@ includes file sizes and SHA-256 hashes. Local manifest: `assets/manifests/alpine
 | asset-17 | full reference | [Open asset](https://lapis-slate-xvar.here.now/library/alpine-editorial/media/0eaac747e4c945.png) |
 | asset-18 | gallery photograph 18 | [Open asset](https://lapis-slate-xvar.here.now/library/alpine-editorial/media/93b07aa9b2164f.webp) |
 | asset-19 | page composition reference | [Open asset](https://lapis-slate-xvar.here.now/library/alpine-editorial/media/61db43def20946.png) |
+
+## YouTube reference
+
+[Watch on YouTube](https://www.youtube.com/watch?v=EVd577396Es)

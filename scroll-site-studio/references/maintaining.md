@@ -59,8 +59,13 @@ names and approved copies hosted at the user's chosen asset destination. For thi
 library the current destination is `https://lapis-slate-xvar.here.now/library/`.
 Other recipients must choose a destination they control; this is not a shared
 upload account. Put the hosted URLs directly into working prompts and manifests.
-Do not publish tutorial/creator links, optional credits, referral URLs, original
-filenames or private backup addresses in these working packs. Retain functional
+Include known associated YouTube videos as clearly labelled YouTube references in
+each pack’s catalog, working prompt and library page. Preserve those links in
+copied/downloaded prompts and private backups, including for future packs. Use
+links supplied or verified for that pack; do not invent an association or add a
+generic channel link. Do not download/rehost video media merely to add a link.
+Omit other optional creator credits, referral URLs, original filenames and private
+backup addresses unless requested. Retain functional
 provider instructions and legally required copyright/license/third-party notices.
 Never remove watermarks or misrepresent authorship, rights or generation provenance.
 

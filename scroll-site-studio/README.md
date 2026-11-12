@@ -1,4 +1,4 @@
-# Scroll Site Studio 0.4.4
+# Scroll Site Studio 0.4.5
 
 A portable high-end website skill and template library for Codex or Claude Code. Scroll effects are optional. Built from the
 Alder & Form workflow, with complete Scroll World, Scroll Craft and Replicate Media

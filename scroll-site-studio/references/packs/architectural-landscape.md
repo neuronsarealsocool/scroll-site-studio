@@ -80,3 +80,7 @@ includes file sizes and SHA-256 hashes. Local manifest: `assets/manifests/archit
 | asset-13 | violet landscape continuation two | [Open asset](https://lapis-slate-xvar.here.now/library/architectural-landscape/media/6926fbdb9b8449.png) |
 | asset-14 | violet left continuation | [Open asset](https://lapis-slate-xvar.here.now/library/architectural-landscape/media/738bfec26aa540.png) |
 | asset-15 | violet landscape continuation three | [Open asset](https://lapis-slate-xvar.here.now/library/architectural-landscape/media/f429b9ec21a340.png) |
+
+## YouTube reference
+
+[Watch on YouTube](https://www.youtube.com/watch?v=bpF7Df-GDEQ)

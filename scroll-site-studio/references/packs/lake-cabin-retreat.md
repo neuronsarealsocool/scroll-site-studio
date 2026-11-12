@@ -54,3 +54,7 @@ This is the complete public working specification for this pack, independently w
 ## Live website reference
 
 [View the lake cabin website](https://www.thebreadcrumb.co/resources/vesper-built/view/Vesper.dc.html). This is the live example supplied for this pack. The property media remains a generation/supply brief; linking the example does not bundle or approve new media.
+
+## YouTube reference
+
+[Watch on YouTube](https://www.youtube.com/watch?v=GJxchJkk4Lk)

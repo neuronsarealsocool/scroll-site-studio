@@ -11,7 +11,7 @@ Claude Code**, and growing a library of templates and design references over tim
 
 ## Install
 
-Download and extract the [v0.4.4 release](https://github.com/neuronsarealsocool/scroll-site-studio/releases/tag/v0.4.4),
+Download and extract the [v0.4.5 release](https://github.com/neuronsarealsocool/scroll-site-studio/releases/tag/v0.4.5),
 then open a terminal inside the extracted `scroll-site-studio` folder. With Python 3.10+:
 
 ```text

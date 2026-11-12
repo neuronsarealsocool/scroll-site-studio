@@ -75,3 +75,7 @@ includes file sizes and SHA-256 hashes. Local manifest: `assets/manifests/coffee
 | asset-13 | 01-caramel-cloud | [Open asset](https://lapis-slate-xvar.here.now/library/coffee-product-carousel/media/1a3a5c869b0243.png) |
 | asset-14 | ingredients-counter | [Open asset](https://lapis-slate-xvar.here.now/library/coffee-product-carousel/media/375cd68a5a0a42.jpg) |
 | asset-15 | hero composition reference | [Open asset](https://lapis-slate-xvar.here.now/library/coffee-product-carousel/media/c24d8234b6bd47.png) |
+
+## YouTube reference
+
+[Watch on YouTube](https://www.youtube.com/watch?v=lKQIOiDN2ME)

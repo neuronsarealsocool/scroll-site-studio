@@ -98,3 +98,7 @@ includes file sizes and SHA-256 hashes. Local manifest: `assets/manifests/cinema
 | ID | Role | File |
 | --- | --- | --- |
 | asset-01 | small transparent product reference | [Open asset](https://lapis-slate-xvar.here.now/library/cinematic-site-workflow/media/3d806d062e1143.png) |
+
+## YouTube reference
+
+[Watch on YouTube](https://www.youtube.com/watch?v=dn6MDl86fRY)

@@ -87,3 +87,7 @@ includes file sizes and SHA-256 hashes. Local manifest: `assets/manifests/deskto
 | ID | Role | File |
 | --- | --- | --- |
 | asset-01 | layout planning placeholder | [Open asset](https://lapis-slate-xvar.here.now/library/desktop-mobile-workflow/media/0109cd52e5fb42.svg) |
+
+## YouTube reference
+
+[Watch on YouTube](https://www.youtube.com/watch?v=h2MjhbwVKLk)

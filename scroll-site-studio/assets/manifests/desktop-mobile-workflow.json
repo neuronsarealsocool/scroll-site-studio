@@ -1,12 +1,12 @@
 {
-  "title": "Desktop and mobile workflow",
+  "title": "The Visual Story Method - Incomplete Prompt - Watch YouTube Video First",
   "assets": [
     {
       "id": "asset-01",
-      "role": "layout planning placeholder",
-      "url": "https://lapis-slate-xvar.here.now/library/desktop-mobile-workflow/media/0109cd52e5fb42.svg",
-      "bytes": 751,
-      "sha256": "b312990faacfd0208880b80ab3c1656aade4f1efa4a707644b162e648fcb7b7f"
+      "role": "method reference image",
+      "url": "https://lapis-slate-xvar.here.now/library/desktop-mobile-workflow/media/4eadb38b5ee20b.png",
+      "bytes": 1144774,
+      "sha256": "4eadb38b5ee20b1c91c47d05a290b0cc6fe6dc11d60ec4885283fad13f26838b"
     }
   ]
 }

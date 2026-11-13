@@ -1,4 +1,4 @@
-# Scroll Site Studio 0.4.5
+# Scroll Site Studio 0.4.6
 
 A portable high-end website skill and template library for Codex or Claude Code. Scroll effects are optional. Built from the
 Alder & Form workflow, with complete Scroll World, Scroll Craft and Replicate Media
@@ -106,7 +106,7 @@ optional. New media defaults to Replicate and still requires in-chat approval.
 - [Orbital portal experience](references/packs/orbital-portals.md): 6 media files.
 - [Electric vehicle explorer](references/packs/electric-vehicle-explorer.md): 20 media files.
 - [Cinematic site workflow](references/packs/cinematic-site-workflow.md): 1 media files.
-- [Desktop and mobile workflow](references/packs/desktop-mobile-workflow.md): 1 media files.
+- [The Visual Story Method - Incomplete Prompt - Watch YouTube Video First](references/packs/desktop-mobile-workflow.md): 1 media files.
 - [Tower and room tours](references/packs/tower-room-tours.md): 12 media files.
 
 [Browse the hosted library](https://lapis-slate-xvar.here.now/library/browse.html). The release includes working prompts,

@@ -1,5 +1,11 @@
 # Changes
 
+## 0.4.6 — 13 November 2026
+
+- Renamed the desktop/mobile workflow to The Visual Story Method - Incomplete Prompt - Watch YouTube Video First.
+- Replaced its planning placeholder with the owner-supplied reference photo and its related-site link with the supplied GitHub repository.
+- Kept the associated YouTube reference and made the incomplete/watch-first status explicit. Pack and media counts remain 15 and 156.
+
 ## 0.4.5 — 12 November 2026
 
 - Restored associated YouTube reference links for six packs in their catalog entries, complete prompts and library pages.

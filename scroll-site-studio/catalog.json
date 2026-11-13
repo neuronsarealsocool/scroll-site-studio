@@ -238,8 +238,8 @@
     },
     {
       "id": "desktop-mobile-workflow",
-      "title": "Desktop and mobile workflow",
-      "description": "Build a high-end responsive website around the actual business and visitor action. Use the following planning and implementation method within the chosen project.",
+      "title": "The Visual Story Method - Incomplete Prompt - Watch YouTube Video First",
+      "description": "Incomplete prompt. Watch the YouTube video first, then use the linked GitHub repository and this working outline together.",
       "index": "references/packs/desktop-mobile-workflow.md",
       "use_modes": [
         "verbatim",
@@ -260,6 +260,10 @@
           "type": "youtube",
           "url": "https://www.youtube.com/watch?v=h2MjhbwVKLk",
           "label": "Watch on YouTube"
+        },
+        {
+          "type": "repository",
+          "url": "https://github.com/Barty-Bart/gpt-6-astra-10k-websites"
         }
       ],
       "media_publication_approval": "required in chat for new/selected media; explicit approval persists for unchanged assets",
@@ -268,7 +272,8 @@
       "provider": "Replicate for new generated media",
       "media_count": 1,
       "asset_manifest": "assets/manifests/desktop-mobile-workflow.json",
-      "asset_base_url": "https://lapis-slate-xvar.here.now/library/desktop-mobile-workflow/media/"
+      "asset_base_url": "https://lapis-slate-xvar.here.now/library/desktop-mobile-workflow/media/",
+      "prompt_status": "Incomplete prompt. Watch the YouTube video first, then use the linked GitHub repository and this working outline together."
     },
     {
       "id": "tower-room-tours",

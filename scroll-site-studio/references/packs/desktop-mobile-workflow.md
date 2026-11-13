@@ -1,4 +1,6 @@
-# Desktop and mobile workflow
+# The Visual Story Method - Incomplete Prompt - Watch YouTube Video First
+
+**Incomplete prompt — watch the YouTube video first.** This pack is a partial working outline, not a complete reproduction of the tutorial. [Watch on YouTube](https://www.youtube.com/watch?v=h2MjhbwVKLk) before using it, then consult the [GitHub repository](https://github.com/Barty-Bart/gpt-6-astra-10k-websites).
 
 Build a high-end responsive website around the actual business and visitor action.
 Use the following planning and implementation method within the chosen project.
@@ -56,7 +58,7 @@ measured asset sizes separately from loading-speed measurements. Compilation alo
 does not verify visual quality, animation pacing or physical-phone behaviour.
 Publish only within the authorized audience and after media approval.
 
-The single SVG is a layout-planning placeholder. No production imagery, footage, finished website or brand kit is supplied.
+The supplied reference image illustrates the method. It is the owner-provided preview image, not a production asset kit or a completed project. No website footage, finished website or brand kit is bundled.
 
 ## Project rules
 
@@ -86,8 +88,12 @@ includes file sizes and SHA-256 hashes. Local manifest: `assets/manifests/deskto
 
 | ID | Role | File |
 | --- | --- | --- |
-| asset-01 | layout planning placeholder | [Open asset](https://lapis-slate-xvar.here.now/library/desktop-mobile-workflow/media/0109cd52e5fb42.svg) |
+| asset-01 | method reference image | [Open reference image](https://lapis-slate-xvar.here.now/library/desktop-mobile-workflow/media/4eadb38b5ee20b.png) |
 
 ## YouTube reference
 
 [Watch on YouTube](https://www.youtube.com/watch?v=h2MjhbwVKLk)
+
+## Repository reference
+
+[View GitHub repository](https://github.com/Barty-Bart/gpt-6-astra-10k-websites). Use the repository together with the associated YouTube video; the prompt in this pack remains incomplete.

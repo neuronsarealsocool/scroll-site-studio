@@ -1,5 +1,10 @@
 # Changes
 
+## 0.4.8 — 13 November 2026
+
+- Kept the Incomplete Prompt / Watch YouTube Video First labels only in the two pack titles; restored ordinary descriptions and clean working prompts.
+- Lake hero thumbnails now play automatically while visible, stay muted, pause offscreen and respect reduced motion. Approved media and reference links remain unchanged.
+
 ## 0.4.7 — 13 November 2026
 
 - Renamed the lake cabin pack with the Incomplete Prompt - Watch YouTube Video First warning, preserving its website and YouTube links.

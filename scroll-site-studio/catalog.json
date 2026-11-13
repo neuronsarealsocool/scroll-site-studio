@@ -239,7 +239,7 @@
     {
       "id": "desktop-mobile-workflow",
       "title": "The Visual Story Method - Incomplete Prompt - Watch YouTube Video First",
-      "description": "Incomplete prompt. Watch the YouTube video first, then use the linked GitHub repository and this working outline together.",
+      "description": "One coherent experience. Every screen considered.",
       "index": "references/packs/desktop-mobile-workflow.md",
       "use_modes": [
         "verbatim",
@@ -272,8 +272,7 @@
       "provider": "Replicate for new generated media",
       "media_count": 1,
       "asset_manifest": "assets/manifests/desktop-mobile-workflow.json",
-      "asset_base_url": "https://lapis-slate-xvar.here.now/library/desktop-mobile-workflow/media/",
-      "prompt_status": "Incomplete prompt. Watch the YouTube video first, then use the linked GitHub repository and this working outline together."
+      "asset_base_url": "https://lapis-slate-xvar.here.now/library/desktop-mobile-workflow/media/"
     },
     {
       "id": "tower-room-tours",
@@ -307,7 +306,7 @@
     {
       "id": "lake-cabin-retreat",
       "title": "Lake cabin retreat - Incomplete Prompt - Watch YouTube Video First",
-      "description": "Incomplete prompt. Watch the YouTube video first.",
+      "description": "A private lakeside stay, with an optional connected camera flight.",
       "index": "references/packs/lake-cabin-retreat.md",
       "use_modes": [
         "verbatim",
@@ -341,8 +340,7 @@
       "media_count": 2,
       "asset_manifest": "assets/manifests/lake-cabin-retreat.json",
       "asset_base_url": "https://lapis-slate-xvar.here.now/library/lake-cabin-retreat/media/",
-      "media_status": "Approved five-second hero loop and first-frame poster only. Interior imagery and a full connected walkthrough are not included.",
-      "prompt_status": "Incomplete prompt. Watch the YouTube video first, then use the linked lake cabin website and this working outline together."
+      "media_status": "Approved five-second hero loop and first-frame poster only. Interior imagery and a full connected walkthrough are not included."
     },
     {
       "id": "private-aviation-journey",

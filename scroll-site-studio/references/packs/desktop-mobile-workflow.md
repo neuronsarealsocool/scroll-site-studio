@@ -1,6 +1,4 @@
-# The Visual Story Method - Incomplete Prompt - Watch YouTube Video First
-
-**Incomplete prompt — watch the YouTube video first.** This pack is a partial working outline, not a complete reproduction of the tutorial. [Watch on YouTube](https://www.youtube.com/watch?v=h2MjhbwVKLk) before using it, then consult the [GitHub repository](https://github.com/Barty-Bart/gpt-6-astra-10k-websites).
+# The Visual Story Method
 
 Build a high-end responsive website around the actual business and visitor action.
 Use the following planning and implementation method within the chosen project.
@@ -96,4 +94,4 @@ includes file sizes and SHA-256 hashes. Local manifest: `assets/manifests/deskto
 
 ## Repository reference
 
-[View GitHub repository](https://github.com/Barty-Bart/gpt-6-astra-10k-websites). Use the repository together with the associated YouTube video; the prompt in this pack remains incomplete.
+[View GitHub repository](https://github.com/Barty-Bart/gpt-6-astra-10k-websites). Desktop build and mobile refinement prompts for The Visual Story Method.

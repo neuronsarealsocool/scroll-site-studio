@@ -1,8 +1,6 @@
-# Lake cabin retreat - Incomplete Prompt - Watch YouTube Video First
+# Lake cabin retreat
 
-**Incomplete prompt — watch the YouTube video first.** [Watch on YouTube](https://www.youtube.com/watch?v=GJxchJkk4Lk) and review the [lake cabin website](https://www.thebreadcrumb.co/resources/vesper-built/view/Vesper.dc.html) before using this partial working outline.
-
-Use this incomplete reference outline to plan a responsive marketing and booking website for a private whole-home cabin beside a quiet mountain lake. The reference brief has three usable stages: build the hospitality page; optionally replace its hero with a connected camera flight; or integrate that flight into an existing approved page. Agree which stage applies. Keep the chosen project stack; WordPress is optional. Use the prompt directly, adapt the brand and setting, or combine selected sections with another reference.
+Create a complete responsive marketing and booking website for a private whole-home cabin beside a quiet mountain lake. The reference brief has three usable stages: build the hospitality page; optionally replace its hero with a connected camera flight; or integrate that flight into an existing approved page. Agree which stage applies. Keep the chosen project stack; WordPress is optional. Use the prompt directly, adapt the brand and setting, or combine selected sections with another reference.
 
 ## Art direction and content
 

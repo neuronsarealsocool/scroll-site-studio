@@ -1,5 +1,11 @@
 # Changes
 
+## 0.4.7 — 13 November 2026
+
+- Renamed the lake cabin pack with the Incomplete Prompt - Watch YouTube Video First warning, preserving its website and YouTube links.
+- Added the owner-approved five-second hero loop and first-frame poster as the pack’s preview media.
+- Browser video is a silent H.264 1080p delivery copy of the original 4K source, preserving its full composition. Current hosted media/support count is 158 across 15 packs.
+
 ## 0.4.6 — 13 November 2026
 
 - Renamed the desktop/mobile workflow to The Visual Story Method - Incomplete Prompt - Watch YouTube Video First.

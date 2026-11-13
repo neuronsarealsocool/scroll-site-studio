@@ -14,7 +14,7 @@ Use an illustrative nightly rate of $540, two-night minimum and a separately con
 
 ## Media brief
 
-This pack includes the approved five-second hero loop and first-frame poster. The remaining property imagery and any full connected walkthrough still need owner-supplied or generated assets. Obtain approved owner photography or generate a coherent set with Replicate after confirming model, aspect ratios, resolution and budget. Show every new result in chat and obtain publication approval before hosting it. Do not substitute another provider automatically.
+This pack preserves the image and film requirements; it does not contain finished cabin imagery. Obtain approved owner photography or generate a coherent set with Replicate after confirming model, aspect ratios, resolution and budget. Show every new result in chat and obtain publication approval before hosting it. Do not substitute another provider automatically.
 
 - Exterior hero, 16:9: straight-on front, cabin low and centred, land connection at left, blue-hour mist over water, amber windows, chimney smoke and open sky for the wordmark.
 - Great room, 4:5: double-height glazing, wood stove, low linen sofa and soft lamplight.
@@ -45,15 +45,7 @@ Compose a separate phone layout and portrait film only if approved; a crop is no
 
 ## Hosted asset map
 
-[Machine-readable asset manifest](https://lapis-slate-xvar.here.now/library/lake-cabin-retreat/assets.json). Approved five-second hero loop and first-frame poster only. Interior imagery and a full connected walkthrough are not included.
-
-| ID | Role | File |
-|---|---|---|
-| asset-01 | lake hero loop | [Open asset](https://lapis-slate-xvar.here.now/library/lake-cabin-retreat/media/a7fbc22c28bd68.mp4) |
-| asset-02 | lake hero poster | [Open asset](https://lapis-slate-xvar.here.now/library/lake-cabin-retreat/media/a8457947339765.jpg) |
-
-The loop is a silent 1920×1080 H.264 browser-delivery copy of the approved 3840×2160 source, preserving the full 16:9 composition and approximately 5.04-second duration. Use the poster for loading and reduced motion. This is a landscape preview, not a separately generated portrait sequence.
-
+Prompt-only: property media is a generation/supply brief, not a bundled asset set.
 
 ## Reuse and scope
 

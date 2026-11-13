@@ -1,20 +1,5 @@
 {
-  "title": "Lake cabin retreat - Incomplete Prompt - Watch YouTube Video First",
-  "assets": [
-    {
-      "id": "asset-01",
-      "role": "lake hero loop",
-      "url": "https://lapis-slate-xvar.here.now/library/lake-cabin-retreat/media/a7fbc22c28bd68.mp4",
-      "bytes": 2215955,
-      "sha256": "a7fbc22c28bd68962b6c301416b8846b805b59feb9f7566007b5408109f35cc2"
-    },
-    {
-      "id": "asset-02",
-      "role": "lake hero poster",
-      "url": "https://lapis-slate-xvar.here.now/library/lake-cabin-retreat/media/a8457947339765.jpg",
-      "bytes": 1014583,
-      "sha256": "a84579473397657d9c25f4a515cc1a1c14bf26ee544127f47c556f9d1f38b290"
-    }
-  ],
-  "media_status": "Approved five-second hero loop and first-frame poster only. Interior imagery and a full connected walkthrough are not included."
+  "title": "Lake cabin retreat",
+  "assets": [],
+  "media_status": "Prompt-only: property media is a generation/supply brief, not a bundled asset set."
 }

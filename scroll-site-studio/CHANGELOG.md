@@ -1,5 +1,11 @@
 # Changes
 
+## 0.4.9 — 14 November 2026
+
+- Restored Lake cabin retreat’s original title, description, working prompt and static illustrated preview.
+- Removed its added hero clip and poster from the active pack and asset host, preserving the private original backup.
+- Kept its website and YouTube references. Current library: 15 packs and 156 hosted media/support files.
+
 ## 0.4.8 — 13 November 2026
 
 - Kept the Incomplete Prompt / Watch YouTube Video First labels only in the two pack titles; restored ordinary descriptions and clean working prompts.

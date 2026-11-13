@@ -305,7 +305,7 @@
     },
     {
       "id": "lake-cabin-retreat",
-      "title": "Lake cabin retreat - Incomplete Prompt - Watch YouTube Video First",
+      "title": "Lake cabin retreat",
       "description": "A private lakeside stay, with an optional connected camera flight.",
       "index": "references/packs/lake-cabin-retreat.md",
       "use_modes": [
@@ -337,10 +337,10 @@
       "platform_default": "existing or user-selected stack; otherwise a suitable responsive frontend",
       "wordpress": "optional",
       "provider": "Replicate for new generated media",
-      "media_count": 2,
+      "media_count": 0,
       "asset_manifest": "assets/manifests/lake-cabin-retreat.json",
       "asset_base_url": "https://lapis-slate-xvar.here.now/library/lake-cabin-retreat/media/",
-      "media_status": "Approved five-second hero loop and first-frame poster only. Interior imagery and a full connected walkthrough are not included."
+      "media_status": "Prompt-only: property media is a generation/supply brief, not a bundled asset set."
     },
     {
       "id": "private-aviation-journey",

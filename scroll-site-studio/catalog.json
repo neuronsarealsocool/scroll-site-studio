@@ -454,7 +454,7 @@
       "platform_default": "existing or user-selected stack; otherwise a suitable responsive frontend",
       "wordpress": "optional",
       "provider": "Replicate for new generated media",
-      "media_count": 3,
+      "media_count": 5,
       "asset_manifest": "assets/manifests/point-cloud-companion.json",
       "asset_base_url": "https://lapis-slate-xvar.here.now/library/point-cloud-companion/media/",
       "license_notice": "licenses/point-cloud-companion.txt"

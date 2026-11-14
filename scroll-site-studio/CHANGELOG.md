@@ -1,5 +1,11 @@
 # Changes
 
+## 0.4.12 — 14 November 2026
+
+- Added the supplied Point-cloud companion preview video and its first-frame poster to the hosted asset map.
+- Library card and detail previews loop silently while visible, pause offscreen or in hidden tabs, and keep a still for reduced motion.
+- Retained existing point-cloud geometry, gallery assets and required notices. Current library: 15 packs and 159 media/support files.
+
 ## 0.4.11 — 14 November 2026
 
 - Renamed the Visual Story Method pack to “The Visual Story Method - Not Actually A Website - Watch YouTube Video First”.

@@ -21,6 +21,20 @@
       "url": "https://lapis-slate-xvar.here.now/library/point-cloud-companion/media/0efcd6f363c852.pcd",
       "bytes": 721096,
       "sha256": "0efcd6f363c852571e00cfca44fbd2e760df31b9bccb754d2dc27ba225d998ab"
+    },
+    {
+      "id": "reference-preview-loop",
+      "role": "reference preview loop",
+      "url": "https://lapis-slate-xvar.here.now/library/point-cloud-companion/media/411ddff143bbe1.mp4",
+      "bytes": 4023392,
+      "sha256": "411ddff143bbe134bdc15f0cf2fa696413d51c691e7c0d8b6509b39c83be530e"
+    },
+    {
+      "id": "reference-preview-poster",
+      "role": "reference preview poster",
+      "url": "https://lapis-slate-xvar.here.now/library/point-cloud-companion/media/16d04525efd0ca.jpg",
+      "bytes": 99111,
+      "sha256": "16d04525efd0ca910ac55404dcbaee83925321abd5eb184a1c3cdf8f1a8c6333"
     }
   ],
   "license_url": "https://lapis-slate-xvar.here.now/library/point-cloud-companion/notices.txt"

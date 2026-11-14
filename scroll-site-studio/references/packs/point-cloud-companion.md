@@ -223,6 +223,9 @@ Keep source documents privately as recovery material where redistribution terms 
 | asset-02 | places gallery | [places gallery](https://lapis-slate-xvar.here.now/library/point-cloud-companion/media/9101dd00cbe3b4.webp) |
 | asset-03 | head and shoulders point-cloud geometry (59750 points) | [head and shoulders point-cloud geometry (59750 points)](https://lapis-slate-xvar.here.now/library/point-cloud-companion/media/0efcd6f363c852.pcd) |
 
+| reference-preview-loop | reference preview loop | [reference preview loop](https://lapis-slate-xvar.here.now/library/point-cloud-companion/media/411ddff143bbe1.mp4) |
+| reference-preview-poster | reference preview poster | [reference preview poster](https://lapis-slate-xvar.here.now/library/point-cloud-companion/media/16d04525efd0ca.jpg) |
+
 Keep the [required geometry notice](https://lapis-slate-xvar.here.now/library/point-cloud-companion/notices.txt) with distributed copies. The two gallery images and exact model were approved in chat for this pack. New or changed media still requires approval.
 
 ## Implementation notes
@@ -230,3 +233,8 @@ Keep the [required geometry notice](https://lapis-slate-xvar.here.now/library/po
 The public example uses ION OS branding while retaining the supplied composition, data and motion. Status navigation targets the framed section. Account/waitlist actions open honest preview dialogs; there is no authentication, signup collection or personal-memory backend. Chart tabs support arrow keys, Home and End. Missing WebGL leaves normal readable page content. These usability repairs do not claim an implemented operating system or backend.
 
 On phones, the example allows a 2.5-viewport-width bust fit instead of the desktop 1.3 limit, so the head stays large while shoulders crop naturally. The framed headline is18px within46vw. Floating photographs use30vw/27vw widths, the toolbar omits desktop shortcut keycaps, the small chart stays within33vw, and composer/toast positions are composed for the narrow viewport. Desktop camera, shader, spring and scroll constants remain those specified above.
+
+
+## Library preview video
+
+The supplied seven-second reference clip plays silently in a loop in the library card and detail preview while visible. Its first frame is the still fallback for reduced motion or failed playback. This clip is reference media for the pack, not a replacement for the interactive point-cloud implementation described above. Retain the geometry notice with the model.

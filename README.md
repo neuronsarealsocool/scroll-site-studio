@@ -11,7 +11,7 @@ Claude Code**, and growing a library of templates and design references over tim
 
 ## Install
 
-Download and extract the [v0.4.12 release](https://github.com/neuronsarealsocool/scroll-site-studio/releases/tag/v0.4.12),
+Download and extract the [v0.4.13 release](https://github.com/neuronsarealsocool/scroll-site-studio/releases/tag/v0.4.13),
 then open a terminal inside the extracted `scroll-site-studio` folder. With Python 3.10+:
 
 ```text
@@ -113,7 +113,7 @@ independent of OpenAI, Anthropic, Replicate and the upstream skill authors.
 - [Architectural landscape journey](scroll-site-studio/references/packs/architectural-landscape.md): 15 media files.
 - [Orbital portal experience](scroll-site-studio/references/packs/orbital-portals.md): 6 media files.
 - [Electric vehicle explorer](scroll-site-studio/references/packs/electric-vehicle-explorer.md): 20 media files.
-- [Cinematic site workflow](scroll-site-studio/references/packs/cinematic-site-workflow.md): 1 media files.
+- [Kopi Coffee - A Site Made By Giving Codex This YouTube Video Link](scroll-site-studio/references/packs/cinematic-site-workflow.md): 1 media files.
 - [The Visual Story Method - Not Actually A Website - Watch YouTube Video First](scroll-site-studio/references/packs/desktop-mobile-workflow.md): 1 media files.
 - [Tower and room tours](scroll-site-studio/references/packs/tower-room-tours.md): 12 media files.
 

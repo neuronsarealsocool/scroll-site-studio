@@ -1,5 +1,10 @@
 # Changes
 
+## 0.4.13 — 14 November 2026
+
+- Renamed the cinematic-site workflow pack to “Kopi Coffee - A Site Made By Giving Codex This YouTube Video Link”.
+- Updated catalog and asset-map titles while retaining the working prompt, description, approved media and links.
+
 ## 0.4.12 — 14 November 2026
 
 - Added the supplied Point-cloud companion preview video and its first-frame poster to the hosted asset map.

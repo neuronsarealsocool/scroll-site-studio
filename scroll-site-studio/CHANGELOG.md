@@ -1,5 +1,10 @@
 # Changes
 
+## 0.4.11 — 14 November 2026
+
+- Renamed the Visual Story Method pack to “The Visual Story Method - Not Actually A Website - Watch YouTube Video First”.
+- Updated catalog and asset-map titles; retained the working prompt, description, media and links.
+
 ## 0.4.10 — 14 November 2026
 
 - Corrected the architecture pack to Alder & Form, with its requested title, description and live website link.

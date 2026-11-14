@@ -1,4 +1,4 @@
-# Lake cabin retreat
+# Alder & Form
 
 Create a complete responsive marketing and booking website for a private whole-home cabin beside a quiet mountain lake. The reference brief has three usable stages: build the hospitality page; optionally replace its hero with a connected camera flight; or integrate that flight into an existing approved page. Agree which stage applies. Keep the chosen project stack; WordPress is optional. Use the prompt directly, adapt the brand and setting, or combine selected sections with another reference.
 
@@ -45,7 +45,7 @@ Compose a separate phone layout and portrait film only if approved; a crop is no
 
 ## Hosted asset map
 
-Prompt-only: property media is a generation/supply brief, not a bundled asset set.
+Approved live-site screenshot: [View the Alder & Form screenshot](https://lapis-slate-xvar.here.now/library/lake-cabin-retreat/media/ec9d5784faf096.png). This is a design reference, not a complete set of property media; obtain or generate the remaining media through the approval workflow above.
 
 ## Reuse and scope
 
@@ -53,7 +53,7 @@ This is the complete public working specification for this pack, independently w
 
 ## Live website reference
 
-[View the lake cabin website](https://www.thebreadcrumb.co/resources/vesper-built/view/Vesper.dc.html). This is the live example supplied for this pack. The property media remains a generation/supply brief; linking the example does not bundle or approve new media.
+[View the Alder & Form website](https://alder-and-form.neuronsarealsocool.chatgpt.site/). This is the Alder & Form site built with Codex from the associated YouTube reference. The approved screenshot is linked in the asset map; the remaining media requirements are a generation/supply brief.
 
 ## YouTube reference
 

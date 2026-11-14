@@ -1,5 +1,11 @@
 # Changes
 
+## 0.4.10 — 14 November 2026
+
+- Corrected the architecture pack to Alder & Form, with its requested title, description and live website link.
+- Added the approved static screenshot for card and detail previews; no video is included.
+- Preserved its associated YouTube reference and stable pack ID. Current library: 15 packs and 157 hosted media/support files.
+
 ## 0.4.9 — 14 November 2026
 
 - Restored Lake cabin retreat’s original title, description, working prompt and static illustrated preview.

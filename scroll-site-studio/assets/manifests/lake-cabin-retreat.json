@@ -1,5 +1,13 @@
 {
-  "title": "Lake cabin retreat",
-  "assets": [],
-  "media_status": "Prompt-only: property media is a generation/supply brief, not a bundled asset set."
+  "title": "Alder & Form - A Site Made By Giving Codex This YouTube Video Link",
+  "assets": [
+    {
+      "id": "site-screenshot",
+      "role": "site screenshot",
+      "url": "https://lapis-slate-xvar.here.now/library/lake-cabin-retreat/media/ec9d5784faf096.png",
+      "bytes": 131396,
+      "sha256": "ec9d5784faf096ac60ce02ddea8a9228462e5ad3ca75b9e2345d883cc7d6cc7a"
+    }
+  ],
+  "media_status": "Includes an approved screenshot of the live Alder & Form site. Other property media remains a generation/supply brief."
 }

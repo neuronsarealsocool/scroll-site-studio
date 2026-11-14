@@ -305,8 +305,8 @@
     },
     {
       "id": "lake-cabin-retreat",
-      "title": "Lake cabin retreat",
-      "description": "A private lakeside stay, with an optional connected camera flight.",
+      "title": "Alder & Form - A Site Made By Giving Codex This YouTube Video Link",
+      "description": "A cinematic architectural website built with Codex from a YouTube video reference.",
       "index": "references/packs/lake-cabin-retreat.md",
       "use_modes": [
         "verbatim",
@@ -325,7 +325,7 @@
         },
         {
           "type": "live-example",
-          "url": "https://www.thebreadcrumb.co/resources/vesper-built/view/Vesper.dc.html"
+          "url": "https://alder-and-form.neuronsarealsocool.chatgpt.site/"
         },
         {
           "type": "youtube",
@@ -337,10 +337,10 @@
       "platform_default": "existing or user-selected stack; otherwise a suitable responsive frontend",
       "wordpress": "optional",
       "provider": "Replicate for new generated media",
-      "media_count": 0,
+      "media_count": 1,
       "asset_manifest": "assets/manifests/lake-cabin-retreat.json",
       "asset_base_url": "https://lapis-slate-xvar.here.now/library/lake-cabin-retreat/media/",
-      "media_status": "Prompt-only: property media is a generation/supply brief, not a bundled asset set."
+      "media_status": "Includes an approved screenshot of the live Alder & Form site. Other property media remains a generation/supply brief."
     },
     {
       "id": "private-aviation-journey",
